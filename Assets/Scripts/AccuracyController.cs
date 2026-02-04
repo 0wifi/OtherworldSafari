@@ -1,24 +1,12 @@
-using NUnit.Framework;
 using System;
 using UnityEngine;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEditor;
 
-public class AcuraccyController : MonoBehaviour
+public class AccuracyController : MonoBehaviour
 {
     [SerializeField] private List<AccuracyRing> AccuracyRings;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     private void OnDrawGizmos()
     {
@@ -34,6 +22,7 @@ public class AcuraccyController : MonoBehaviour
 public class AccuracyRing
 {
     public Rect rect;
+    [Range(0,1)]
     public float pointValuePercentage;
 }
 
