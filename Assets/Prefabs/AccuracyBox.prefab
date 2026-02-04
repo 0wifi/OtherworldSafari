@@ -44,25 +44,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c37918adabb4484491ea7c05f24b94e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AcuraccyController
+  testPos: {fileID: 0}
   AccuracyRings:
   - rect:
       serializedVersion: 2
-      x: 0
-      y: 0
+      x: -0.8
+      y: -0.45
       width: 1.6
       height: 0.9
     pointValuePercentage: 1
   - rect:
       serializedVersion: 2
-      x: 0
-      y: 0
+      x: -1.35
+      y: -0.9
       width: 2.7
       height: 1.8
     pointValuePercentage: 0.75
   - rect:
       serializedVersion: 2
-      x: 0
-      y: 0
+      x: -1.95
+      y: -1.35
       width: 3.9
       height: 2.7
     pointValuePercentage: 0.5
