@@ -63,12 +63,14 @@ public class PlayerControls : MonoBehaviour
 
     private void TakePicture(AccuracyController selectedBox)
     {
+        bool hasHitAnimal = false;
         foreach (AnimalController a in animals)
         {
             float p = selectedBox.GetValuePercentage(a.targetPoint.position);
             int points = (int)(p * a.pointValue);
             if (p > 0)
             {
+                hasHitAnimal = true;
                 //spawn scoretext object
                 GameObject canvas = GameObject.FindFirstObjectByType<Canvas>().gameObject;
                 GameObject instance = Instantiate(pointsScoredTextPrefab, Camera.main.WorldToScreenPoint(a.targetPoint.position), Quaternion.identity, canvas.transform);
@@ -81,13 +83,20 @@ public class PlayerControls : MonoBehaviour
         }
 
         //TODO: PLAY CAMERA SOUND EFFECT
-        audioManager.PlayRandomOfList(audioManager.CameraSounds, selectedBox.transform, true);
+        if (hasHitAnimal)
+        {
+            audioManager.PlayRandomOfList(audioManager.CameraSounds, selectedBox.transform, true);
+        }
+        else
+        {
+            audioManager.PlaySound(audioManager.CameraMiss, selectedBox.transform, true);
+        }
 
-        //TODO: SHOW CAMERA VISUAL EFFECT
-        //TODO: START COOLDOWN(?)
-    }
+            //TODO: SHOW CAMERA VISUAL EFFECT
+            //TODO: START COOLDOWN(?)
+        }
 
-     
+
     #region Inputs
     private void BottomRight_started(InputAction.CallbackContext obj)
     {
