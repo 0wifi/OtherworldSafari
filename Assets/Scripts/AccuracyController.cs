@@ -13,8 +13,6 @@ public class AccuracyController : MonoBehaviour
 
     [SerializeField] private List<AccuracyRing> AccuracyRings;
 
-    private AnimationCurve curve;
-
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.white;

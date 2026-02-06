@@ -66,18 +66,23 @@ public class PlayerControls : MonoBehaviour
             int points = (int)(p * a.pointValue);
             if (p > 0)
             {
+                //spawn scoretext object
                 GameObject canvas = GameObject.FindFirstObjectByType<Canvas>().gameObject;
                 GameObject instance = Instantiate(pointsScoredTextPrefab, Camera.main.WorldToScreenPoint(a.targetPoint.position), Quaternion.identity, canvas.transform);
                 instance.GetComponent<TMP_Text>().text = points.ToString();
 
                 Debug.Log("Points: " + points);
+
+                //TODO: PASS SCORE TO A GAME SCORE SYSTEM
             }
-            
-            
         }
+
+        //TODO: PLAY CAMERA SOUND EFFECT
+        //TODO: SHOW CAMERA VISUAL EFFECT
+        //TODO: START COOLDOWN(?)
     }
 
-
+     
     #region Inputs
     private void BottomRight_started(InputAction.CallbackContext obj)
     {
