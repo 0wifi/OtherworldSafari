@@ -20,13 +20,16 @@ public class PlayerControls : MonoBehaviour
 
     [SerializeField] private AccuracyManager accuracyManager;
 
+    [SerializeField] private AudioManager audioManager;
+
     [SerializeField] private List<AnimalController> animals;
 
     [SerializeField] private GameObject pointsScoredTextPrefab;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
-    {
+    { 
+
         if (TryGetComponent<PlayerInput>(out playerInput))
         {
             playerInput.currentActionMap.Enable();
@@ -78,6 +81,8 @@ public class PlayerControls : MonoBehaviour
         }
 
         //TODO: PLAY CAMERA SOUND EFFECT
+        audioManager.PlayRandomOfList(audioManager.CameraSounds, selectedBox.transform, true);
+
         //TODO: SHOW CAMERA VISUAL EFFECT
         //TODO: START COOLDOWN(?)
     }
