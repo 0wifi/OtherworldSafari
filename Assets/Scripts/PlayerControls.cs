@@ -18,6 +18,8 @@ public class PlayerControls : MonoBehaviour
     private InputAction bottomMiddle;
     private InputAction bottomRight;
 
+    private ScoreManager scoreManager;
+
     [SerializeField] private AccuracyManager accuracyManager;
 
     [SerializeField] private AudioManager audioManager;
@@ -29,6 +31,7 @@ public class PlayerControls : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     { 
+        scoreManager = GameObject.FindFirstObjectByType<ScoreManager>();
 
         if (TryGetComponent<PlayerInput>(out playerInput))
         {
@@ -75,19 +78,14 @@ public class PlayerControls : MonoBehaviour
                 instance.GetComponent<TMP_Text>().text = points.ToString();
 
                 Debug.Log("Points: " + points);
-
-                //TODO: PASS SCORE TO A GAME SCORE SYSTEM
+                scoreManager.AddScore(points);
             }
         }
-
         //TODO: PLAY CAMERA SOUND EFFECT
         audioManager.PlayRandomOfList(audioManager.CameraSounds, selectedBox.transform, true);
-
         //TODO: SHOW CAMERA VISUAL EFFECT
         //TODO: START COOLDOWN(?)
-    }
-
-     
+    } 
     #region Inputs
     private void BottomRight_started(InputAction.CallbackContext obj)
     {
