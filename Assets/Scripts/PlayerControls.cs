@@ -83,13 +83,18 @@ public class PlayerControls : MonoBehaviour
                 scoreManager.AddScore(points);
             }
         }
-        //TODO: PLAY CAMERA SOUND EFFECT
-        if (hasHitAnimal)
+
+        if (hasHitAnimal) //HAS HIT AN ANIMAL
         {
+            //play camera hit sound
             audioManager.PlayRandomOfList(audioManager.CameraSounds, selectedBox.transform, true);
+
+            //get image capture from image capture system
+            FindFirstObjectByType<ImageCapture>().CaptureImage(selectedBox.GetCamera());
         }
-        else
+        else //HAS MISSED
         {
+            //play camera miss sound
             audioManager.PlaySound(audioManager.CameraMiss, selectedBox.transform, true);
         }
 
