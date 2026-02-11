@@ -30,7 +30,7 @@ public class PlayerControls : MonoBehaviour
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
-    { 
+    {
         scoreManager = GameObject.FindFirstObjectByType<ScoreManager>();
 
         if (TryGetComponent<PlayerInput>(out playerInput))
@@ -93,10 +93,10 @@ public class PlayerControls : MonoBehaviour
             audioManager.PlaySound(audioManager.CameraMiss, selectedBox.transform, true);
         }
 
-            //TODO: SHOW CAMERA VISUAL EFFECT
-            //TODO: START COOLDOWN(?)
-        }
-    } 
+        //TODO: SHOW CAMERA VISUAL EFFECT
+        //TODO: START COOLDOWN(?)
+    }
+
     #region Inputs
     private void BottomRight_started(InputAction.CallbackContext obj)
     {
