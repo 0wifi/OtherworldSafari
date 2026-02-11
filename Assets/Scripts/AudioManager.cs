@@ -9,6 +9,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] public GameObject SoundEffectInstance;
 
     [SerializeField] public List<AudioClip> CameraSounds;
+    [SerializeField] public AudioClip CameraMiss;
 
     
     public void PlayRandomOfList(List<AudioClip> list, Transform point, bool randomizePitch)

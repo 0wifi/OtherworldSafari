@@ -686,6 +686,7 @@ MonoBehaviour:
   SoundEffectInstance: {fileID: 7412490270320244660, guid: fc87aab3c9d41a041a515da5749877f0, type: 3}
   CameraSounds:
   - {fileID: 8300000, guid: 01494ead07032944499a754109bc2cbc, type: 3}
+  CameraMiss: {fileID: 8300000, guid: 11c4d00162983a543ba7a5910cf1b8a1, type: 3}
 --- !u!82 &593560204
 AudioSource:
   m_ObjectHideFlags: 0
