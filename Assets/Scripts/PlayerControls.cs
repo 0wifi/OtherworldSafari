@@ -30,7 +30,7 @@ public class PlayerControls : MonoBehaviour
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
-    { 
+    {
         scoreManager = GameObject.FindFirstObjectByType<ScoreManager>();
 
         if (TryGetComponent<PlayerInput>(out playerInput))
@@ -83,20 +83,25 @@ public class PlayerControls : MonoBehaviour
                 scoreManager.AddScore(points);
             }
         }
-        //TODO: PLAY CAMERA SOUND EFFECT
-        if (hasHitAnimal)
+
+        if (hasHitAnimal) //HAS HIT AN ANIMAL
         {
+            //play camera hit sound
             audioManager.PlayRandomOfList(audioManager.CameraSounds, selectedBox.transform, true);
+
+            //get image capture from image capture system
+            FindFirstObjectByType<ImageCapture>().CaptureImage(selectedBox.GetCamera());
         }
-        else
+        else //HAS MISSED
         {
+            //play camera miss sound
             audioManager.PlaySound(audioManager.CameraMiss, selectedBox.transform, true);
         }
 
-            //TODO: SHOW CAMERA VISUAL EFFECT
-            //TODO: START COOLDOWN(?)
-        }
-    } 
+        //TODO: SHOW CAMERA VISUAL EFFECT
+        //TODO: START COOLDOWN(?)
+    }
+
     #region Inputs
     private void BottomRight_started(InputAction.CallbackContext obj)
     {

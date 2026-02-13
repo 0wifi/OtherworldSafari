@@ -8,10 +8,18 @@ using NaughtyAttributes;
 
 public class AccuracyController : MonoBehaviour
 {
-    [Header("Debug")]
-    [SerializeField] private Transform testPos;
-
     [SerializeField] private List<AccuracyRing> AccuracyRings;
+    private Camera cam;
+
+    private void Start()
+    {
+        cam = GetComponentInChildren<Camera>();
+    }
+
+    public Camera GetCamera()
+    {
+        return cam;
+    }
 
     private void OnDrawGizmos()
     {
@@ -50,6 +58,20 @@ public class AccuracyController : MonoBehaviour
         return max;
     }
 
+    public Rect GetBoundingRect()
+    {
+        Rect max = Rect.zero;
+        foreach(var accuracyRing in AccuracyRings)
+        {
+            if (accuracyRing.rect.width > max.width && accuracyRing.rect.height > max.height)
+            {
+                max = accuracyRing.rect;
+            }
+        }
+        //max.position = new Vector2(transform.position.x - max.width / 2, transform.position.y - max.height / 2);
+        return max;
+    }
+
     [Button]
     private void DebugCenterRectangles()
     {
@@ -57,12 +79,6 @@ public class AccuracyController : MonoBehaviour
         {
             a.rect.position = new Vector2(-a.rect.width / 2, -a.rect.height / 2);
         }
-    }
-
-    [Button]
-    private void DebugAccuracyTest()
-    {
-        print(GetValuePercentage(testPos.position));
     }
 }
 
