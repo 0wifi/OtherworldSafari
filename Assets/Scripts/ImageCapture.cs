@@ -20,7 +20,8 @@ public class ImageCapture : MonoBehaviour
     {
         //create new image instance
         GameObject imageInstance = Instantiate(captureImagePrefab, FindFirstObjectByType<Canvas>().transform);
-        imageInstance.GetComponent<Image>().sprite = CaptureCamera(camera) ;
+        Sprite s = CaptureCamera(camera);
+        imageInstance.GetComponent<Image>().sprite = s;
     }
 
     public Sprite CaptureCamera(Camera cam)
@@ -46,6 +47,6 @@ public class ImageCapture : MonoBehaviour
         Destroy(rt);
 
         // create and return sprite
-        return Sprite.Create(screenShot, new Rect(0, 0, cam.pixelWidth * 0.8f, cam.pixelHeight), new Vector2(0.5f, 0.5f));
+        return Sprite.Create(screenShot, new Rect(0, 0, cam.pixelWidth, cam.pixelHeight), new Vector2(0.5f, 0.5f));
     }
 }
