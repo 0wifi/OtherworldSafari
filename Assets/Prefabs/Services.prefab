@@ -309,6 +309,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 673eba9248c112f4e958033b7907e504, type: 3}
+--- !u!114 &5167819173858322598 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 919805762512435931, guid: 673eba9248c112f4e958033b7907e504, type: 3}
+  m_PrefabInstance: {fileID: 5436977656068182653}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbd2bf95e0015fd42924c0a4124ee1ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
 --- !u!4 &8673519708442971869 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3686915819192310944, guid: 673eba9248c112f4e958033b7907e504, type: 3}
@@ -366,6 +377,10 @@ PrefabInstance:
       propertyPath: audioManager
       value: 
       objectReference: {fileID: 1351001195115277654}
+    - target: {fileID: 2794116868579407899, guid: b53de32fc646ec94db401a2db6c53b37, type: 3}
+      propertyPath: imageCapture
+      value: 
+      objectReference: {fileID: 5167819173858322598}
     - target: {fileID: 2794116868579407899, guid: b53de32fc646ec94db401a2db6c53b37, type: 3}
       propertyPath: accuracyManager
       value: 

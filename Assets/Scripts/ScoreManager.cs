@@ -11,12 +11,12 @@ public class ScoreManager : MonoBehaviour
     void Start()
     {
         score = 0;
-        scoreText.text = "Score: " + score;
+        if (scoreText != null) scoreText.text = "Score: " + score;
     }
 
     public void AddScore(int points)
     {
         score += points;
-        scoreText.text = "Score: " + score;
+        if (scoreText != null) scoreText.text = "Score: " + score;
     }
 }
