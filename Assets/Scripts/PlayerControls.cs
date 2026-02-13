@@ -1,6 +1,9 @@
+using NaughtyAttributes;
 using NUnit.Framework;
 using System.Collections.Generic;
+using System.Linq;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -24,9 +27,13 @@ public class PlayerControls : MonoBehaviour
 
     [SerializeField] private AudioManager audioManager;
 
-    [SerializeField] private List<AnimalController> animals;
+    //[SerializeField] private List<AnimalController> animals; **** now found automatically in TakePicture()
+    [Required]
+    [SerializeField] GameObject animalControlObject;
 
     [SerializeField] private GameObject pointsScoredTextPrefab;
+
+    [SerializeField] private ImageCapture imageCapture;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -67,10 +74,19 @@ public class PlayerControls : MonoBehaviour
     private void TakePicture(AccuracyController selectedBox)
     {
         bool hasHitAnimal = false;
+
+        //find all active animals in animal control object
+        List<AnimalController> animals = animalControlObject.GetComponentsInChildren<AnimalController>().ToList<AnimalController>();
+
+        //print(animals.Count + " animals found.");
+
         foreach (AnimalController a in animals)
         {
+            //get point percentage value from accuracy box
             float p = selectedBox.GetValuePercentage(a.targetPoint.position);
             int points = (int)(p * a.pointValue);
+
+            // if scored
             if (p > 0)
             {
                 hasHitAnimal = true;
@@ -90,7 +106,7 @@ public class PlayerControls : MonoBehaviour
             audioManager.PlayRandomOfList(audioManager.CameraSounds, selectedBox.transform, true);
 
             //get image capture from image capture system
-            FindFirstObjectByType<ImageCapture>().CaptureImage(selectedBox.GetCamera());
+            imageCapture.CaptureImage(selectedBox.GetCamera());
         }
         else //HAS MISSED
         {

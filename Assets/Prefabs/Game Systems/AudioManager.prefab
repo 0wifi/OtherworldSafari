@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &47695764562154335
+--- !u!1 &2250544169630953487
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,52 +8,38 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3686915819192310944}
-  - component: {fileID: 919805762512435931}
-  - component: {fileID: 7605262065411410536}
-  - component: {fileID: 5961617526654909961}
+  - component: {fileID: 7742376890825346028}
+  - component: {fileID: 2729624169690276739}
+  - component: {fileID: 2605665216330090551}
   m_Layer: 0
-  m_Name: ImageCaptureSystem
+  m_Name: AudioManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3686915819192310944
+--- !u!4 &7742376890825346028
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 47695764562154335}
+  m_GameObject: {fileID: 2250544169630953487}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 1.50094, y: -2.10028, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &919805762512435931
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 47695764562154335}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cbd2bf95e0015fd42924c0a4124ee1ce, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  captureImagePrefab: {fileID: 2741493211955160789, guid: 2b6b9d9e556e44b479e1a2f0646c5529, type: 3}
---- !u!82 &7605262065411410536
+--- !u!82 &2729624169690276739
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 47695764562154335}
+  m_GameObject: {fileID: 2250544169630953487}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
@@ -144,16 +130,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &5961617526654909961
+--- !u!114 &2605665216330090551
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 47695764562154335}
+  m_GameObject: {fileID: 2250544169630953487}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 61c7dbec5aeecb6488f5ca66142e0f22, type: 3}
+  m_Script: {fileID: 11500000, guid: 793c846745c336043abc15a6860bc13c, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DestroyAfterTime
-  time: 2
+  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  SoundEffectInstance: {fileID: 7412490270320244660, guid: fc87aab3c9d41a041a515da5749877f0, type: 3}
+  CameraSounds:
+  - {fileID: 8300000, guid: 01494ead07032944499a754109bc2cbc, type: 3}
+  CameraMiss: {fileID: 8300000, guid: 11c4d00162983a543ba7a5910cf1b8a1, type: 3}

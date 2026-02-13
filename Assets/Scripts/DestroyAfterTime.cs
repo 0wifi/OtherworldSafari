@@ -1,9 +1,10 @@
 using System.Collections;
 using UnityEngine;
 
-public class PointsScoredText : MonoBehaviour
+public class DestroyAfterTime : MonoBehaviour
 {
     public int time = 1;
+
     void Start()
     {
         StartCoroutine(WaitThenDelete(time));
