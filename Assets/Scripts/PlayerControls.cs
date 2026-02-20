@@ -106,7 +106,7 @@ public class PlayerControls : MonoBehaviour
             audioManager.InstantiateRandomOfList(audioManager.CameraHit, selectedBox.transform, true);
 
             //get image capture from image capture system
-            _ = imageCapture.CaptureImage(selectedBox.GetCamera());
+            imageCapture.StartCoroutine(imageCapture.CaptureImage(selectedBox.GetCamera()));
         }
         else //HAS MISSED
         {
