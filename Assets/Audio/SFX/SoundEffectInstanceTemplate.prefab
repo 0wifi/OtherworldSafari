@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 974269270825639214}
   - component: {fileID: 765187408272876707}
   m_Layer: 0
-  m_Name: SoundEffectInstance
+  m_Name: SoundEffectInstanceTemplate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

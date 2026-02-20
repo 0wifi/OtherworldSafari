@@ -103,15 +103,15 @@ public class PlayerControls : MonoBehaviour
         if (hasHitAnimal) //HAS HIT AN ANIMAL
         {
             //play camera hit sound
-            audioManager.PlayRandomOfList(audioManager.CameraSounds, selectedBox.transform, true);
+            audioManager.InstantiateRandomOfList(audioManager.CameraHit, selectedBox.transform, true);
 
             //get image capture from image capture system
-            imageCapture.CaptureImage(selectedBox.GetCamera());
+            _ = imageCapture.CaptureImage(selectedBox.GetCamera());
         }
         else //HAS MISSED
         {
             //play camera miss sound
-            audioManager.PlaySound(audioManager.CameraMiss, selectedBox.transform, true);
+            audioManager.InstantiateSound(audioManager.CameraMiss, selectedBox.transform, true);
         }
 
         //TODO: SHOW CAMERA VISUAL EFFECT
