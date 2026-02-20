@@ -302,6 +302,7 @@ GameObject:
   - component: {fileID: 444368543}
   - component: {fileID: 444368542}
   - component: {fileID: 444368541}
+  - component: {fileID: 444368545}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -392,6 +393,20 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &444368545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 444368540}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 522a84762ab6aeb4bb3afa2360030420, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EndScreen
+  score: 0
+  scoreText: {fileID: 458116960}
 --- !u!1001 &458116959
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -489,6 +504,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e850f3269adf29b40bd0f8356c561bda, type: 3}
+--- !u!114 &458116960 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 712709768721981539, guid: e850f3269adf29b40bd0f8356c561bda, type: 3}
+  m_PrefabInstance: {fileID: 458116959}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!224 &2123615475 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7382522493727614627, guid: e850f3269adf29b40bd0f8356c561bda, type: 3}
