@@ -46,7 +46,7 @@ public class ControllerDebugTest : MonoBehaviour
         bottomMiddle.started += BottomMiddle_started;
         bottomRight.started += BottomRight_started;
 
-        for(int i = 0; i < 10; i++)
+        for(int i = 0; i < 9; i++)
         {
             images[i].color = Color.darkRed;
         }
