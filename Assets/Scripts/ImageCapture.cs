@@ -1,5 +1,7 @@
 using NaughtyAttributes;
 using System;
+using System.Collections;
+using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.UI;
@@ -8,19 +10,15 @@ public class ImageCapture : MonoBehaviour
 {
     [SerializeField] private GameObject captureImagePrefab;
 
-    private Camera sceneCamera;
+    public Texture2D outputTexture;
 
-
-    private void Start()
+    public async Task CaptureImage(Camera camera)
     {
-        TryGetComponent<Camera>(out sceneCamera);
-    }
+        //wait for sprite creation
+        Sprite s = await CaptureCameraAsync(camera);
 
-    public void CaptureImage(Camera camera)
-    {
         //create new image instance
         GameObject imageInstance = Instantiate(captureImagePrefab, FindFirstObjectByType<Canvas>().transform);
-        Sprite s = CaptureCamera(camera);
         imageInstance.GetComponent<Image>().sprite = s;
     }
 
@@ -48,5 +46,49 @@ public class ImageCapture : MonoBehaviour
 
         // create and return sprite
         return Sprite.Create(screenShot, new Rect(0, 0, cam.pixelWidth, cam.pixelHeight), new Vector2(0.5f, 0.5f));
+    }
+
+    public async Awaitable<Sprite> CaptureCameraAsync(Camera cam)
+    {
+        await OutputTextureFromCamera(cam);
+        // Create a sprite from the outputTexture after the asynchronous capture is complete
+        return Sprite.Create(outputTexture, new Rect(0, 0, cam.pixelWidth, cam.pixelHeight), new Vector2(0.5f, 0.5f));
+
+    }
+
+    private async Awaitable OutputTextureFromCamera(Camera cam)
+    {
+        RenderTexture rt = new RenderTexture(cam.pixelWidth, cam.pixelHeight, 24);
+        cam.targetTexture = rt;
+
+        // render the camera into the RenderTexture
+        cam.Render();
+
+        // initialize outputTexture
+        outputTexture = new Texture2D(cam.pixelWidth, cam.pixelHeight, TextureFormat.RGBA32, false);
+
+        // reset camera target
+        cam.targetTexture = null;
+
+        var tcs = new TaskCompletionSource<bool>();
+
+        AsyncGPUReadback.Request(rt, 0, TextureFormat.RGBA32, (request) =>
+        {
+            if (request.hasError)
+            {
+                Debug.LogError("GPU readback error detected.");
+                tcs.SetResult(false);
+            }
+            else
+            {
+                outputTexture.LoadRawTextureData(request.GetData<byte>());
+                outputTexture.Apply();
+                tcs.SetResult(true);
+            }
+
+            Destroy(rt);
+        });
+
+        await tcs.Task;
     }
 }
