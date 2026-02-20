@@ -187,6 +187,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: AudioManager
       objectReference: {fileID: 0}
+    - target: {fileID: 2605665216330090551, guid: 77edd256621a4104a967a7f754a5e7b7, type: 3}
+      propertyPath: CameraMiss
+      value: 
+      objectReference: {fileID: 3303664083445047990, guid: 900b45131b52c764b80d668e0cc9e76e, type: 3}
+    - target: {fileID: 2605665216330090551, guid: 77edd256621a4104a967a7f754a5e7b7, type: 3}
+      propertyPath: CameraHit.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2605665216330090551, guid: 77edd256621a4104a967a7f754a5e7b7, type: 3}
+      propertyPath: 'CameraHit.Array.data[0]'
+      value: 
+      objectReference: {fileID: 6905925460318508037, guid: c217b3fe8fb7eb646bd7a893bde48c27, type: 3}
     - target: {fileID: 7742376890825346028, guid: 77edd256621a4104a967a7f754a5e7b7, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.50094
@@ -304,7 +316,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5961617526654909961, guid: 673eba9248c112f4e958033b7907e504, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

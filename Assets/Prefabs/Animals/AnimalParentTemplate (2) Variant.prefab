@@ -446,7 +446,7 @@ PrefabInstance:
       objectReference: {fileID: -4203687251749021516, guid: 360a6d9b26e3fc5449f482f979d40b0b, type: 3}
     - target: {fileID: 6233517148166652384, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_SortingOrder
-      value: 56
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6378520522166410863, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_Name
