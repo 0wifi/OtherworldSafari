@@ -1,19 +1,15 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class EndScreen : MonoBehaviour
 {
     private ScoreManager scoreManager;
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public TMP_Text scoreText;
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-        
+        if (scoreText != null) scoreText.text = "Score: " + scoreManager.score;
     }
 }
