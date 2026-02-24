@@ -61,6 +61,10 @@ PrefabInstance:
       value: 0.18
       objectReference: {fileID: 0}
     - target: {fileID: 2656590726033535926, guid: c00c569895a18f249b7e51610db28e61, type: 3}
+      propertyPath: sfxPrefab
+      value: 
+      objectReference: {fileID: 7412490270320244660, guid: b9723a86c682e6b45ac312db76671001, type: 3}
+    - target: {fileID: 2656590726033535926, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: pointValue
       value: 200
       objectReference: {fileID: 0}
