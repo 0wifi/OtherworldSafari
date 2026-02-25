@@ -103,12 +103,12 @@ TextureImporter:
       name: Grass1_0
       rect:
         serializedVersion: 2
-        x: 319
+        x: 326
         y: 283
-        width: 1275
+        width: 1260
         height: 339
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fdae8ef7b9c40e54eb5aa4d111fb1a9f
     internalID: 0
     vertices: []
     indices: 
