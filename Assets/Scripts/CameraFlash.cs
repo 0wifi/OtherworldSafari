@@ -45,7 +45,7 @@ public class CameraFlash : MonoBehaviour
         {
             Color flashColor = currentFlash.GetComponent<SpriteRenderer>().
                 color;
-            flashColor.a = Mathf.Lerp(1, 0, timeElapsed / flashDuration);
+            flashColor.a = Mathf.Lerp(0.3f, 0, timeElapsed / flashDuration);
             currentFlash.GetComponent<SpriteRenderer>().color = flashColor;
             yield return null;
             timeElapsed += Time.deltaTime;

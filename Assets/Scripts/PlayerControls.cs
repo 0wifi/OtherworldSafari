@@ -110,18 +110,14 @@ public class PlayerControls : MonoBehaviour
             //get image capture from image capture system
             imageCapture.StartCoroutine(imageCapture.CaptureImage(selectedBox.GetCamera()));
 
-            //can move "cameraFlash.doFlash(selectedBox);" to here if needed
+            //show camera visual effect
+            cameraFlash.doFlash(selectedBox);
         }
         else //HAS MISSED
         {
             //play camera miss sound
             audioManager.InstantiateSound(audioManager.CameraMiss, selectedBox.transform, true);
         }
-
-        //TODO: SHOW CAMERA VISUAL EFFECT
-
-        cameraFlash.doFlash(selectedBox);  
-
 
         //TODO: START COOLDOWN(?)
     }
