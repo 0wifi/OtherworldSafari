@@ -437,6 +437,53 @@ Transform:
   - {fileID: 32962747}
   m_Father: {fileID: 1301951452}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &340074661
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 340074663}
+  - component: {fileID: 340074662}
+  m_Layer: 0
+  m_Name: CameraFlash
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &340074662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 340074661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402b0a74777c86641bcb3f4ef5abf446, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CameraFlash
+  flashPrefab: {fileID: 6296149043661212590, guid: de8a236df3f0bbc40af20c45911b1412, type: 3}
+  flashDuration: 0.4
+  flashOffset: {x: 3.9, y: 2.7, z: 0}
+--- !u!4 &340074663
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 340074661}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.85122, y: -2.06503, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &591493473
 GameObject:
   m_ObjectHideFlags: 0
@@ -1465,6 +1512,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5405204543505442141, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: cameraFlash
+      value: 
+      objectReference: {fileID: 340074662}
+    - target: {fileID: 5405204543505442141, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: animalControlObject
       value: 
       objectReference: {fileID: 635399925}
@@ -1560,3 +1611,4 @@ SceneRoots:
   - {fileID: 635399926}
   - {fileID: 6266439343109664757}
   - {fileID: 1808727366}
+  - {fileID: 340074663}
