@@ -35,6 +35,8 @@ public class PlayerControls : MonoBehaviour
 
     [SerializeField] private ImageCapture imageCapture;
 
+    [SerializeField] private CameraFlash cameraFlash;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -107,6 +109,9 @@ public class PlayerControls : MonoBehaviour
 
             //get image capture from image capture system
             imageCapture.StartCoroutine(imageCapture.CaptureImage(selectedBox.GetCamera()));
+
+            //show camera visual effect
+            cameraFlash.doFlash(selectedBox);
         }
         else //HAS MISSED
         {
@@ -114,7 +119,6 @@ public class PlayerControls : MonoBehaviour
             audioManager.InstantiateSound(audioManager.CameraMiss, selectedBox.transform, true);
         }
 
-        //TODO: SHOW CAMERA VISUAL EFFECT
         //TODO: START COOLDOWN(?)
     }
 
