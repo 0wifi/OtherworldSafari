@@ -336,6 +336,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AnimalController
   targetPoint: {fileID: 5685383663479460918}
   pointValue: 100
+  sfxPrefab: {fileID: 7412490270320244660, guid: 294695fb593b83741af010c9c87d15c7, type: 3}
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0
