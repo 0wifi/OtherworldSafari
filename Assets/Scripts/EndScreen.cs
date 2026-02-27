@@ -10,6 +10,6 @@ public class EndScreen : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (scoreText != null) scoreText.text = "Score: " + scoreManager.score;
+        if (scoreText != null) scoreText.text = "Score: " + ScoreManager.score;
     }
 }
