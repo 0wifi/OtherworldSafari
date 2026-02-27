@@ -224,7 +224,7 @@ Transform:
   m_GameObject: {fileID: 3609337099809190105}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.309999, y: -4.67, z: 0}
+  m_LocalPosition: {x: 2.9520855, y: -0.4947939, z: -0.0000000045245407}
   m_LocalScale: {x: 0.43999997, y: 0.43999997, z: 0.43999997}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -305,9 +305,9 @@ MonoBehaviour:
   m_Target: {fileID: 4046109459843565220}
   m_PlayOnAwake: 1
   m_LoopMode: 1
-  m_Method: 0
-  m_Duration: 7
-  m_MaxSpeed: 6.636829
+  m_Method: 1
+  m_Duration: 9.29156
+  m_MaxSpeed: 5
   m_EasingMode: 2
   m_AlignmentMode: 2
   m_ObjectForwardAxis: 2
@@ -323,6 +323,7 @@ GameObject:
   m_Component:
   - component: {fileID: 732482603073980966}
   - component: {fileID: 2656590726033535926}
+  - component: {fileID: 1883499844235302396}
   m_Layer: 0
   m_Name: Kelza
   m_TagString: Untagged
@@ -362,6 +363,34 @@ MonoBehaviour:
   targetPoint: {fileID: 5685383663479460918}
   pointValue: 100
   sfxPrefab: {fileID: 7412490270320244660, guid: 8714632733dc6644da1f40dea99ebf4f, type: 3}
+--- !u!114 &1883499844235302396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6378520522166410863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aba53077dc3c3342a47d69d51012192, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SplineSpeedAdjust
+  container: {fileID: 4046109459843565220}
+  spline:
+    m_EditModeType: 1
+    m_Knots: []
+    m_MetaData: []
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  path: {fileID: 4796594675875548893}
+  currentKnot: 0
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0
