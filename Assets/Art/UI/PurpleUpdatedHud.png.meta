@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 2ce9f113eb9fb0f4087c12b95fc3cdde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1230516108219272329
+    second: PurpleUpdatedHud_0
+  - first:
+      213: -4024639554291248038
+    second: PurpleUpdatedHud_1
+  - first:
+      213: -8170780649315348945
+    second: PurpleUpdatedHud_2
+  - first:
+      213: 5646865271526474611
+    second: PurpleUpdatedHud_3
+  - first:
+      213: -5445787352245688913
+    second: PurpleUpdatedHud_4
+  - first:
+      213: -5793231866453852153
+    second: PurpleUpdatedHud_5
+  - first:
+      213: 7202040305793176245
+    second: PurpleUpdatedHud_6
+  - first:
+      213: 1549054659306330510
+    second: PurpleUpdatedHud_7
+  - first:
+      213: 1517748409460496305
+    second: PurpleUpdatedHud_8
+  - first:
+      213: -8611871721036786935
+    second: PurpleUpdatedHud_9
+  - first:
+      213: -664692924655051588
+    second: PurpleUpdatedHud_10
+  - first:
+      213: 8764930048058456334
+    second: PurpleUpdatedHud_11
+  - first:
+      213: -6760668718272068142
+    second: PurpleUpdatedHud_12
+  - first:
+      213: -668839322746066963
+    second: PurpleUpdatedHud_13
+  - first:
+      213: 6420102666680446643
+    second: PurpleUpdatedHud_14
+  - first:
+      213: 409793360644430589
+    second: PurpleUpdatedHud_15
+  - first:
+      213: 700692123723239325
+    second: PurpleUpdatedHud_16
+  - first:
+      213: 1690413933917257276
+    second: PurpleUpdatedHud_17
+  - first:
+      213: 1171485352769878622
+    second: PurpleUpdatedHud_18
+  - first:
+      213: -8713363807455467475
+    second: PurpleUpdatedHud_19
+  - first:
+      213: 5774400903378759780
+    second: PurpleUpdatedHud_20
+  - first:
+      213: -7488434492589226037
+    second: PurpleUpdatedHud_21
+  - first:
+      213: 263489435080854101
+    second: PurpleUpdatedHud_22
+  - first:
+      213: 3385177531981789787
+    second: PurpleUpdatedHud_23
+  - first:
+      213: -534117359806450275
+    second: PurpleUpdatedHud_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 172
+        width: 994
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773b13f7e145ceee0800000000000000
+      internalID: -1230516108219272329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_1
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 683
+        width: 15
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54db7916ab9528c0800000000000000
+      internalID: -4024639554291248038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_2
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 494
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e4ce34a4e8b9e80800000000000000
+      internalID: -8170780649315348945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 171
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37343dbcb02bd5e40800000000000000
+      internalID: 5646865271526474611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_4
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 171
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5a413914dac64b0800000000000000
+      internalID: -5445787352245688913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_5
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 171
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008b82bf4e4a9fa0800000000000000
+      internalID: -5793231866453852153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_6
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 135
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b219d40089c2f360800000000000000
+      internalID: 7202040305793176245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 135
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e891e9161095f7510800000000000000
+      internalID: 1549054659306330510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_8
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 135
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b79e441320201510800000000000000
+      internalID: 1517748409460496305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 126
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903de502c4c7c7880800000000000000
+      internalID: -8611871721036786935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 135
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc58358e4986c6f0800000000000000
+      internalID: -664692924655051588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_11
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 135
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09fbaba07943a970800000000000000
+      internalID: 8764930048058456334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_12
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 135
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d54c4bce974d22a0800000000000000
+      internalID: -6760668718272068142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 51
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de768ebfd2ec7b6f0800000000000000
+      internalID: -668839322746066963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 50
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea6053c59c81950800000000000000
+      internalID: 6420102666680446643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 50
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa568ce3e0efa500800000000000000
+      internalID: 409793360644430589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f007b26cb59b900800000000000000
+      internalID: 700692123723239325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 50
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e3286448e857710800000000000000
+      internalID: 1690413933917257276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 51
+        width: 994
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5afb67b8b3f14010800000000000000
+      internalID: 1171485352769878622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_19
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 53
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d282fd158c9e31780800000000000000
+      internalID: -8713363807455467475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_20
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 54
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460f59c070bc22050800000000000000
+      internalID: 5774400903378759780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_21
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 53
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7cf61218cb31890800000000000000
+      internalID: -7488434492589226037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_22
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 54
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a0014ce3a18a300800000000000000
+      internalID: 263489435080854101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_23
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 54
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a7867a7019afe20800000000000000
+      internalID: 3385177531981789787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleUpdatedHud_24
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 53
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95fd54571f6698f0800000000000000
+      internalID: -534117359806450275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PurpleUpdatedHud_0: -1230516108219272329
+      PurpleUpdatedHud_1: -4024639554291248038
+      PurpleUpdatedHud_10: -664692924655051588
+      PurpleUpdatedHud_11: 8764930048058456334
+      PurpleUpdatedHud_12: -6760668718272068142
+      PurpleUpdatedHud_13: -668839322746066963
+      PurpleUpdatedHud_14: 6420102666680446643
+      PurpleUpdatedHud_15: 409793360644430589
+      PurpleUpdatedHud_16: 700692123723239325
+      PurpleUpdatedHud_17: 1690413933917257276
+      PurpleUpdatedHud_18: 1171485352769878622
+      PurpleUpdatedHud_19: -8713363807455467475
+      PurpleUpdatedHud_2: -8170780649315348945
+      PurpleUpdatedHud_20: 5774400903378759780
+      PurpleUpdatedHud_21: -7488434492589226037
+      PurpleUpdatedHud_22: 263489435080854101
+      PurpleUpdatedHud_23: 3385177531981789787
+      PurpleUpdatedHud_24: -534117359806450275
+      PurpleUpdatedHud_3: 5646865271526474611
+      PurpleUpdatedHud_4: -5445787352245688913
+      PurpleUpdatedHud_5: -5793231866453852153
+      PurpleUpdatedHud_6: 7202040305793176245
+      PurpleUpdatedHud_7: 1549054659306330510
+      PurpleUpdatedHud_8: 1517748409460496305
+      PurpleUpdatedHud_9: -8611871721036786935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
