@@ -1,5 +1,6 @@
 using NaughtyAttributes;
 using NUnit.Framework;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using TMPro;
@@ -36,6 +37,10 @@ public class PlayerControls : MonoBehaviour
     [SerializeField] private ImageCapture imageCapture;
 
     [SerializeField] private CameraFlash cameraFlash;
+
+    private bool isCameraOnCooldown = false;
+
+    public float CooldownTime = 0.1f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -75,51 +80,61 @@ public class PlayerControls : MonoBehaviour
 
     private void TakePicture(AccuracyController selectedBox)
     {
-        bool hasHitAnimal = false;
-
-        //find all active animals in animal control object
-        List<AnimalController> animals = animalControlObject.GetComponentsInChildren<AnimalController>().ToList<AnimalController>();
-
-        //print(animals.Count + " animals found.");
-
-        foreach (AnimalController a in animals)
+        if (!isCameraOnCooldown)
         {
-            //get point percentage value from accuracy box
-            float p = selectedBox.GetValuePercentage(a.targetPoint.position);
-            int points = (int)(p * a.pointValue);
+            bool hasHitAnimal = false;
 
-            // if scored
-            if (p > 0)
+            //find all active animals in animal control object
+            List<AnimalController> animals = animalControlObject.GetComponentsInChildren<AnimalController>().ToList<AnimalController>();
+
+            //print(animals.Count + " animals found.");
+
+            foreach (AnimalController a in animals)
             {
-                hasHitAnimal = true;
-                //spawn scoretext object
-                GameObject canvas = GameObject.FindFirstObjectByType<Canvas>().gameObject;
-                GameObject instance = Instantiate(pointsScoredTextPrefab, Camera.main.WorldToScreenPoint(a.targetPoint.position), Quaternion.identity, canvas.transform);
-                instance.GetComponent<TMP_Text>().text = points.ToString();
+                //get point percentage value from accuracy box
+                float p = selectedBox.GetValuePercentage(a.targetPoint.position);
+                int points = (int)(p * a.pointValue);
 
-                Debug.Log("Points: " + points);
-                scoreManager.AddScore(points);
+                // if scored
+                if (p > 0)
+                {
+                    hasHitAnimal = true;
+                    //spawn scoretext object
+                    GameObject canvas = GameObject.FindFirstObjectByType<Canvas>().gameObject;
+                    GameObject instance = Instantiate(pointsScoredTextPrefab, Camera.main.WorldToScreenPoint(a.targetPoint.position), Quaternion.identity, canvas.transform);
+                    instance.GetComponent<TMP_Text>().text = points.ToString();
+
+                    Debug.Log("Points: " + points);
+                    scoreManager.AddScore(points);
+                }
             }
+
+            if (hasHitAnimal) //HAS HIT AN ANIMAL
+            {
+                //play camera hit sound
+                audioManager.InstantiateRandomOfList(audioManager.CameraHit, selectedBox.transform, true);
+
+                //get image capture from image capture system
+                imageCapture.StartCoroutine(imageCapture.CaptureImage(selectedBox.GetCamera()));
+
+                //show camera visual effect
+                cameraFlash.doFlash(selectedBox);
+            }
+            else //HAS MISSED
+            {
+                //play camera miss sound
+                audioManager.InstantiateSound(audioManager.CameraMiss, selectedBox.transform, true);
+            }
+
+            StartCoroutine(CameraCooldown(CooldownTime));
         }
+    }
 
-        if (hasHitAnimal) //HAS HIT AN ANIMAL
-        {
-            //play camera hit sound
-            audioManager.InstantiateRandomOfList(audioManager.CameraHit, selectedBox.transform, true);
-
-            //get image capture from image capture system
-            imageCapture.StartCoroutine(imageCapture.CaptureImage(selectedBox.GetCamera()));
-
-            //show camera visual effect
-            cameraFlash.doFlash(selectedBox);
-        }
-        else //HAS MISSED
-        {
-            //play camera miss sound
-            audioManager.InstantiateSound(audioManager.CameraMiss, selectedBox.transform, true);
-        }
-
-        //TODO: START COOLDOWN(?)
+    public IEnumerator CameraCooldown(float seconds)
+    {
+        isCameraOnCooldown = true;
+        yield return new WaitForSeconds(seconds);
+        isCameraOnCooldown = false;
     }
 
     #region Inputs
