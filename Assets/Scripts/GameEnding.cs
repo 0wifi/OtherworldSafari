@@ -8,16 +8,16 @@ public class GameEnding : MonoBehaviour
     
     public IEnumerator GameTimer()
     {
-        Debug.Log("Log");
         yield return new WaitForSeconds(120);
         SceneManager.LoadScene("EndScene");
     }
 
-    void FixedUpdate()
+    private void Awake()
     {
         if (SceneManager.GetActiveScene().name == "Playable")
         {
             StartCoroutine(GameTimer());
         }
+
     }
 }
