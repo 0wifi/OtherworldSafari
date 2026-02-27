@@ -15,6 +15,8 @@ public class StartScreen : MonoBehaviour
         startGame = playerInput.currentActionMap.FindAction("StartGame");
 
         startGame.started += StartGame_started;
+
+        Cursor.visible = false;
     }
 
     private void StartGame_started(InputAction.CallbackContext obj)

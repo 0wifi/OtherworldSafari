@@ -437,6 +437,56 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "ReturnToStart",
+            "id": "18822d29-9251-4970-88d4-3a5e5eac7e22",
+            "actions": [
+                {
+                    "name": "ReturnToStart",
+                    "type": "Button",
+                    "id": "6020f12c-aa44-4d7b-bbe9-49f79bb1f0b8",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2177e8c2-55dd-4723-9fb8-3311d3ce97ae",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ReturnToStart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "434ccf04-4ba8-4cb5-b875-95466e2a9668",
+                    "path": "<Keyboard>/numpad5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ReturnToStart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e64ace1c-b643-4004-9c67-d630ffed928d",
+                    "path": "<HID::DragonRise Inc.   Generic   USB  Joystick  >/button5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ReturnToStart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []
