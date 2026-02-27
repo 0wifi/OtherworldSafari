@@ -1,11 +1,10 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
 public class GameEnding : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    
     public IEnumerator GameTimer()
     {
         yield return new WaitForSeconds(120);
