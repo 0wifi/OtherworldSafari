@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: fa8f45a604f42154982af82e1889c5bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5978278180597555018
+    second: Aquazella_Jump_8_0
+  - first:
+      213: 3822522202897471383
+    second: Aquazella_Jump_8_1
+  - first:
+      213: -3251016500537563634
+    second: Aquazella_Jump_8_2
+  - first:
+      213: -320751827990277655
+    second: Aquazella_Jump_8_3
+  - first:
+      213: -5519908679144054390
+    second: Aquazella_Jump_8_4
+  - first:
+      213: -2284472418124642114
+    second: Aquazella_Jump_8_5
+  - first:
+      213: 6211379750771008714
+    second: Aquazella_Jump_8_6
+  - first:
+      213: 6287500761675265888
+    second: Aquazella_Jump_8_7
+  - first:
+      213: -4053712009056634230
+    second: Aquazella_Jump_8_8
+  - first:
+      213: -1318774488184423114
+    second: Aquazella_Jump_8_9
+  - first:
+      213: 5457218835348420672
+    second: Aquazella_Jump_8_10
+  - first:
+      213: -2984954828424772878
+    second: Aquazella_Jump_8_11
+  - first:
+      213: 7292057823754825772
+    second: Aquazella_Jump_8_12
+  - first:
+      213: 4019288821018968150
+    second: Aquazella_Jump_8_13
+  - first:
+      213: -2000187290953731184
+    second: Aquazella_Jump_8_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_0
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 3533
+        width: 27
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f5cfab45c17f250800000000000000
+      internalID: 5978278180597555018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_1
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 3450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7975fb1e0b35c0530800000000000000
+      internalID: 3822522202897471383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_2
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 3393
+        width: 34
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e066686a7b112e2d0800000000000000
+      internalID: -3251016500537563634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1357
+        width: 3952
+        height: 2081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1159f69e57c8bf0800000000000000
+      internalID: -320751827990277655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_4
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 3295
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81e5035d485563b0800000000000000
+      internalID: -5519908679144054390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_5
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1223
+        width: 106
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c08a707ceb40e0800000000000000
+      internalID: -2284472418124642114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_6
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4a2c959f0433650800000000000000
+      internalID: 6211379750771008714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_7
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1213
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067f6a051a0b14750800000000000000
+      internalID: 6287500761675265888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_8
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1155
+        width: 110
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ab17eb7625eb7c0800000000000000
+      internalID: -4053712009056634230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_9
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 1058
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d7be41795c2bde0800000000000000
+      internalID: -1318774488184423114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_10
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 1008
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048738efd9febbb40800000000000000
+      internalID: 5457218835348420672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_11
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1005
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f28725066f4396d0800000000000000
+      internalID: -2984954828424772878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_12
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 1003
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20b38aa4f7923560800000000000000
+      internalID: 7292057823754825772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_13
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 906
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650c88a33e167c730800000000000000
+      internalID: 4019288821018968150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquazella_Jump_8_14
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 377
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093b37e9148ed34e0800000000000000
+      internalID: -2000187290953731184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aquazella_Jump_8_0: 5978278180597555018
+      Aquazella_Jump_8_1: 3822522202897471383
+      Aquazella_Jump_8_10: 5457218835348420672
+      Aquazella_Jump_8_11: -2984954828424772878
+      Aquazella_Jump_8_12: 7292057823754825772
+      Aquazella_Jump_8_13: 4019288821018968150
+      Aquazella_Jump_8_14: -2000187290953731184
+      Aquazella_Jump_8_2: -3251016500537563634
+      Aquazella_Jump_8_3: -320751827990277655
+      Aquazella_Jump_8_4: -5519908679144054390
+      Aquazella_Jump_8_5: -2284472418124642114
+      Aquazella_Jump_8_6: 6211379750771008714
+      Aquazella_Jump_8_7: 6287500761675265888
+      Aquazella_Jump_8_8: -4053712009056634230
+      Aquazella_Jump_8_9: -1318774488184423114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
