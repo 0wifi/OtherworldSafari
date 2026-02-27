@@ -61,98 +61,44 @@ MonoBehaviour:
   - m_EditModeType: 1
     m_Knots:
     - Position:
-        x: 0.07999992
-        y: 2.92
+        x: 0.44000053
+        y: 2.88
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.7600421
+        z: -0.056008875
       TangentOut:
         x: 0
         y: 0
-        z: 0.7600421
+        z: 0.056008875
       Rotation:
         value:
-          x: 0.4973616
-          y: 0.5026246
-          z: -0.5026245
-          w: -0.49736166
+          x: 0.50444394
+          y: -0.49551615
+          z: 0.4955163
+          w: -0.5044438
     - Position:
-        x: -7.52
-        y: 2.8400002
+        x: 1
+        y: 2.8900003
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -1.6325114
+        z: -0.056008875
       TangentOut:
         x: 0
         y: 0
-        z: 1.1440756
+        z: 0.056008875
       Rotation:
         value:
-          x: 0.6354342
-          y: 0.31019878
-          z: -0.31020033
-          w: -0.63543355
+          x: 0.504444
+          y: -0.4955162
+          z: 0.49551633
+          w: -0.50444394
     - Position:
-        x: -8.389999
-        y: 6.4700003
-        z: 0
-      TangentIn:
-        x: -0
-        y: -0
-        z: -0.8641373
-      TangentOut:
-        x: 0
-        y: 0
-        z: 0.8930426
-      Rotation:
-        value:
-          x: -0.6772409
-          y: 0.20333415
-          z: -0.20333412
-          w: 0.6772409
-    - Position:
-        x: -4.46
-        y: 7.14
-        z: 0
-      TangentIn:
-        x: -0
-        y: -0
-        z: -1.50453
-      TangentOut:
-        x: 0
-        y: 0
-        z: 1.9779133
-      Rotation:
-        value:
-          x: 0.52134967
-          y: -0.4776971
-          z: 0.47769716
-          w: -0.5213496
-    - Position:
-        x: 2.4300003
-        y: 7.18
-        z: 0
-      TangentIn:
-        x: -0
-        y: -0
-        z: -0.6890117
-      TangentOut:
-        x: 0
-        y: 0
-        z: 0.6890117
-      Rotation:
-        value:
-          x: 0.5014492
-          y: -0.4985465
-          z: 0.49854657
-          w: -0.5014493
-    - Position:
-        x: 2.4300003
-        y: 7.18
+        x: 1
+        y: 2.8900003
         z: 0
       TangentIn:
         x: -0
@@ -175,12 +121,6 @@ MonoBehaviour:
       Tension: 0.5
     - Mode: 0
       Tension: 0.5
-    - Mode: 0
-      Tension: 0.5
-    - Mode: 0
-      Tension: 0.5
-    - Mode: 0
-      Tension: 0.5
     m_Closed: 0
     m_IntData:
       m_Data: []
@@ -194,9 +134,9 @@ MonoBehaviour:
     m_KnotsLink:
     - Knots:
       - Spline: 0
-        Knot: 4
+        Knot: 1
       - Spline: 0
-        Knot: 5
+        Knot: 2
 --- !u!1 &3609337099809190105
 GameObject:
   m_ObjectHideFlags: 0
@@ -224,7 +164,7 @@ Transform:
   m_GameObject: {fileID: 3609337099809190105}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.309999, y: -4.67, z: 0}
+  m_LocalPosition: {x: 8.67, y: -4.71, z: 0}
   m_LocalScale: {x: 0.43999997, y: 0.43999997, z: 0.43999997}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -306,8 +246,8 @@ MonoBehaviour:
   m_PlayOnAwake: 1
   m_LoopMode: 1
   m_Method: 0
-  m_Duration: 7
-  m_MaxSpeed: 6.636829
+  m_Duration: 106.2
+  m_MaxSpeed: 0.011484567
   m_EasingMode: 2
   m_AlignmentMode: 2
   m_ObjectForwardAxis: 2
@@ -324,7 +264,7 @@ GameObject:
   - component: {fileID: 732482603073980966}
   - component: {fileID: 2656590726033535926}
   m_Layer: 0
-  m_Name: Kelza
+  m_Name: Kelza_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
