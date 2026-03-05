@@ -61,44 +61,98 @@ MonoBehaviour:
   - m_EditModeType: 1
     m_Knots:
     - Position:
-        x: 0.44000053
-        y: 2.88
+        x: -9.059999
+        y: -0.8100004
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.056008875
+        z: -0.5627655
       TangentOut:
         x: 0
         y: 0
-        z: 0.056008875
+        z: 0.5627655
       Rotation:
         value:
-          x: 0.50444394
-          y: -0.49551615
-          z: 0.4955163
-          w: -0.5044438
+          x: 0.6219522
+          y: -0.3364156
+          z: 0.33641618
+          w: -0.6219519
     - Position:
-        x: 1
-        y: 2.8900003
+        x: -4.35
+        y: 2.27
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.056008875
+        z: -1.3237011
       TangentOut:
         x: 0
         y: 0
-        z: 0.056008875
+        z: 0.912526
       Rotation:
         value:
-          x: 0.504444
-          y: -0.4955162
-          z: 0.49551633
-          w: -0.50444394
+          x: -0.51300615
+          y: 0.48664638
+          z: -0.48664638
+          w: 0.5130061
     - Position:
-        x: 1
-        y: 2.8900003
+        x: -1.9699998
+        y: 1.0500002
+        z: 0
+      TangentIn:
+        x: -0
+        y: -0
+        z: -0.92321503
+      TangentOut:
+        x: 0
+        y: 0
+        z: 1.0345752
+      Rotation:
+        value:
+          x: -0.42742333
+          y: 0.5633021
+          z: -0.5633019
+          w: 0.42742372
+    - Position:
+        x: 1.3800001
+        y: 0.80999947
+        z: 0
+      TangentIn:
+        x: -0
+        y: -0
+        z: -1.2419759
+      TangentOut:
+        x: 0
+        y: 0
+        z: 1.5517251
+      Rotation:
+        value:
+          x: 0.49509025
+          y: -0.50486207
+          z: 0.5048622
+          w: -0.49509013
+    - Position:
+        x: 6.62
+        y: 0.97999954
+        z: 0
+      TangentIn:
+        x: -0
+        y: -0
+        z: -0.5242757
+      TangentOut:
+        x: 0
+        y: 0
+        z: 0.5242757
+      Rotation:
+        value:
+          x: -0.5080418
+          y: 0.4918267
+          z: -0.4918267
+          w: 0.5080417
+    - Position:
+        x: 6.62
+        y: 0.97999954
         z: 0
       TangentIn:
         x: -0
@@ -110,11 +164,77 @@ MonoBehaviour:
         z: 0
       Rotation:
         value:
-          x: -0.70710665
+          x: 0
           y: 0
-          z: -0
-          w: 0.7071069
+          z: 0
+          w: 1
+    - Position:
+        x: 6.62
+        y: 0.97999954
+        z: 0
+      TangentIn:
+        x: -0
+        y: -0
+        z: -0
+      TangentOut:
+        x: 0
+        y: 0
+        z: 0
+      Rotation:
+        value:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+    - Position:
+        x: 6.62
+        y: 0.97999954
+        z: 0
+      TangentIn:
+        x: -0
+        y: -0
+        z: -0.8
+      TangentOut:
+        x: 0
+        y: 0
+        z: 0.8
+      Rotation:
+        value:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
+    - Position:
+        x: 6.62
+        y: 0.97999954
+        z: 8
+      TangentIn:
+        x: -0
+        y: -0
+        z: -0.8
+      TangentOut:
+        x: 0
+        y: 0
+        z: 0.8
+      Rotation:
+        value:
+          x: 0
+          y: 0
+          z: 0
+          w: 1
     m_MetaData:
+    - Mode: 0
+      Tension: 0.5
+    - Mode: 0
+      Tension: 0.5
+    - Mode: 0
+      Tension: 0.5
+    - Mode: 0
+      Tension: 0.5
+    - Mode: 0
+      Tension: 0.5
+    - Mode: 0
+      Tension: 0.5
     - Mode: 0
       Tension: 0.5
     - Mode: 0
@@ -134,9 +254,9 @@ MonoBehaviour:
     m_KnotsLink:
     - Knots:
       - Spline: 0
-        Knot: 1
+        Knot: 4
       - Spline: 0
-        Knot: 2
+        Knot: 5
 --- !u!1 &3609337099809190105
 GameObject:
   m_ObjectHideFlags: 0
@@ -148,7 +268,7 @@ GameObject:
   - component: {fileID: 1238716533607587195}
   - component: {fileID: 6233517148166652384}
   - component: {fileID: 4796594675875548893}
-  - component: {fileID: 5077692215356374030}
+  - component: {fileID: 5877829215587902559}
   m_Layer: 0
   m_Name: Animal
   m_TagString: Untagged
@@ -165,13 +285,13 @@ Transform:
   m_GameObject: {fileID: 3609337099809190105}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.67, y: -4.71, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_LocalPosition: {x: -0.8299999, y: -8.400001, z: 0}
+  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 5685383663479460918}
   m_Father: {fileID: 732482603073980966}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.04}
 --- !u!212 &6233517148166652384
 SpriteRenderer:
   serializedVersion: 2
@@ -219,9 +339,9 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 4
+  m_SortingOrder: 33
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 8959366166802588098, guid: 1fe6c582ceff3d64ab711a8c59e94b1f, type: 3}
+  m_Sprite: {fileID: -702560005100649048, guid: 4ba2e0c03fb8d1c41b3ff66745552394, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -247,14 +367,14 @@ MonoBehaviour:
   m_PlayOnAwake: 1
   m_LoopMode: 1
   m_Method: 0
-  m_Duration: 106.2
-  m_MaxSpeed: 0.011484567
+  m_Duration: 10.2
+  m_MaxSpeed: 5.135382
   m_EasingMode: 2
   m_AlignmentMode: 2
   m_ObjectForwardAxis: 2
   m_ObjectUpAxis: 1
   m_StartOffset: 0
---- !u!95 &5077692215356374030
+--- !u!95 &5877829215587902559
 Animator:
   serializedVersion: 7
   m_ObjectHideFlags: 0
@@ -264,7 +384,7 @@ Animator:
   m_GameObject: {fileID: 3609337099809190105}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 47fee29a0919caf4f8385a68257dabcf, type: 2}
+  m_Controller: {fileID: 9100000, guid: 08ecd30dac9f01e4683e9c3088abe0ab, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -287,7 +407,7 @@ GameObject:
   - component: {fileID: 732482603073980966}
   - component: {fileID: 2656590726033535926}
   m_Layer: 0
-  m_Name: KelzaLazy
+  m_Name: Armatrillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -302,7 +422,7 @@ Transform:
   m_GameObject: {fileID: 6378520522166410863}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10, y: 5, z: 0}
+  m_LocalPosition: {x: -10, y: 7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -324,7 +444,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AnimalController
   targetPoint: {fileID: 5685383663479460918}
   pointValue: 100
-  sfxPrefab: {fileID: 7412490270320244660, guid: 8714632733dc6644da1f40dea99ebf4f, type: 3}
+  sfxPrefab: {fileID: 0}
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0
