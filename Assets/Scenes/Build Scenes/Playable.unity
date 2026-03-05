@@ -1526,6 +1526,10 @@ PrefabInstance:
       value: LevelTimeline
       objectReference: {fileID: 0}
     - target: {fileID: 6988377301804395557, guid: fc021da8489a9ae4a9d5f8eca5725832, type: 3}
+      propertyPath: m_PlayableAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: bdc9420f9b2a2d94197c3d2b507ab4bd, type: 2}
+    - target: {fileID: 6988377301804395557, guid: fc021da8489a9ae4a9d5f8eca5725832, type: 3}
       propertyPath: m_ExposedReferences.m_References.Array.size
       value: 7
       objectReference: {fileID: 0}

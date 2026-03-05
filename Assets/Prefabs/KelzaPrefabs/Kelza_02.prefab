@@ -121,43 +121,43 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
-        z: -1.50453
+        z: -1.4643372
       TangentOut:
         x: 0
         y: 0
-        z: 1.9779133
+        z: 1.8113378
       Rotation:
         value:
-          x: 0.52134967
-          y: -0.4776971
-          z: 0.47769716
-          w: -0.5213496
+          x: -0.5204596
+          y: 0.4786667
+          z: -0.47866657
+          w: 0.5204597
     - Position:
-        x: 2.4300003
-        y: 7.18
+        x: 1.6400003
+        y: 7.13
         z: 0
       TangentIn:
-        x: -0
-        y: -0
-        z: -0.6890117
+        x: 0
+        y: 0
+        z: 0
       TangentOut:
         x: 0
         y: 0
-        z: 0.6890117
+        z: 0
       Rotation:
         value:
-          x: 0.5014492
-          y: -0.4985465
-          z: 0.49854657
-          w: -0.5014493
+          x: 0.4994801
+          y: -0.50051945
+          z: 0.5005195
+          w: -0.49947998
     - Position:
-        x: 2.4300003
-        y: 7.18
+        x: 1.6400003
+        y: 7.13
         z: 0
       TangentIn:
-        x: -0
-        y: -0
-        z: -0
+        x: 0
+        y: 0
+        z: 0
       TangentOut:
         x: 0
         y: 0
@@ -177,9 +177,9 @@ MonoBehaviour:
       Tension: 0.5
     - Mode: 0
       Tension: 0.5
-    - Mode: 0
+    - Mode: 1
       Tension: 0.5
-    - Mode: 0
+    - Mode: 1
       Tension: 0.5
     m_Closed: 0
     m_IntData:
@@ -224,7 +224,7 @@ Transform:
   m_GameObject: {fileID: 3609337099809190105}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.9520855, y: -0.4947939, z: -0.0000000045245407}
+  m_LocalPosition: {x: 0.6071391, y: -0.6753621, z: -0.000000026197931}
   m_LocalScale: {x: 0.43999997, y: 0.43999997, z: 0.43999997}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -306,7 +306,7 @@ MonoBehaviour:
   m_PlayOnAwake: 1
   m_LoopMode: 1
   m_Method: 1
-  m_Duration: 9.29156
+  m_Duration: 8.730745
   m_MaxSpeed: 5
   m_EasingMode: 2
   m_AlignmentMode: 2
@@ -325,7 +325,7 @@ GameObject:
   - component: {fileID: 2656590726033535926}
   - component: {fileID: 1883499844235302396}
   m_Layer: 0
-  m_Name: Kelza
+  m_Name: Kelza_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -390,7 +390,9 @@ MonoBehaviour:
     m_ObjectData:
       m_Data: []
   path: {fileID: 4796594675875548893}
-  currentKnot: 0
+  startSpeed: 3
+  newSpeed: 10
+  knotAdjustSpeed: 1
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0
