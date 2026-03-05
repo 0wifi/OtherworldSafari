@@ -2,30 +2,42 @@ using UnityEngine;
 using UnityEngine.Splines;
 using System.Collections.Generic;
 using System.Linq;
+using System.Collections;
 
 public class SplineSpeedAdjust : MonoBehaviour
 {
     public SplineContainer container;
     public Spline spline;
     public SplineAnimate path;
-    public int currentKnot;
+    private int currentKnot;
+    public float startSpeed;
+    public float newSpeed;
+    public int knotAdjustSpeed;
+    private bool stupidCheck = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         spline = container.Spline;
+        path.MaxSpeed = startSpeed;
+        StartCoroutine(ChangeSplineSpeed());
     }
 
-    // Update is called once per frame
-    void Update()
+    IEnumerator ChangeSplineSpeed()
     {
-        float knotIndexFloat = SplineUtility.ConvertIndexUnit(spline, path.NormalizedTime, PathIndexUnit.Normalized, 
+        float knotIndexFloat = SplineUtility.ConvertIndexUnit(spline, path.NormalizedTime, PathIndexUnit.Normalized,
             PathIndexUnit.Knot);
         currentKnot = Mathf.FloorToInt(knotIndexFloat);
-        if(currentKnot > 2)
+        print(currentKnot);
+        if (currentKnot > knotAdjustSpeed)
         {
-            path.MaxSpeed = 4;
+            path.MaxSpeed = newSpeed;
+            stupidCheck = true;
         }
-        print(knotIndexFloat);
+        yield return new WaitForSeconds(0.1f);
+        if(!stupidCheck)
+        {
+            StartCoroutine(ChangeSplineSpeed());
+        }
     }
 }
