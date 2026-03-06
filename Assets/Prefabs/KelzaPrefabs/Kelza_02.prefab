@@ -363,6 +363,7 @@ MonoBehaviour:
   targetPoint: {fileID: 5685383663479460918}
   pointValue: 100
   sfxPrefab: {fileID: 7412490270320244660, guid: 8714632733dc6644da1f40dea99ebf4f, type: 3}
+  facingLeft: 1
 --- !u!114 &1883499844235302396
 MonoBehaviour:
   m_ObjectHideFlags: 0
