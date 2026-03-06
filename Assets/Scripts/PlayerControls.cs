@@ -40,7 +40,11 @@ public class PlayerControls : MonoBehaviour
 
     private bool isCameraOnCooldown = false;
 
-    public float CooldownTime = 0.1f;
+    public float CooldownTime = 0.1f;  
+
+    [Tooltip("Cooldown for saving image to display on end screen")]
+    public float ImageSaveCooldown = 6f;
+    private bool shouldSaveImage = true;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -114,8 +118,16 @@ public class PlayerControls : MonoBehaviour
                 //play camera hit sound
                 audioManager.InstantiateRandomOfList(audioManager.CameraHit, selectedBox.transform, true);
 
-                //get image capture from image capture system
-                imageCapture.StartCoroutine(imageCapture.CaptureImage(selectedBox.GetCamera()));
+                //get image capture from image capture system, saving if should save image
+                if (shouldSaveImage)
+                {
+                    imageCapture.StartCoroutine(imageCapture.CaptureImageAndSaveSprite(selectedBox.GetCamera()));
+                    StartCoroutine(SaveSpriteCooldown(ImageSaveCooldown));
+                }
+                else
+                {
+                    imageCapture.StartCoroutine(imageCapture.CaptureImage(selectedBox.GetCamera()));
+                }
 
                 //show camera visual effect
                 cameraFlash.doFlash(selectedBox);
@@ -135,6 +147,13 @@ public class PlayerControls : MonoBehaviour
         isCameraOnCooldown = true;
         yield return new WaitForSeconds(seconds);
         isCameraOnCooldown = false;
+    }
+
+    public IEnumerator SaveSpriteCooldown(float seconds)
+    {
+        shouldSaveImage = false;
+        yield return new WaitForSeconds(seconds);
+        shouldSaveImage = true;
     }
 
     #region Inputs

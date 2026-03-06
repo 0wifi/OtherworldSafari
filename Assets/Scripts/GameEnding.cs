@@ -1,10 +1,14 @@
+using NaughtyAttributes;
+using System;
 using System.Collections;
+using Unity.Hierarchy;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
 public class GameEnding : MonoBehaviour
 {
+
     public IEnumerator GameTimer()
     {
         yield return new WaitForSeconds(120);
@@ -18,5 +22,11 @@ public class GameEnding : MonoBehaviour
             StartCoroutine(GameTimer());
         }
 
+    }
+
+    [Button]
+    private void SkipToEnd()
+    {
+        SceneManager.LoadScene("EndScene");
     }
 }

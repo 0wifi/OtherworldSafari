@@ -2,6 +2,7 @@ using NaughtyAttributes;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.Rendering;
@@ -13,6 +14,8 @@ public class ImageCapture : MonoBehaviour
 
     public Texture2D outputTexture;
 
+    public static List<Sprite> SavedSprites = new List<Sprite>();
+
     public IEnumerator CaptureImage(Camera camera)
     {
         yield return new WaitForEndOfFrame();
@@ -23,6 +26,22 @@ public class ImageCapture : MonoBehaviour
         //create new image instance
         GameObject imageInstance = Instantiate(captureImagePrefab, FindFirstObjectByType<Canvas>().transform);
         imageInstance.GetComponent<Image>().sprite = s;
+        imageInstance.GetComponent<RectTransform>().sizeDelta = new Vector2((s.rect.width / s.rect.height) * imageInstance.GetComponent<RectTransform>().rect.height, imageInstance.GetComponent<RectTransform>().rect.height);
+    }
+    public IEnumerator CaptureImageAndSaveSprite(Camera camera)
+    {
+        yield return new WaitForEndOfFrame();
+
+        //wait for sprite creation
+        Sprite s = CaptureCameraAsync(camera);
+
+        //create new image instance
+        GameObject imageInstance = Instantiate(captureImagePrefab, FindFirstObjectByType<Canvas>().transform);
+        imageInstance.GetComponent<Image>().sprite = s;
+        imageInstance.GetComponent<RectTransform>().sizeDelta = new Vector2((s.rect.width / s.rect.height) * imageInstance.GetComponent<RectTransform>().rect.height, imageInstance.GetComponent<RectTransform>().rect.height);
+
+        //Maintain sprite for use in end screen
+        SavedSprites.Add(s);
     }
 
     public Sprite CaptureCameraAsync(Camera cam)
@@ -34,7 +53,8 @@ public class ImageCapture : MonoBehaviour
 
     private void OutputTextureFromCamera(Camera cam)
     {
-        RenderTexture rt = new RenderTexture(cam.pixelWidth, cam.pixelHeight, 24);
+        RenderTexture rt = new RenderTexture((int)(cam.pixelWidth * 0.8), cam.pixelHeight, 24);
+        print($"{cam.pixelWidth}, {cam.pixelHeight}");
         cam.targetTexture = rt;
 
         // render the camera into the RenderTexture
