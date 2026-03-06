@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 public class StartScreen : MonoBehaviour
 {
     [SerializeField] private PlayerInput playerInput;
+    [SerializeField] private ScoreManager scoreManager;
     private InputAction startGame;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -17,6 +18,8 @@ public class StartScreen : MonoBehaviour
         startGame.started += StartGame_started;
 
         Cursor.visible = false;
+
+        scoreManager.ResetScore();
     }
 
     private void StartGame_started(InputAction.CallbackContext obj)

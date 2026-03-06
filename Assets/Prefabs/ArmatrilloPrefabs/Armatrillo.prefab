@@ -62,7 +62,7 @@ MonoBehaviour:
     m_Knots:
     - Position:
         x: 13
-        y: 1
+        y: -1.0699998
         z: 0
       TangentIn:
         x: 0
@@ -79,26 +79,26 @@ MonoBehaviour:
           z: 0.33641618
           w: -0.6219519
     - Position:
-        x: -0.009999514
-        y: 1.2500002
+        x: 1.3700005
+        y: 0.33000016
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.16657455
+        z: -0.26608738
       TangentOut:
         x: 0
         y: 0
-        z: 0.16669738
+        z: 0.29625505
       Rotation:
         value:
-          x: -0.7070742
-          y: -0.006782378
-          z: 0.006782378
-          w: 0.7070742
+          x: -0.7068386
+          y: 0.019471277
+          z: -0.019471275
+          w: 0.70683855
     - Position:
-        x: 13
-        y: 2
+        x: 15.89
+        y: 0.47000015
         z: 0
       TangentIn:
         x: 0
@@ -159,8 +159,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3609337099809190105}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 20.23, y: -6.59, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 15.47695, y: -7.6804147, z: -0.000000022415819}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_LoopMode: 1
   m_Method: 0
   m_Duration: 10.2
-  m_MaxSpeed: 2.5541997
+  m_MaxSpeed: 2.5743663
   m_EasingMode: 0
   m_AlignmentMode: 2
   m_ObjectForwardAxis: 2
