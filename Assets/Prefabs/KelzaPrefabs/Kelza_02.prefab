@@ -121,19 +121,19 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
-        z: -1.4643372
+        z: -1.5499266
       TangentOut:
         x: 0
         y: 0
-        z: 1.8113378
+        z: 2.187332
       Rotation:
         value:
-          x: -0.5204596
-          y: 0.4786667
-          z: -0.47866657
-          w: 0.5204597
+          x: 0.5205051
+          y: -0.47861722
+          z: 0.47861722
+          w: -0.5205052
     - Position:
-        x: 1.6400003
+        x: 3.4800005
         y: 7.13
         z: 0
       TangentIn:
@@ -151,7 +151,7 @@ MonoBehaviour:
           z: 0.5005195
           w: -0.49947998
     - Position:
-        x: 1.6400003
+        x: 3.4800005
         y: 7.13
         z: 0
       TangentIn:
@@ -224,8 +224,8 @@ Transform:
   m_GameObject: {fileID: 3609337099809190105}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.6071391, y: -0.6753621, z: -0.000000026197931}
-  m_LocalScale: {x: 0.43999997, y: 0.43999997, z: 0.43999997}
+  m_LocalPosition: {x: 8.309999, y: -4.67, z: 0}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 5685383663479460918}
@@ -280,7 +280,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 4
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1823981257379117417, guid: 6ecc561581a92d94dbff736bad74f487, type: 3}
+  m_Sprite: {fileID: 8959366166802588098, guid: 1fe6c582ceff3d64ab711a8c59e94b1f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -306,7 +306,7 @@ MonoBehaviour:
   m_PlayOnAwake: 1
   m_LoopMode: 1
   m_Method: 1
-  m_Duration: 8.730745
+  m_Duration: 9.467382
   m_MaxSpeed: 5
   m_EasingMode: 2
   m_AlignmentMode: 2
