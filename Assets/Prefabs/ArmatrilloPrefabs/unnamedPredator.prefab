@@ -67,71 +67,71 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
-        z: -1.0651612
+        z: -1.0590925
       TangentOut:
         x: 0
         y: 0
-        z: 1.0651612
+        z: 1.0590925
       Rotation:
         value:
-          x: -0.51888907
-          y: 0.48036876
-          z: -0.48036858
-          w: 0.5188892
+          x: 0.49668437
+          y: -0.5032938
+          z: 0.50329393
+          w: -0.4966842
     - Position:
-        x: 7.620001
-        y: 0.08000001
+        x: 7.5900006
+        y: -0.88
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -3.189407
+        z: -3.1578364
       TangentOut:
         x: 0
         y: 0
-        z: 2.6158655
+        z: 2.5792422
       Rotation:
         value:
-          x: 0.4991522
-          y: -0.50084645
-          z: 0.5008464
-          w: -0.4991522
+          x: 0.47043347
+          y: -0.5279133
+          z: 0.5279133
+          w: -0.47043338
     - Position:
-        x: 14.76
-        y: -0.52
+        x: 14.490001
+        y: -2.4
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -2.4682488
+        z: -2.5004592
       TangentOut:
         x: 0
         y: 0
-        z: 2.647383
+        z: 2.8826394
       Rotation:
         value:
-          x: -0.49280623
-          y: 0.5070917
-          z: -0.50709176
-          w: 0.49280623
+          x: 0.47831112
+          y: -0.5207864
+          z: 0.5207865
+          w: -0.478311
     - Position:
-        x: 23
-        y: -0.3
+        x: 23.87
+        y: -1.96
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.8242936
+        z: -0.9390314
       TangentOut:
         x: 0
         y: 0
-        z: 0.8242936
+        z: 0.9390314
       Rotation:
         value:
-          x: -0.5066284
-          y: 0.49328256
-          z: -0.49328244
-          w: 0.5066285
+          x: 0.51158017
+          y: -0.48814523
+          z: 0.48814535
+          w: -0.5115801
     m_MetaData:
     - Mode: 0
       Tension: 0.5
@@ -262,7 +262,7 @@ MonoBehaviour:
   m_LoopMode: 1
   m_Method: 0
   m_Duration: 10.2
-  m_MaxSpeed: 2.555775
+  m_MaxSpeed: 2.6541991
   m_EasingMode: 0
   m_AlignmentMode: 2
   m_ObjectForwardAxis: 2
