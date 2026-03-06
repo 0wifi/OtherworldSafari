@@ -367,7 +367,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: AnimalParentTemplate (2) Variant
+    m_DisplayName: Skrunkly
   - m_Version: 1
     m_Start: 6.9
     m_ClipIn: 0
@@ -621,7 +621,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: AnimalParentTemplate (2) Variant
+    m_DisplayName: Skrunkly
   - m_Version: 1
     m_Start: 0.4333333
     m_ClipIn: 0
@@ -968,6 +968,30 @@ MonoBehaviour:
   prefabGameObject: {fileID: 5390344515346585213, guid: 0f9fe2cb366ad134a98eee19f2ca6ff0, type: 3}
   updateParticle: 1
   particleRandomSeed: 7765
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 0
+  active: 1
+  postPlayback: 2
+  directorOnClipEnd: 0
+--- !u!114 &-4248473381230501352
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: Unity.Timeline::UnityEngine.Timeline.ControlPlayableAsset
+  sourceGameObject:
+    exposedName: 
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 1563710583609721073, guid: 67f4125ef5499fc4b8136428abf5b9c6, type: 3}
+  updateParticle: 1
+  particleRandomSeed: 9456
   updateDirector: 1
   updateITimeControl: 1
   searchHierarchy: 0
@@ -1541,7 +1565,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: AnimalParentTemplate (2) Variant
+    m_DisplayName: Skrunkly
   m_Markers:
     m_Objects: []
 --- !u!114 &3010554682264834116
@@ -1730,6 +1754,75 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: Aquazella
+  - m_Version: 1
+    m_Start: 13.35
+    m_ClipIn: 0
+    m_Asset: {fileID: -4248473381230501352}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 5013923532854279050}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Queentonia
   m_Markers:
     m_Objects: []
 --- !u!114 &5578799056681278578
@@ -2099,7 +2192,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Bird
   - m_Version: 1
     m_Start: 0
     m_ClipIn: 0
@@ -2562,7 +2655,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Bird
   - m_Version: 1
     m_Start: 0.4
     m_ClipIn: 0

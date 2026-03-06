@@ -50,23 +50,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1238716533607587195, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.18
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 1238716533607587195, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.18
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 1238716533607587195, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.18
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 1238716533607587195, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.23
+      value: -0.8299999
       objectReference: {fileID: 0}
     - target: {fileID: 1238716533607587195, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.59
+      value: -8.400001
       objectReference: {fileID: 0}
     - target: {fileID: 1238716533607587195, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_LocalPosition.z
@@ -438,7 +438,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4796594675875548893, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_MaxSpeed
-      value: 13.28098
+      value: 13.255702
       objectReference: {fileID: 0}
     - target: {fileID: 4796594675875548893, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_EasingMode
@@ -447,7 +447,7 @@ PrefabInstance:
     - target: {fileID: 6233517148166652384, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 5931189508071146549, guid: 37d0741e79f0e5645899a79848a52844, type: 3}
+      objectReference: {fileID: -3551287784963028691, guid: 92088071eb495894b93743696650cb3f, type: 3}
     - target: {fileID: 6233517148166652384, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: m_SortingOrder
       value: 1
