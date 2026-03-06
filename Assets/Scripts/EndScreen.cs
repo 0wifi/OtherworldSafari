@@ -35,6 +35,7 @@ public class EndScreen : MonoBehaviour
     {
         SceneManager.LoadScene("StartScene");
         ImageCapture.SavedSprites = new System.Collections.Generic.List<Sprite>();
+        ScoreManager.score = 0;
     }
 
     // Update is called once per frame
