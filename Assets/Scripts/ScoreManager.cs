@@ -18,4 +18,9 @@ public class ScoreManager : MonoBehaviour
         score += points;
         if (scoreText != null) scoreText.text = "Score: " + score;
     }
+
+    public void ResetScore()
+    {
+        score = 0;
+    }
 }
