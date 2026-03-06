@@ -131,6 +131,8 @@ public class PlayerControls : MonoBehaviour
 
                 //show camera visual effect
                 cameraFlash.doFlash(selectedBox);
+
+                StartCoroutine(CameraCooldown(CooldownTime));
             }
             else //HAS MISSED
             {
@@ -138,7 +140,6 @@ public class PlayerControls : MonoBehaviour
                 audioManager.InstantiateSound(audioManager.CameraMiss, selectedBox.transform, true);
             }
 
-            StartCoroutine(CameraCooldown(CooldownTime));
         }
     }
 
