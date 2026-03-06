@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 974269270825639214}
   - component: {fileID: 765187408272876707}
   m_Layer: 0
-  m_Name: Armatrillo SFX 1
+  m_Name: ArmatrilloSFX2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,7 +44,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: -7129315869133983305, guid: 735a99e490cc99b4fbb87b05fedc0168, type: 2}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: f7ff4c4ecd72d1d40a3e11ef840fef71, type: 3}
+  m_Resource: {fileID: 8300000, guid: 02c9c896ee0945e4e955c75365282d1a, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
