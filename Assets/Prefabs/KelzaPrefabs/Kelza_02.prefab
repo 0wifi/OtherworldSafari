@@ -85,56 +85,56 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
-        z: -1.6325114
+        z: -1.5080316
       TangentOut:
         x: 0
         y: 0
-        z: 1.1440756
+        z: 1.0572015
       Rotation:
         value:
-          x: 0.6354342
-          y: 0.31019878
-          z: -0.31020033
-          w: -0.63543355
+          x: 0.6488621
+          y: 0.28103003
+          z: -0.2810313
+          w: -0.6488616
     - Position:
-        x: -8.389999
-        y: 6.4700003
+        x: -7.72
+        y: 6.57
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.8641373
+        z: -0.87450284
       TangentOut:
         x: 0
         y: 0
-        z: 0.8930426
+        z: 0.89478403
       Rotation:
         value:
-          x: -0.6772409
-          y: 0.20333415
-          z: -0.20333412
-          w: 0.6772409
+          x: 0.65801185
+          y: -0.25888306
+          z: 0.25888327
+          w: -0.6580118
     - Position:
-        x: -4.46
-        y: 7.14
+        x: -3.81
+        y: 6.6400003
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -1.5499266
+        z: -1.521722
       TangentOut:
         x: 0
         y: 0
-        z: 2.187332
+        z: 2.1339386
       Rotation:
         value:
-          x: 0.5205051
-          y: -0.47861722
-          z: 0.47861722
-          w: -0.5205052
+          x: 0.50126076
+          y: -0.49873605
+          z: 0.4987361
+          w: -0.5012607
     - Position:
-        x: 3.4800005
-        y: 7.13
+        x: 3.88
+        y: 6.58
         z: 0
       TangentIn:
         x: 0
@@ -151,8 +151,8 @@ MonoBehaviour:
           z: 0.5005195
           w: -0.49947998
     - Position:
-        x: 3.4800005
-        y: 7.13
+        x: 3.88
+        y: 6.58
         z: 0
       TangentIn:
         x: 0
@@ -306,7 +306,7 @@ MonoBehaviour:
   m_PlayOnAwake: 1
   m_LoopMode: 1
   m_Method: 1
-  m_Duration: 9.467382
+  m_Duration: 9.340855
   m_MaxSpeed: 5
   m_EasingMode: 2
   m_AlignmentMode: 2
