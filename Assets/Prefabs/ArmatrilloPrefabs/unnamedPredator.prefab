@@ -85,53 +85,53 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
-        z: -3.1578364
+        z: -3.1720262
       TangentOut:
         x: 0
         y: 0
-        z: 2.5792422
+        z: 2.5885212
       Rotation:
         value:
-          x: 0.47043347
-          y: -0.5279133
-          z: 0.5279133
-          w: -0.47043338
+          x: -0.5018891
+          y: 0.49810368
+          z: -0.49810368
+          w: 0.5018891
     - Position:
-        x: 14.490001
-        y: -2.4
+        x: 14.640001
+        y: -0.67999995
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -2.5004592
+        z: -2.516118
       TangentOut:
         x: 0
         y: 0
-        z: 2.8826394
+        z: 2.8994377
       Rotation:
         value:
-          x: 0.47831112
-          y: -0.5207864
-          z: 0.5207865
-          w: -0.478311
+          x: 0.4992728
+          y: -0.50072616
+          z: 0.50072616
+          w: -0.49927273
     - Position:
-        x: 23.87
-        y: -1.96
+        x: 24
+        y: -1
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.9390314
+        z: -0.93654674
       TangentOut:
         x: 0
         y: 0
-        z: 0.9390314
+        z: 0.93654674
       Rotation:
         value:
-          x: 0.51158017
-          y: -0.48814523
-          z: 0.48814535
-          w: -0.5115801
+          x: 0.49138382
+          y: -0.5084703
+          z: 0.50847036
+          w: -0.4913837
     m_MetaData:
     - Mode: 0
       Tension: 0.5
@@ -262,7 +262,7 @@ MonoBehaviour:
   m_LoopMode: 1
   m_Method: 0
   m_Duration: 10.2
-  m_MaxSpeed: 2.6541991
+  m_MaxSpeed: 2.6480958
   m_EasingMode: 0
   m_AlignmentMode: 2
   m_ObjectForwardAxis: 2
@@ -294,7 +294,7 @@ Transform:
   m_GameObject: {fileID: 6378520522166410863}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.59, y: -3.8, z: 0}
+  m_LocalPosition: {x: -16.59, y: -3.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:

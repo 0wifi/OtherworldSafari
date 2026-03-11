@@ -1293,7 +1293,7 @@ PrefabInstance:
     - target: {fileID: 6988377301804395557, guid: fc021da8489a9ae4a9d5f8eca5725832, type: 3}
       propertyPath: m_PlayableAsset
       value: 
-      objectReference: {fileID: 11400000, guid: b9e5a2b88aa41874fa36eeacd233d5a4, type: 2}
+      objectReference: {fileID: 11400000, guid: f19e2436b1fb01f4fafc95902237f06a, type: 2}
     - target: {fileID: 6988377301804395557, guid: fc021da8489a9ae4a9d5f8eca5725832, type: 3}
       propertyPath: m_ExposedReferences.m_References.Array.size
       value: 16
