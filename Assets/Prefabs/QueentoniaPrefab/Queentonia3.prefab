@@ -77,6 +77,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 7412490270320244660, guid: 81353dd6f10d3be4fb58c2e561a45890, type: 3}
     - target: {fileID: 2656590726033535926, guid: c00c569895a18f249b7e51610db28e61, type: 3}
+      propertyPath: facingLeft
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2656590726033535926, guid: c00c569895a18f249b7e51610db28e61, type: 3}
       propertyPath: pointValue
       value: 150
       objectReference: {fileID: 0}
