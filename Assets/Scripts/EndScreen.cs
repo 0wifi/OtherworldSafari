@@ -38,9 +38,11 @@ public class EndScreen : MonoBehaviour
         ScoreManager.score = 0;
     }
 
-    // Update is called once per frame
     void Awake()
     {
+        ButtonPressCountJSONService.SaveLastRunCounts();
+        ButtonPressCountJSONService.pressCounts = new ButtonPressCountData();
+
         if (scoreText != null) scoreText.text = "Score: " + ScoreManager.score;
 
         foreach (var s in ImageCapture.SavedSprites)
