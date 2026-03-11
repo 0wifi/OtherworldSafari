@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 63572981050153695}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 8.77, y: -8.9, z: 0}
+  m_LocalPosition: {x: 8.23, y: 3.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -61,98 +61,78 @@ MonoBehaviour:
   - m_EditModeType: 1
     m_Knots:
     - Position:
-        x: -9.059999
-        y: -0.8100004
+        x: -3
+        y: -0.74
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.2858478
+        z: -1.0609454
       TangentOut:
         x: 0
         y: 0
-        z: 0.2858478
+        z: 1.0609454
       Rotation:
         value:
-          x: 0.5188844
-          y: -0.4803737
-          z: 0.48037383
-          w: -0.5188844
+          x: -0.5182812
+          y: 0.4810245
+          z: -0.48102435
+          w: 0.51828134
     - Position:
-        x: -6.21
-        y: -0.59000015
+        x: 7.580001
+        y: 0.05000007
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.89574605
+        z: -3.1862602
       TangentOut:
         x: 0
         y: 0
-        z: 0.79451776
+        z: 2.6129057
       Rotation:
         value:
-          x: 0.5203243
-          y: -0.4788137
-          z: 0.47881377
-          w: -0.52032423
+          x: 0.5136784
+          y: -0.4859368
+          z: 0.48593685
+          w: -0.5136783
     - Position:
-        x: -3.9699998
-        y: -0.39000034
+        x: 14.710001
+        y: 0.31000006
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.94395113
+        z: -2.5497642
       TangentOut:
         x: 0
         y: 0
-        z: 1.6050075
+        z: 2.9461305
       Rotation:
         value:
-          x: -0.51828223
-          y: 0.4810234
-          z: -0.4810234
-          w: 0.51828223
+          x: 0.50867933
+          y: -0.49116722
+          z: 0.4911677
+          w: -0.5086789
     - Position:
-        x: 2.5200005
-        y: 0
+        x: 24.23
+        y: 0.63000005
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -2.5883007
+        z: -0.95253754
       TangentOut:
         x: 0
         y: 0
-        z: 3.8427253
+        z: 0.95253754
       Rotation:
         value:
-          x: 0.50598353
-          y: -0.49394396
-          z: 0.4939445
-          w: -0.5059831
-    - Position:
-        x: 16.849998
-        y: -0.16999999
-        z: 0
-      TangentIn:
-        x: -0
-        y: -0
-        z: -1.4331007
-      TangentOut:
-        x: 0
-        y: 0
-        z: 1.4331007
-      Rotation:
-        value:
-          x: -0.4970254
-          y: 0.502957
-          z: -0.5029567
-          w: 0.49702573
+          x: 0.5083294
+          y: -0.49152946
+          z: 0.49152982
+          w: -0.5083291
     m_MetaData:
-    - Mode: 0
-      Tension: 0.5
     - Mode: 0
       Tension: 0.5
     - Mode: 0
@@ -199,8 +179,8 @@ Transform:
   m_GameObject: {fileID: 3609337099809190105}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.289999, y: -9.71, z: 0}
-  m_LocalScale: {x: 0.19402336, y: 0.19402336, z: 0.19402336}
+  m_LocalPosition: {x: 5.2299995, y: 2.56, z: 0}
+  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 5685383663479460918}
@@ -253,9 +233,9 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 33
+  m_SortingOrder: 30
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7942164138238156628, guid: 364073d806fb51042af10dec66f48398, type: 3}
+  m_Sprite: {fileID: 8208937043870901447, guid: 12eeea797c203e54cbafd48f9a8a2eb0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -281,9 +261,9 @@ MonoBehaviour:
   m_PlayOnAwake: 1
   m_LoopMode: 1
   m_Method: 0
-  m_Duration: 5
-  m_MaxSpeed: 10.376757
-  m_EasingMode: 1
+  m_Duration: 10.2
+  m_MaxSpeed: 2.6735284
+  m_EasingMode: 0
   m_AlignmentMode: 2
   m_ObjectForwardAxis: 2
   m_ObjectUpAxis: 1
@@ -299,7 +279,7 @@ GameObject:
   - component: {fileID: 732482603073980966}
   - component: {fileID: 2656590726033535926}
   m_Layer: 0
-  m_Name: TallBug
+  m_Name: unnamedPredator1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -314,7 +294,7 @@ Transform:
   m_GameObject: {fileID: 6378520522166410863}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.96, y: 9.4, z: 0}
+  m_LocalPosition: {x: -16.59, y: -4.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -336,8 +316,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AnimalController
   targetPoint: {fileID: 5685383663479460918}
   pointValue: 100
-  sfxPrefab: {fileID: 7412490270320244660, guid: ebf528d8abce10d499912ce7af35fbd0, type: 3}
-  facingLeft: 0
+  sfxPrefab: {fileID: 7412490270320244660, guid: 53693c357e128564babbcd7c6dc7078b, type: 3}
+  facingLeft: 1
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0
@@ -363,7 +343,7 @@ Transform:
   m_GameObject: {fileID: 7095773058980906286}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.2, y: -4.4, z: 0}
+  m_LocalPosition: {x: -1.29, y: 0.44, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

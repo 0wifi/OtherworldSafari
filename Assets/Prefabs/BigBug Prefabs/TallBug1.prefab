@@ -85,71 +85,71 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
-        z: -0.89574605
+        z: -1.2520274
       TangentOut:
         x: 0
         y: 0
-        z: 0.79451776
+        z: 2.405424
       Rotation:
         value:
-          x: 0.5203243
-          y: -0.4788137
-          z: 0.47881377
-          w: -0.52032423
+          x: 0.50790757
+          y: -0.49196538
+          z: 0.4919655
+          w: -0.50790745
     - Position:
-        x: -3.9699998
-        y: -0.39000034
+        x: 4.3399997
+        y: -0.73
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.94395113
+        z: -0.09079663
       TangentOut:
         x: 0
         y: 0
-        z: 1.6050075
+        z: 0.075869694
       Rotation:
         value:
-          x: -0.51828223
-          y: 0.4810234
-          z: -0.4810234
-          w: 0.51828223
+          x: -0.0053355223
+          y: 0.7070866
+          z: -0.7070866
+          w: 0.0053355526
     - Position:
-        x: 2.5200005
-        y: 0
+        x: -3.0200005
+        y: -1.05
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -2.5883007
+        z: -2.320951
       TangentOut:
         x: 0
         y: 0
-        z: 3.8427253
+        z: 2.0805743
       Rotation:
         value:
-          x: 0.50598353
-          y: -0.49394396
-          z: 0.4939445
-          w: -0.5059831
+          x: 0.49475262
+          y: 0.5051929
+          z: -0.5051929
+          w: -0.49475268
     - Position:
-        x: 16.849998
-        y: -0.16999999
+        x: -8.940001
+        y: -1.04
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -1.4331007
+        z: -0.59200084
       TangentOut:
         x: 0
         y: 0
-        z: 1.4331007
+        z: 0.59200084
       Rotation:
         value:
-          x: -0.4970254
-          y: 0.502957
-          z: -0.5029567
-          w: 0.49702573
+          x: -0.70710653
+          y: 0.00059721735
+          z: 0.70710653
+          w: 0.00059721735
     m_MetaData:
     - Mode: 0
       Tension: 0.5
@@ -281,9 +281,9 @@ MonoBehaviour:
   m_PlayOnAwake: 1
   m_LoopMode: 1
   m_Method: 0
-  m_Duration: 5
-  m_MaxSpeed: 10.376757
-  m_EasingMode: 1
+  m_Duration: 8
+  m_MaxSpeed: 3.3379254
+  m_EasingMode: 0
   m_AlignmentMode: 2
   m_ObjectForwardAxis: 2
   m_ObjectUpAxis: 1
@@ -299,7 +299,7 @@ GameObject:
   - component: {fileID: 732482603073980966}
   - component: {fileID: 2656590726033535926}
   m_Layer: 0
-  m_Name: TallBug
+  m_Name: TallBug1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -336,7 +336,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AnimalController
   targetPoint: {fileID: 5685383663479460918}
   pointValue: 100
-  sfxPrefab: {fileID: 7412490270320244660, guid: ebf528d8abce10d499912ce7af35fbd0, type: 3}
+  sfxPrefab: {fileID: 7412490270320244660, guid: b2921ea68056d3d4895b61d98f441011, type: 3}
   facingLeft: 0
 --- !u!1 &7095773058980906286
 GameObject:
