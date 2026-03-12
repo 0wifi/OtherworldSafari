@@ -1,0 +1,7722 @@
+fileFormatVersion: 2
+guid: 72c533aa7ee05674ba9df7225bdb6175
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3504935765589451620
+    second: TallBug_6_0
+  - first:
+      213: 8959096683691790314
+    second: TallBug_6_1
+  - first:
+      213: 5645845413265471202
+    second: TallBug_6_2
+  - first:
+      213: 8527818554160357053
+    second: TallBug_6_3
+  - first:
+      213: 3571950590470592580
+    second: TallBug_6_4
+  - first:
+      213: 1720650824888780790
+    second: TallBug_6_5
+  - first:
+      213: 3960640676956325731
+    second: TallBug_6_6
+  - first:
+      213: 558245785094248108
+    second: TallBug_6_7
+  - first:
+      213: 8955535531679506719
+    second: TallBug_6_8
+  - first:
+      213: 8881255312468155367
+    second: TallBug_6_9
+  - first:
+      213: -922348067486941748
+    second: TallBug_6_10
+  - first:
+      213: 3486813160317100858
+    second: TallBug_6_11
+  - first:
+      213: 7202078735688294034
+    second: TallBug_6_12
+  - first:
+      213: 9042150822489427620
+    second: TallBug_6_13
+  - first:
+      213: -3841159286297262469
+    second: TallBug_6_14
+  - first:
+      213: -3691101654166769437
+    second: TallBug_6_15
+  - first:
+      213: 7310184909875909859
+    second: TallBug_6_16
+  - first:
+      213: -5494907273454197581
+    second: TallBug_6_17
+  - first:
+      213: -2813833623108791728
+    second: TallBug_6_18
+  - first:
+      213: -6332736713725273797
+    second: TallBug_6_19
+  - first:
+      213: -7755720179135842559
+    second: TallBug_6_20
+  - first:
+      213: -3530214296168825423
+    second: TallBug_6_21
+  - first:
+      213: 5003425925925694078
+    second: TallBug_6_22
+  - first:
+      213: 8134592758101584433
+    second: TallBug_6_23
+  - first:
+      213: 2056347145021963283
+    second: TallBug_6_24
+  - first:
+      213: 2755042251912918242
+    second: TallBug_6_25
+  - first:
+      213: 525571569602716810
+    second: TallBug_6_26
+  - first:
+      213: 1372791797741413602
+    second: TallBug_6_27
+  - first:
+      213: -4592810178333976027
+    second: TallBug_6_28
+  - first:
+      213: -1408949802942808809
+    second: TallBug_6_29
+  - first:
+      213: -227165610299814863
+    second: TallBug_6_30
+  - first:
+      213: -8552547851798330834
+    second: TallBug_6_31
+  - first:
+      213: -3463153868039074536
+    second: TallBug_6_32
+  - first:
+      213: -6447007393347779462
+    second: TallBug_6_33
+  - first:
+      213: 5619994164399822240
+    second: TallBug_6_34
+  - first:
+      213: -2777344535534567162
+    second: TallBug_6_35
+  - first:
+      213: 2696531533125988721
+    second: TallBug_6_36
+  - first:
+      213: -3795737629874246579
+    second: TallBug_6_37
+  - first:
+      213: 7888155731553853910
+    second: TallBug_6_38
+  - first:
+      213: -5455005003391051997
+    second: TallBug_6_39
+  - first:
+      213: 1510394460237266322
+    second: TallBug_6_40
+  - first:
+      213: 8453717510922450261
+    second: TallBug_6_41
+  - first:
+      213: -6896351442476866497
+    second: TallBug_6_42
+  - first:
+      213: 4702605015488186282
+    second: TallBug_6_43
+  - first:
+      213: -8673263183714541011
+    second: TallBug_6_44
+  - first:
+      213: 5508398834824478251
+    second: TallBug_6_45
+  - first:
+      213: 1255121214339753364
+    second: TallBug_6_46
+  - first:
+      213: -5242599614819164085
+    second: TallBug_6_47
+  - first:
+      213: 8129438661247906633
+    second: TallBug_6_48
+  - first:
+      213: 4453294398122872596
+    second: TallBug_6_49
+  - first:
+      213: 7399373095185749948
+    second: TallBug_6_50
+  - first:
+      213: -2636880518223208484
+    second: TallBug_6_51
+  - first:
+      213: 6192073022672260082
+    second: TallBug_6_52
+  - first:
+      213: 136786843614376359
+    second: TallBug_6_53
+  - first:
+      213: 7048155820276816975
+    second: TallBug_6_54
+  - first:
+      213: 4752048832317480180
+    second: TallBug_6_55
+  - first:
+      213: 7850732628440327791
+    second: TallBug_6_56
+  - first:
+      213: 4642053745468595486
+    second: TallBug_6_57
+  - first:
+      213: 2266506584346280355
+    second: TallBug_6_58
+  - first:
+      213: -1052656801102944623
+    second: TallBug_6_59
+  - first:
+      213: -3835519046719975864
+    second: TallBug_6_60
+  - first:
+      213: -5234295946520826817
+    second: TallBug_6_61
+  - first:
+      213: 8247744022049059499
+    second: TallBug_6_62
+  - first:
+      213: 1326738863393695456
+    second: TallBug_6_63
+  - first:
+      213: -4019577107620099474
+    second: TallBug_6_64
+  - first:
+      213: -8806271107786378371
+    second: TallBug_6_65
+  - first:
+      213: 3437668187071642632
+    second: TallBug_6_66
+  - first:
+      213: -3430365746032763565
+    second: TallBug_6_67
+  - first:
+      213: 3791231873257940420
+    second: TallBug_6_68
+  - first:
+      213: -508319651640715918
+    second: TallBug_6_69
+  - first:
+      213: -7270079957940850216
+    second: TallBug_6_70
+  - first:
+      213: -8782094867493845458
+    second: TallBug_6_71
+  - first:
+      213: -2951184175227003102
+    second: TallBug_6_72
+  - first:
+      213: -3930320938234299291
+    second: TallBug_6_73
+  - first:
+      213: -8571410317363219152
+    second: TallBug_6_74
+  - first:
+      213: 3044148290460650328
+    second: TallBug_6_75
+  - first:
+      213: -2588734785715873103
+    second: TallBug_6_76
+  - first:
+      213: -7391410151684160247
+    second: TallBug_6_77
+  - first:
+      213: -7989196604960098135
+    second: TallBug_6_78
+  - first:
+      213: 932036859253551307
+    second: TallBug_6_79
+  - first:
+      213: 4004356033064279281
+    second: TallBug_6_80
+  - first:
+      213: 8475812011464741018
+    second: TallBug_6_81
+  - first:
+      213: 4561249726584245455
+    second: TallBug_6_82
+  - first:
+      213: -4987522740987722635
+    second: TallBug_6_83
+  - first:
+      213: 7042943879005813014
+    second: TallBug_6_84
+  - first:
+      213: -16790793230700124
+    second: TallBug_6_85
+  - first:
+      213: -8737273554130260476
+    second: TallBug_6_86
+  - first:
+      213: -2913706057034805012
+    second: TallBug_6_87
+  - first:
+      213: 4617732442550089185
+    second: TallBug_6_88
+  - first:
+      213: -1856076121367975778
+    second: TallBug_6_89
+  - first:
+      213: -74103434717805381
+    second: TallBug_6_90
+  - first:
+      213: -6762232197937297299
+    second: TallBug_6_91
+  - first:
+      213: -6139744911313614239
+    second: TallBug_6_92
+  - first:
+      213: -4395321693000986959
+    second: TallBug_6_93
+  - first:
+      213: -3151249953039560692
+    second: TallBug_6_94
+  - first:
+      213: 3480061241801929030
+    second: TallBug_6_95
+  - first:
+      213: -1449170772951572947
+    second: TallBug_6_96
+  - first:
+      213: -7872546040189978203
+    second: TallBug_6_97
+  - first:
+      213: 5858583005846330586
+    second: TallBug_6_98
+  - first:
+      213: 1555798274254278483
+    second: TallBug_6_99
+  - first:
+      213: 8199340261548561710
+    second: TallBug_6_100
+  - first:
+      213: 4965926430318785008
+    second: TallBug_6_101
+  - first:
+      213: 8300004414691624315
+    second: TallBug_6_102
+  - first:
+      213: -2686689876042561196
+    second: TallBug_6_103
+  - first:
+      213: -4574510532298495634
+    second: TallBug_6_104
+  - first:
+      213: -4423262556494042310
+    second: TallBug_6_105
+  - first:
+      213: -3749488544623796901
+    second: TallBug_6_106
+  - first:
+      213: -3385884801240702022
+    second: TallBug_6_107
+  - first:
+      213: 8428088667369539274
+    second: TallBug_6_108
+  - first:
+      213: 4124360839375882234
+    second: TallBug_6_109
+  - first:
+      213: 2848884289529525292
+    second: TallBug_6_110
+  - first:
+      213: 2671021247099295007
+    second: TallBug_6_111
+  - first:
+      213: -8672879686752955905
+    second: TallBug_6_112
+  - first:
+      213: -7744550139055390265
+    second: TallBug_6_113
+  - first:
+      213: -7792229102691884670
+    second: TallBug_6_114
+  - first:
+      213: 7775802795248047137
+    second: TallBug_6_115
+  - first:
+      213: -4952426656062214569
+    second: TallBug_6_116
+  - first:
+      213: 7354458871514961923
+    second: TallBug_6_117
+  - first:
+      213: -3113721526155140952
+    second: TallBug_6_118
+  - first:
+      213: 9003768925920494852
+    second: TallBug_6_119
+  - first:
+      213: -7332886729514076015
+    second: TallBug_6_120
+  - first:
+      213: -5881055568245447771
+    second: TallBug_6_121
+  - first:
+      213: 3283933944630897088
+    second: TallBug_6_122
+  - first:
+      213: 2245706599808560911
+    second: TallBug_6_123
+  - first:
+      213: -4024633631814459465
+    second: TallBug_6_124
+  - first:
+      213: 6110113836004744393
+    second: TallBug_6_125
+  - first:
+      213: 2434948887904348367
+    second: TallBug_6_126
+  - first:
+      213: 6870052529921256674
+    second: TallBug_6_127
+  - first:
+      213: 3530508257691207576
+    second: TallBug_6_128
+  - first:
+      213: 97540929587255600
+    second: TallBug_6_129
+  - first:
+      213: 2068286173049249774
+    second: TallBug_6_130
+  - first:
+      213: 1220925971014151466
+    second: TallBug_6_131
+  - first:
+      213: 1656379736324064871
+    second: TallBug_6_132
+  - first:
+      213: -2855160374533239401
+    second: TallBug_6_133
+  - first:
+      213: 3210804728436973857
+    second: TallBug_6_134
+  - first:
+      213: 623681396791842890
+    second: TallBug_6_135
+  - first:
+      213: 1429336962093832832
+    second: TallBug_6_136
+  - first:
+      213: 5583665099506376657
+    second: TallBug_6_137
+  - first:
+      213: -7405557534135320356
+    second: TallBug_6_138
+  - first:
+      213: 1564585220028119041
+    second: TallBug_6_139
+  - first:
+      213: -6162536627623794485
+    second: TallBug_6_140
+  - first:
+      213: 2278397079885841322
+    second: TallBug_6_141
+  - first:
+      213: 3413055339450166224
+    second: TallBug_6_142
+  - first:
+      213: -2215222160852579969
+    second: TallBug_6_143
+  - first:
+      213: 6818232249082823668
+    second: TallBug_6_144
+  - first:
+      213: 1027045412011725326
+    second: TallBug_6_145
+  - first:
+      213: -6192172321678562389
+    second: TallBug_6_146
+  - first:
+      213: 9107196516503026254
+    second: TallBug_6_147
+  - first:
+      213: -7175223257260239274
+    second: TallBug_6_148
+  - first:
+      213: -3333641003382149451
+    second: TallBug_6_149
+  - first:
+      213: 6322223941569402106
+    second: TallBug_6_150
+  - first:
+      213: 2929646858122104930
+    second: TallBug_6_151
+  - first:
+      213: 7492590374591194684
+    second: TallBug_6_152
+  - first:
+      213: -7771891858840766558
+    second: TallBug_6_153
+  - first:
+      213: 8210354732611637113
+    second: TallBug_6_154
+  - first:
+      213: -4590331795689690718
+    second: TallBug_6_155
+  - first:
+      213: 4118791882825853026
+    second: TallBug_6_156
+  - first:
+      213: -6218394244950715103
+    second: TallBug_6_157
+  - first:
+      213: 7271384530658388423
+    second: TallBug_6_158
+  - first:
+      213: -1914400056524352613
+    second: TallBug_6_159
+  - first:
+      213: -1697359371256197619
+    second: TallBug_6_160
+  - first:
+      213: -6383674204606512935
+    second: TallBug_6_161
+  - first:
+      213: -7760281948145290056
+    second: TallBug_6_162
+  - first:
+      213: 1197388547071651863
+    second: TallBug_6_163
+  - first:
+      213: 6427255518103353978
+    second: TallBug_6_164
+  - first:
+      213: -8259732151638691652
+    second: TallBug_6_165
+  - first:
+      213: -7863272825762508549
+    second: TallBug_6_166
+  - first:
+      213: 9169228026788948845
+    second: TallBug_6_167
+  - first:
+      213: 3419639024065429210
+    second: TallBug_6_168
+  - first:
+      213: 2212764456755802511
+    second: TallBug_6_169
+  - first:
+      213: -6500237041569710082
+    second: TallBug_6_170
+  - first:
+      213: 6650116951003266438
+    second: TallBug_6_171
+  - first:
+      213: -6660777530593577310
+    second: TallBug_6_172
+  - first:
+      213: -3116604459821738429
+    second: TallBug_6_173
+  - first:
+      213: 3000320327859597242
+    second: TallBug_6_174
+  - first:
+      213: 7181838274965188496
+    second: TallBug_6_175
+  - first:
+      213: -1257988620319794314
+    second: TallBug_6_176
+  - first:
+      213: -8998456254497830701
+    second: TallBug_6_177
+  - first:
+      213: 5792464040613897412
+    second: TallBug_6_178
+  - first:
+      213: -4431011213027468321
+    second: TallBug_6_179
+  - first:
+      213: -434530282282183144
+    second: TallBug_6_180
+  - first:
+      213: -8443552866237038099
+    second: TallBug_6_181
+  - first:
+      213: -1816484999778797682
+    second: TallBug_6_182
+  - first:
+      213: -793412468108640086
+    second: TallBug_6_183
+  - first:
+      213: -6965662950999603323
+    second: TallBug_6_184
+  - first:
+      213: -2354658059866239905
+    second: TallBug_6_185
+  - first:
+      213: 5314710067649616420
+    second: TallBug_6_186
+  - first:
+      213: 5986908470801307515
+    second: TallBug_6_187
+  - first:
+      213: -6333633983923715918
+    second: TallBug_6_188
+  - first:
+      213: -2974287210851207579
+    second: TallBug_6_189
+  - first:
+      213: 1932019999584464403
+    second: TallBug_6_190
+  - first:
+      213: 6667651554852910458
+    second: TallBug_6_191
+  - first:
+      213: 2437445959699745805
+    second: TallBug_6_192
+  - first:
+      213: 1587864978585002880
+    second: TallBug_6_193
+  - first:
+      213: 1976768074257835692
+    second: TallBug_6_194
+  - first:
+      213: -2590058943566384672
+    second: TallBug_6_195
+  - first:
+      213: -1523208194485514985
+    second: TallBug_6_196
+  - first:
+      213: -2360213246419113635
+    second: TallBug_6_197
+  - first:
+      213: 363858268098468072
+    second: TallBug_6_198
+  - first:
+      213: 4251644976388475536
+    second: TallBug_6_199
+  - first:
+      213: 2951739391670524104
+    second: TallBug_6_200
+  - first:
+      213: -8018156454205663495
+    second: TallBug_6_201
+  - first:
+      213: 3034116170084001301
+    second: TallBug_6_202
+  - first:
+      213: 8582726579357259555
+    second: TallBug_6_203
+  - first:
+      213: 1177779298710348448
+    second: TallBug_6_204
+  - first:
+      213: 7752875872628784626
+    second: TallBug_6_205
+  - first:
+      213: 1584962663876389543
+    second: TallBug_6_206
+  - first:
+      213: -2241572210012712876
+    second: TallBug_6_207
+  - first:
+      213: 2312547639817880385
+    second: TallBug_6_208
+  - first:
+      213: 5701089376701558137
+    second: TallBug_6_209
+  - first:
+      213: -4533404275158660572
+    second: TallBug_6_210
+  - first:
+      213: -4481454891605411176
+    second: TallBug_6_211
+  - first:
+      213: 5463612955189460735
+    second: TallBug_6_212
+  - first:
+      213: 4453940658205559496
+    second: TallBug_6_213
+  - first:
+      213: -3952078397757493416
+    second: TallBug_6_214
+  - first:
+      213: -6720269785265677826
+    second: TallBug_6_215
+  - first:
+      213: -595899474167197042
+    second: TallBug_6_216
+  - first:
+      213: 775311274562355451
+    second: TallBug_6_217
+  - first:
+      213: 1999693202902853808
+    second: TallBug_6_218
+  - first:
+      213: 3568046504502200574
+    second: TallBug_6_219
+  - first:
+      213: -6589277683283242423
+    second: TallBug_6_220
+  - first:
+      213: 1112594186896726523
+    second: TallBug_6_221
+  - first:
+      213: 2771785198483731468
+    second: TallBug_6_222
+  - first:
+      213: -1432291156670601306
+    second: TallBug_6_223
+  - first:
+      213: -145344075800036470
+    second: TallBug_6_224
+  - first:
+      213: 9775123037763769
+    second: TallBug_6_225
+  - first:
+      213: 4651509706904273172
+    second: TallBug_6_226
+  - first:
+      213: -5743817391035191284
+    second: TallBug_6_227
+  - first:
+      213: 7422246823257203702
+    second: TallBug_6_228
+  - first:
+      213: -731277933105613085
+    second: TallBug_6_229
+  - first:
+      213: 461634492746001179
+    second: TallBug_6_230
+  - first:
+      213: -3414701787040186556
+    second: TallBug_6_231
+  - first:
+      213: 4704291268126103870
+    second: TallBug_6_232
+  - first:
+      213: 1681759881059813430
+    second: TallBug_6_233
+  - first:
+      213: -6968597814334766894
+    second: TallBug_6_234
+  - first:
+      213: 321993179173046377
+    second: TallBug_6_235
+  - first:
+      213: 6766598369543585209
+    second: TallBug_6_236
+  - first:
+      213: 7558354930654857114
+    second: TallBug_6_237
+  - first:
+      213: -572892326756613284
+    second: TallBug_6_238
+  - first:
+      213: 7306561015840959462
+    second: TallBug_6_239
+  - first:
+      213: 8897450590062772540
+    second: TallBug_6_240
+  - first:
+      213: -8872445518352941659
+    second: TallBug_6_241
+  - first:
+      213: -601995798640217987
+    second: TallBug_6_242
+  - first:
+      213: -966838919997848798
+    second: TallBug_6_243
+  - first:
+      213: 6833020928852328908
+    second: TallBug_6_244
+  - first:
+      213: 716887147373827240
+    second: TallBug_6_245
+  - first:
+      213: -2064826666524513953
+    second: TallBug_6_246
+  - first:
+      213: -3062176347726530885
+    second: TallBug_6_247
+  - first:
+      213: -6492131026726620050
+    second: TallBug_6_248
+  - first:
+      213: 8521250509878521744
+    second: TallBug_6_249
+  - first:
+      213: -1077036004089671567
+    second: TallBug_6_250
+  - first:
+      213: 2045898836516220505
+    second: TallBug_6_251
+  - first:
+      213: 2955918782586803658
+    second: TallBug_6_252
+  - first:
+      213: -4547400718540818240
+    second: TallBug_6_253
+  - first:
+      213: 6987996531967944784
+    second: TallBug_6_254
+  - first:
+      213: -636422686885469625
+    second: TallBug_6_255
+  - first:
+      213: -2232299888486884826
+    second: TallBug_6_256
+  - first:
+      213: 3559287436314504623
+    second: TallBug_6_257
+  - first:
+      213: -615173981621523865
+    second: TallBug_6_258
+  - first:
+      213: 9164998854694076396
+    second: TallBug_6_259
+  - first:
+      213: 369439138799812151
+    second: TallBug_6_260
+  - first:
+      213: -5560034905096058455
+    second: TallBug_6_261
+  - first:
+      213: -2800274625564773512
+    second: TallBug_6_262
+  - first:
+      213: 5145608695584219820
+    second: TallBug_6_263
+  - first:
+      213: 7647395869263854733
+    second: TallBug_6_264
+  - first:
+      213: -8038004659644539347
+    second: TallBug_6_265
+  - first:
+      213: 515923702673241598
+    second: TallBug_6_266
+  - first:
+      213: -335970674012169120
+    second: TallBug_6_267
+  - first:
+      213: 4430108009591123890
+    second: TallBug_6_268
+  - first:
+      213: -1700642305944459415
+    second: TallBug_6_269
+  - first:
+      213: -6544010962867593563
+    second: TallBug_6_270
+  - first:
+      213: -6306164638978242749
+    second: TallBug_6_271
+  - first:
+      213: 3253683014701813579
+    second: TallBug_6_272
+  - first:
+      213: -6475660541605658381
+    second: TallBug_6_273
+  - first:
+      213: 106868940189634867
+    second: TallBug_6_274
+  - first:
+      213: -7250425353641783235
+    second: TallBug_6_275
+  - first:
+      213: 5865379808008597601
+    second: TallBug_6_276
+  - first:
+      213: 2943051979379918460
+    second: TallBug_6_277
+  - first:
+      213: -8581661723020007625
+    second: TallBug_6_278
+  - first:
+      213: -4519521287695348047
+    second: TallBug_6_279
+  - first:
+      213: -8850963700216972209
+    second: TallBug_6_280
+  - first:
+      213: -4195064948173990615
+    second: TallBug_6_281
+  - first:
+      213: 7581917464769428358
+    second: TallBug_6_282
+  - first:
+      213: 6905882278808145657
+    second: TallBug_6_283
+  - first:
+      213: -6513100693205706790
+    second: TallBug_6_284
+  - first:
+      213: 6033826993597785983
+    second: TallBug_6_285
+  - first:
+      213: 7863843089350573994
+    second: TallBug_6_286
+  - first:
+      213: 2725294313550953091
+    second: TallBug_6_287
+  - first:
+      213: -2340307945888402377
+    second: TallBug_6_288
+  - first:
+      213: 4938696117252177437
+    second: TallBug_6_289
+  - first:
+      213: 459276805265851722
+    second: TallBug_6_290
+  - first:
+      213: -2015968670526116436
+    second: TallBug_6_291
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TallBug_6_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 35
+        width: 3887
+        height: 4436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c9a7bbd77fb5fc0800000000000000
+      internalID: -3504935765589451620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1400
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef44db67fa155c70800000000000000
+      internalID: 8959096683691790314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1386
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6f47a8d721a5e40800000000000000
+      internalID: 5645845413265471202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1390
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe96bdeac5e85670800000000000000
+      internalID: 8527818554160357053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1383
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4481f34132e129130800000000000000
+      internalID: 3571950590470592580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1387
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f78aff0fcaf0e710800000000000000
+      internalID: 1720650824888780790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1392
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367c1f816b507f630800000000000000
+      internalID: 3960640676956325731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1384
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6d6e575994fb700800000000000000
+      internalID: 558245785094248108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1381
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11652b1e14784c70800000000000000
+      internalID: 8955535531679506719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1376
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb173bd6ae804b70800000000000000
+      internalID: 8881255312468155367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1370
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd3c26c1592333f0800000000000000
+      internalID: -922348067486941748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1370
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33abda6816a36030800000000000000
+      internalID: 3486813160317100858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1368
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e581da37ce2f360800000000000000
+      internalID: 7202078735688294034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1344
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae0df3044c2c7d70800000000000000
+      internalID: 9042150822489427620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1368
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b760f8efaf571bac0800000000000000
+      internalID: -3841159286297262469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1371
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e078811a9296ccc0800000000000000
+      internalID: -3691101654166769437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1355
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4139bc17ef27560800000000000000
+      internalID: 7310184909875909859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1341
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b46d04b2fa2eb3b0800000000000000
+      internalID: -5494907273454197581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1332
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052dc856a3143f8d0800000000000000
+      internalID: -2813833623108791728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1313
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39945ad2899d18a0800000000000000
+      internalID: -6332736713725273797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1051
+        width: 208
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1077741b6952e5490800000000000000
+      internalID: -7755720179135842559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 895
+        width: 202
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdf9df2dc8220fc0800000000000000
+      internalID: -3530214296168825423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 891
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ae7cece5dbf6540800000000000000
+      internalID: 5003425925925694078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_23
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 495
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a2c1bb301e3e070800000000000000
+      internalID: 8134592758101584433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_24
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 486
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c3ce955dc998c10800000000000000
+      internalID: 2056347145021963283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_25
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 440
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4367ec450eb3620800000000000000
+      internalID: 2755042251912918242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_26
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 476
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84e636de843b4700800000000000000
+      internalID: 525571569602716810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_27
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 481
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e462feddd22d0310800000000000000
+      internalID: 1372791797741413602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_28
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 490
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ada9ff97f0340c0800000000000000
+      internalID: -4592810178333976027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_29
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 416
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dbc318e97627ce0800000000000000
+      internalID: -1408949802942808809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_30
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 497
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c05ecb412f8dcf0800000000000000
+      internalID: -227165610299814863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_31
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 491
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22c709ca0f3f4980800000000000000
+      internalID: -8552547851798330834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_32
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 497
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dc205d7e760ffc0800000000000000
+      internalID: -3463153868039074536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_33
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 478
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a744037fee0a786a0800000000000000
+      internalID: -6447007393347779462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_34
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 473
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5d1d0aaea3efd40800000000000000
+      internalID: 5619994164399822240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_35
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 487
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60107942cd3e479d0800000000000000
+      internalID: -2777344535534567162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_36
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 482
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1713d9d74210c6520800000000000000
+      internalID: 2696531533125988721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_37
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 486
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c23ce7cb4d25bc0800000000000000
+      internalID: -3795737629874246579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_38
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 488
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1aa3838db587d60800000000000000
+      internalID: 7888155731553853910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_39
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 465
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327d5ece9ddeb44b0800000000000000
+      internalID: -5455005003391051997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_40
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 470
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29df82952cff5f410800000000000000
+      internalID: 1510394460237266322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_41
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 468
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55538065943a15570800000000000000
+      internalID: 8453717510922450261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_42
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 475
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34e9e8c6ec3b40a0800000000000000
+      internalID: -6896351442476866497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_43
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 477
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7c42b9852034140800000000000000
+      internalID: 4702605015488186282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_44
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 469
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22a83b561162a780800000000000000
+      internalID: -8673263183714541011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_45
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 461
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e73e63e83c17c40800000000000000
+      internalID: 5508398834824478251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_46
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 470
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49527c238161b6110800000000000000
+      internalID: 1255121214339753364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_47
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 454
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40aa134d6b8e37b0800000000000000
+      internalID: -5242599614819164085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_48
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 464
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943320b046191d070800000000000000
+      internalID: 8129438661247906633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_49
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 466
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fc95819a74dcd30800000000000000
+      internalID: 4453294398122872596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_50
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 461
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7112360aadfa660800000000000000
+      internalID: 7399373095185749948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_51
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 459
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf5824b32be76bd0800000000000000
+      internalID: -2636880518223208484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_52
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 450
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbc8ab6b99aee550800000000000000
+      internalID: 6192073022672260082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_53
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 421
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f497d8e6f5e100800000000000000
+      internalID: 136786843614376359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_54
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 426
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c9335306410d160800000000000000
+      internalID: 7048155820276816975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_55
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 408
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcd79d4c3ba2f140800000000000000
+      internalID: 4752048832317480180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_56
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 403
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6621c80bb763fc60800000000000000
+      internalID: 7850732628440327791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_57
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 411
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d5dee6943eb6040800000000000000
+      internalID: 4642053745468595486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_58
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 319
+        width: 113
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a14b01eabf347f10800000000000000
+      internalID: 2266506584346280355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_59
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 393
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1962cd377363461f0800000000000000
+      internalID: -1052656801102944623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_60
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 386
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ec20b9fbf75cac0800000000000000
+      internalID: -3835519046719975864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_61
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 392
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ceb52b19b0c57b0800000000000000
+      internalID: -5234295946520826817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_62
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 386
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2f5985d7fd57270800000000000000
+      internalID: 8247744022049059499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_63
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 355
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6694687f5896210800000000000000
+      internalID: 1326738863393695456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_64
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 367
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a0301dae79738c0800000000000000
+      internalID: -4019577107620099474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_65
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 359
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d737b98c517d9c580800000000000000
+      internalID: -8806271107786378371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_66
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 328
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cf01aa00d05bf20800000000000000
+      internalID: 3437668187071642632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_67
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 345
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d9c026784e460d0800000000000000
+      internalID: -3430365746032763565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_68
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 327
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5adaa4d492d9430800000000000000
+      internalID: 3791231873257940420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_69
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 343
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275da9358f512f8f0800000000000000
+      internalID: -508319651640715918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_70
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 331
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1bf3afbcc7b1b90800000000000000
+      internalID: -7270079957940850216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_71
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 346
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e268f3f5f3bbf1680800000000000000
+      internalID: -8782094867493845458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_72
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 344
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f17d0f0a94b07d0800000000000000
+      internalID: -2951184175227003102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_73
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 328
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cb34f2ee1b479c0800000000000000
+      internalID: -3930320938234299291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_74
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 320
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0357279cabb3c0980800000000000000
+      internalID: -8571410317363219152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_75
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 331
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b0588ddbcfe3a20800000000000000
+      internalID: 3044148290460650328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_76
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 336
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba55b79d67f21cd0800000000000000
+      internalID: -2588734785715873103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_77
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 327
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90546afd0af6c6990800000000000000
+      internalID: -7391410151684160247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_78
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 337
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8b890340ca02190800000000000000
+      internalID: -7989196604960098135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_79
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 320
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0f069d5924fec00800000000000000
+      internalID: 932036859253551307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_80
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 324
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc1df89894529730800000000000000
+      internalID: 4004356033064279281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_81
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 315
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90585e1e1220a570800000000000000
+      internalID: 8475812011464741018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_82
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 325
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccc6e4b570dc4f30800000000000000
+      internalID: 4561249726584245455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_83
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 316
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5748e3afd72c8cab0800000000000000
+      internalID: -4987522740987722635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_84
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 292
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619372194209db160800000000000000
+      internalID: 7042943879005813014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_85
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 323
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1bcfdccd854cff0800000000000000
+      internalID: -16790793230700124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_86
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 317
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ea6ac9ef7feb680800000000000000
+      internalID: -8737273554130260476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_87
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 323
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0598257cf6097d0800000000000000
+      internalID: -2913706057034805012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_88
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 316
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5bef1d03b751040800000000000000
+      internalID: 4617732442550089185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_89
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 324
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98e6cdf994ed36e0800000000000000
+      internalID: -1856076121367975778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_90
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 321
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb44209915bb8fef0800000000000000
+      internalID: -74103434717805381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_91
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 318
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d680d31d4a9b722a0800000000000000
+      internalID: -6762232197937297299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_92
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 321
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ac3ad688e3bcaa0800000000000000
+      internalID: -6139744911313614239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_93
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 315
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be8b17253ea003c0800000000000000
+      internalID: -4395321693000986959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_94
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 320
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c005c9e1dd28444d0800000000000000
+      internalID: -3151249953039560692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_95
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 315
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6417532e249ab4030800000000000000
+      internalID: 3480061241801929030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_96
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 303
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ed75b2cd283ebe0800000000000000
+      internalID: -1449170772951572947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_97
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 301
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9719446191fb290800000000000000
+      internalID: -7872546040189978203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_98
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 311
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc5c96243edd4150800000000000000
+      internalID: 5858583005846330586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_99
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 293
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f8717994e479510800000000000000
+      internalID: 1555798274254278483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_100
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 313
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e251922a688e9c170800000000000000
+      internalID: 8199340261548561710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_101
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 303
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1ffdb17c38ae440800000000000000
+      internalID: 4965926430318785008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_102
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 315
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b754ed33a0a8f2370800000000000000
+      internalID: 8300004414691624315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_103
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 298
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45948dcdac5f6bad0800000000000000
+      internalID: -2686689876042561196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_104
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 298
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a01d58e21480c0800000000000000
+      internalID: -4574510532298495634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_105
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 307
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3be2ebe32a6d92c0800000000000000
+      internalID: -4423262556494042310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_106
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 303
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d5d48c80427fbc0800000000000000
+      internalID: -3749488544623796901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_107
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab367a366bbe201d0800000000000000
+      internalID: -3385884801240702022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_108
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 304
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac68e023df596f470800000000000000
+      internalID: 8428088667369539274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_109
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af70884e45cac3930800000000000000
+      internalID: 4124360839375882234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_110
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 291
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c243993da25498720800000000000000
+      internalID: 2848884289529525292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_111
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 288
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15dfdc2caf511520800000000000000
+      internalID: 2671021247099295007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_112
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 277
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1936330edb3a780800000000000000
+      internalID: -8672879686752955905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_113
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 296
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1c6605ea4d58490800000000000000
+      internalID: -7744550139055390265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_114
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281e6958ae07cd390800000000000000
+      internalID: -7792229102691884670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_115
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 292
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124df3eb17339eb60800000000000000
+      internalID: 7775802795248047137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_116
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 282
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e6c350232754bb0800000000000000
+      internalID: -4952426656062214569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_117
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 298
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3089ed7c069401660800000000000000
+      internalID: 7354458871514961923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_118
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 289
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a02908e4c6d9c4d0800000000000000
+      internalID: -3113721526155140952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_119
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 269
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40501355220d3fc70800000000000000
+      internalID: 9003768925920494852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_120
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 292
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198332dee5a5c3a90800000000000000
+      internalID: -7332886729514076015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_121
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 296
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3a56eae1b426ea0800000000000000
+      internalID: -5881055568245447771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_122
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 296
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9629b0680e29d20800000000000000
+      internalID: 3283933944630897088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_123
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 284
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fe657114a5a2f10800000000000000
+      internalID: 2245706599808560911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_124
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 275
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfdb980901a528c0800000000000000
+      internalID: -4024633631814459465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_125
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 276
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc134c392c7bc450800000000000000
+      internalID: 6110113836004744393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_126
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 287
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc865c5dc1daac120800000000000000
+      internalID: 2434948887904348367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_127
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 282
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecea3a7064575f50800000000000000
+      internalID: 6870052529921256674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_128
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 288
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89784401e82eef030800000000000000
+      internalID: 3530508257691207576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_129
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 274
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0391c1b65f88a5100800000000000000
+      internalID: 97540929587255600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_130
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 281
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefd37ee05704bc10800000000000000
+      internalID: 2068286173049249774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_131
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 206
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de85fa3b991f010800000000000000
+      internalID: 1220925971014151466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_132
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 278
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76640c42894acf610800000000000000
+      internalID: 1656379736324064871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_133
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 286
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dcc2344ce6068d0800000000000000
+      internalID: -2855160374533239401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_134
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 281
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12161a193e11f8c20800000000000000
+      internalID: 3210804728436973857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_135
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 283
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a481ccc0de2c7a800800000000000000
+      internalID: 623681396791842890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_136
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 289
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a50f1e46606d310800000000000000
+      internalID: 1429336962093832832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_137
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 276
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfd2d013d92d7d40800000000000000
+      internalID: 5583665099506376657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_138
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 266
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd08526b8ac2a3990800000000000000
+      internalID: -7405557534135320356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_139
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 278
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1083a94d7f586b510800000000000000
+      internalID: 1564585220028119041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_140
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 273
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8662376954a7aa0800000000000000
+      internalID: -6162536627623794485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_141
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 266
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa302eb921e7e9f10800000000000000
+      internalID: 2278397079885841322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_142
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 265
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db6da28fbb9d5f20800000000000000
+      internalID: 3413055339450166224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_143
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 265
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f790fc37e23f141e0800000000000000
+      internalID: -2215222160852579969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_144
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3c1b22b1a3f9e50800000000000000
+      internalID: 6818232249082823668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_145
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 264
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0257275c5cc04e00800000000000000
+      internalID: 1027045412011725326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_146
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 254
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babe75ab41cf01aa0800000000000000
+      internalID: -6192172321678562389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_147
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 269
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a76d1daf2436e70800000000000000
+      internalID: 9107196516503026254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_148
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 267
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656d1e6a67c7c6c90800000000000000
+      internalID: -7175223257260239274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_149
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 263
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beeab87b278cb1d0800000000000000
+      internalID: -3333641003382149451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_150
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 254
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4d6b3ad2d0db750800000000000000
+      internalID: 6322223941569402106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_151
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 258
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26015b7ab4238a820800000000000000
+      internalID: 2929646858122104930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_152
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 260
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36e40d8f370bf760800000000000000
+      internalID: 7492590374591194684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_153
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 255
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7bb091881b42490800000000000000
+      internalID: -7771891858840766558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_154
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 243
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f8345012a01f170800000000000000
+      internalID: 8210354732611637113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_155
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 254
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a92cbc6d8ddb40c0800000000000000
+      internalID: -4590331795689690718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_156
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268e8972563e82930800000000000000
+      internalID: 4118791882825853026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_157
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 248
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12511647163d3b9a0800000000000000
+      internalID: -6218394244950715103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_158
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 240
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9e92784b529e460800000000000000
+      internalID: 7271384530658388423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_159
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 244
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d0e0aa4fae65e0800000000000000
+      internalID: -1914400056524352613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_160
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 245
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e081415a4c178e0800000000000000
+      internalID: -1697359371256197619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_161
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 250
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0ca901222a867a0800000000000000
+      internalID: -6383674204606512935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_162
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 237
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b47ce31fa0fd4490800000000000000
+      internalID: -7760281948145290056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_163
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 234
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710b35e1a8afd9010800000000000000
+      internalID: 1197388547071651863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_164
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 227
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a383537d2323950800000000000000
+      internalID: 6427255518103353978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_165
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 235
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0f3b9be598f5d80800000000000000
+      internalID: -8259732151638691652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_166
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 238
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf09170c60b00e290800000000000000
+      internalID: -7863272825762508549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_167
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 225
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6baf494f44af3f70800000000000000
+      internalID: 9169228026788948845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_168
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adebb79039ff47f20800000000000000
+      internalID: 3419639024065429210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_169
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 228
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f813a88bc8155be10800000000000000
+      internalID: 2212764456755802511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_170
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 236
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effb665b9d48ac5a0800000000000000
+      internalID: -6500237041569710082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_171
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 223
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d7a531226f94c50800000000000000
+      internalID: 6650116951003266438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_172
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 215
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f011502a2093a0800000000000000
+      internalID: -6660777530593577310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_173
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 223
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3465dea91c89fb4d0800000000000000
+      internalID: -3116604459821738429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_174
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 216
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf647a117743a920800000000000000
+      internalID: 3000320327859597242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_175
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 218
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09faa9d2cd30ba360800000000000000
+      internalID: 7181838274965188496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_176
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 223
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bda52d30aba8ee0800000000000000
+      internalID: -1257988620319794314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_177
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 214
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8c3cf56bf0f1380800000000000000
+      internalID: -8998456254497830701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_178
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 222
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4e30bea57f26050800000000000000
+      internalID: 5792464040613897412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_179
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 225
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb99bb37c2e182c0800000000000000
+      internalID: -4431011213027468321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_180
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 213
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8169b60b20d38f9f0800000000000000
+      internalID: -434530282282183144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_181
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 204
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1c5bd676972da80800000000000000
+      internalID: -8443552866237038099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_182
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 213
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87fb50548c8ac6e0800000000000000
+      internalID: -1816484999778797682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_183
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 206
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0c40e509b3df4f0800000000000000
+      internalID: -793412468108640086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_184
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 200
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587c194a37ef45f90800000000000000
+      internalID: -6965662950999603323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_185
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 203
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c892658f2925fd0800000000000000
+      internalID: -2354658059866239905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_186
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 217
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a9272e5a4a1c940800000000000000
+      internalID: 5314710067649616420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_187
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 200
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7793e0c885c51350800000000000000
+      internalID: 5986908470801307515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_188
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 188
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b082ead2796a18a0800000000000000
+      internalID: -6333633983923715918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_189
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566f9394a8539b6d0800000000000000
+      internalID: -2974287210851207579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_190
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 204
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eae2e04f9efca10800000000000000
+      internalID: 1932019999584464403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_191
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 196
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75b61d23c1488c50800000000000000
+      internalID: 6667651554852910458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_192
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 199
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c4d1baf2c83d120800000000000000
+      internalID: 2437445959699745805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_193
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 203
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083a7dff8ca390610800000000000000
+      internalID: 1587864978585002880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_194
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 193
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a8751714ee6b10800000000000000
+      internalID: 1976768074257835692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_195
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 202
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f6611d134e0cd0800000000000000
+      internalID: -2590058943566384672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_196
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d0ab8a73a7cdae0800000000000000
+      internalID: -1523208194485514985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_197
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 197
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59640dae86de3fd0800000000000000
+      internalID: -2360213246419113635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_198
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 190
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81992ca2fac0500800000000000000
+      internalID: 363858268098468072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_199
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 197
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a85b07490e00b30800000000000000
+      internalID: 4251644976388475536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_200
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 191
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c89c06765fa6f820800000000000000
+      internalID: 2951739391670524104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_201
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 188
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6d099df29c9b090800000000000000
+      internalID: -8018156454205663495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_202
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 177
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516202dc4985b1a20800000000000000
+      internalID: 3034116170084001301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_203
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 195
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32794e6c958fb1770800000000000000
+      internalID: 8582726579357259555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_204
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 186
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a260733800585010800000000000000
+      internalID: 1177779298710348448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_205
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 179
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd3cb7978fb79b60800000000000000
+      internalID: 7752875872628784626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_206
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 196
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaeb92352beef510800000000000000
+      internalID: 1584962663876389543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_207
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 187
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4501ecb83f554e0e0800000000000000
+      internalID: -2241572210012712876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_208
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 190
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143438573d1d71020800000000000000
+      internalID: 2312547639817880385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_209
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 185
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dac0b15965e1f40800000000000000
+      internalID: 5701089376701558137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_210
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 186
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a4eeba4dc1611c0800000000000000
+      internalID: -4533404275158660572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_211
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 192
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a3ce4158caec1c0800000000000000
+      internalID: -4481454891605411176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_212
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 188
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe3a480907a2db40800000000000000
+      internalID: 5463612955189460735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_213
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 190
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca030f3e639fcd30800000000000000
+      internalID: 4453940658205559496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_214
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 172
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f6b21e2a56729c0800000000000000
+      internalID: -3952078397757493416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_215
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 181
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9d27e5c3eccb2a0800000000000000
+      internalID: -6720269785265677826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_216
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 181
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e821c60e590fab7f0800000000000000
+      internalID: -595899474167197042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_217
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf005a61f7572ca00800000000000000
+      internalID: 775311274562355451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_218
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 181
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8a9ca8f5650cb10800000000000000
+      internalID: 1999693202902853808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_219
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 177
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef88dea346f348130800000000000000
+      internalID: 3568046504502200574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_220
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 180
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9425e79cbde2e84a0800000000000000
+      internalID: -6589277683283242423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_221
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 179
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d429a48ab07f00800000000000000
+      internalID: 1112594186896726523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_222
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 180
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04fe45d3fb577620800000000000000
+      internalID: 2771785198483731468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_223
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 185
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a727b718ca7f1ce0800000000000000
+      internalID: -1432291156670601306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_224
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 172
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b3bb74552abfdf0800000000000000
+      internalID: -145344075800036470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_225
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 174
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b83d403c6ab22000800000000000000
+      internalID: 9775123037763769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_226
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4118f450f6b7d8040800000000000000
+      internalID: 4651509706904273172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_227
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00f2a0d38cd940b0800000000000000
+      internalID: -5743817391035191284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_228
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 167
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f36487392e110760800000000000000
+      internalID: 7422246823257203702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_229
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 171
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e67825289af9d5f0800000000000000
+      internalID: -731277933105613085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_230
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 149
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b6134102e086600800000000000000
+      internalID: 461634492746001179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_231
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 174
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ff39901da8c90d0800000000000000
+      internalID: -3414701787040186556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_232
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 161
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39d0a4ebfff84140800000000000000
+      internalID: 4704291268126103870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_233
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638c21493bfc65710800000000000000
+      internalID: 1681759881059813430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_234
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 176
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0430685319a4f90800000000000000
+      internalID: -6968597814334766894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_235
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96845b82713f77400800000000000000
+      internalID: 321993179173046377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_236
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 153
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdf16abd59c7ed50800000000000000
+      internalID: 6766598369543585209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_237
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 170
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97410873cba4e860800000000000000
+      internalID: 7558354930654857114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_238
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 172
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c530021d67dac08f0800000000000000
+      internalID: -572892326756613284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_239
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 171
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebeae6388e166560800000000000000
+      internalID: 7306561015840959462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_240
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 168
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c310843cb281a7b70800000000000000
+      internalID: 8897450590062772540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_241
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adf09d2fcdbed480800000000000000
+      internalID: -8872445518352941659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_242
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70b5c9b20845a7f0800000000000000
+      internalID: -601995798640217987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_243
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 156
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2238182ff191592f0800000000000000
+      internalID: -966838919997848798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_244
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 164
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc18d07f454c3de50800000000000000
+      internalID: 6833020928852328908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_245
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 162
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a49243ff05e2f900800000000000000
+      internalID: 716887147373827240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_246
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 166
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f596d0336134853e0800000000000000
+      internalID: -2064826666524513953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_247
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 167
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6382af5d6f085d0800000000000000
+      internalID: -3062176347726530885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_248
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 167
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64faac5a3157e5a0800000000000000
+      internalID: -6492131026726620050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_249
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 159
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fec63f030914670800000000000000
+      internalID: 8521250509878521744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_250
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 168
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170ddede5799d01f0800000000000000
+      internalID: -1077036004089671567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_251
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 160
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e2fe4f62e746c10800000000000000
+      internalID: 2045898836516220505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_252
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 146
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5ddfcb878850920800000000000000
+      internalID: 2955918782586803658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_253
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8b400c32364e0c0800000000000000
+      internalID: -4547400718540818240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_254
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 154
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0586c9362d95af060800000000000000
+      internalID: 6987996531967944784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_255
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742213d20f8fa27f0800000000000000
+      internalID: -636422686885469625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_256
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a589224174501e0800000000000000
+      internalID: -2232299888486884826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_257
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 130
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad690fb011256130800000000000000
+      internalID: 3559287436314504623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_258
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 133
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ae266e5867677f0800000000000000
+      internalID: -615173981621523865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_259
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 136
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceff6ec66ed903f70800000000000000
+      internalID: 9164998854694076396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_260
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ef94a70f2802500800000000000000
+      internalID: 369439138799812151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_261
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 142
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a90afe46b9c6d2b0800000000000000
+      internalID: -5560034905096058455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_262
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 123
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873fba5801d6329d0800000000000000
+      internalID: -2800274625564773512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_263
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 124
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2657598dfd86740800000000000000
+      internalID: 5145608695584219820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_264
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 109
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cf2448602012a60800000000000000
+      internalID: 7647395869263854733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_265
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ed3f66955437090800000000000000
+      internalID: -8038004659644539347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_266
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 89
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5fa05cfdde82700800000000000000
+      internalID: 515923702673241598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_267
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 92
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c5e88b374665bf0800000000000000
+      internalID: -335970674012169120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_268
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 69
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfaa4453c7ea7d30800000000000000
+      internalID: 4430108009591123890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_269
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 83
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967ed2845da1668e0800000000000000
+      internalID: -1700642305944459415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_270
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aed30073b00f25a0800000000000000
+      internalID: -6544010962867593563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_271
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 0
+        width: 135
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347829e1ca00c78a0800000000000000
+      internalID: -6306164638978242749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_272
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f060f8677672d20800000000000000
+      internalID: 3253683014701813579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_273
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 67
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0c4930c05d126a0800000000000000
+      internalID: -6475660541605658381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_274
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 66
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33196812cbcab7100800000000000000
+      internalID: 106868940189634867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_275
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3012b52e80516b90800000000000000
+      internalID: -7250425353641783235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_276
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 62
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160f919fbd3066150800000000000000
+      internalID: 5865379808008597601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_277
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 52
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76437aae22d7d820800000000000000
+      internalID: 2943051979379918460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_278
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 53
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73763d86120d7e880800000000000000
+      internalID: -8581661723020007625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_279
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 49
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be4a14955f6741c0800000000000000
+      internalID: -4519521287695348047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_280
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cb0b8b86f0b2580800000000000000
+      internalID: -8850963700216972209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_281
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 59
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9259562f7a228c5c0800000000000000
+      internalID: -4195064948173990615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_282
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 57
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b79e373c1683960800000000000000
+      internalID: 7581917464769428358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_283
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 45
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe4609f75f96df50800000000000000
+      internalID: 6905882278808145657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_284
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad79f1b6d61dc95a0800000000000000
+      internalID: -6513100693205706790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_285
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f772f8d9ea57cb350800000000000000
+      internalID: 6033826993597785983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_286
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb62610abf12d60800000000000000
+      internalID: 7863843089350573994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_287
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ab89b2db032d520800000000000000
+      internalID: 2725294313550953091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_288
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 8
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7343c4c925e858fd0800000000000000
+      internalID: -2340307945888402377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_289
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 26
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eba6ac3f5c98440800000000000000
+      internalID: 4938696117252177437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_290
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45827f22ddaf5600800000000000000
+      internalID: 459276805265851722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_6_291
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 0
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad69fadc27d504e0800000000000000
+      internalID: -2015968670526116436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TallBug_6_0: -3504935765589451620
+      TallBug_6_1: 8959096683691790314
+      TallBug_6_10: -922348067486941748
+      TallBug_6_100: 8199340261548561710
+      TallBug_6_101: 4965926430318785008
+      TallBug_6_102: 8300004414691624315
+      TallBug_6_103: -2686689876042561196
+      TallBug_6_104: -4574510532298495634
+      TallBug_6_105: -4423262556494042310
+      TallBug_6_106: -3749488544623796901
+      TallBug_6_107: -3385884801240702022
+      TallBug_6_108: 8428088667369539274
+      TallBug_6_109: 4124360839375882234
+      TallBug_6_11: 3486813160317100858
+      TallBug_6_110: 2848884289529525292
+      TallBug_6_111: 2671021247099295007
+      TallBug_6_112: -8672879686752955905
+      TallBug_6_113: -7744550139055390265
+      TallBug_6_114: -7792229102691884670
+      TallBug_6_115: 7775802795248047137
+      TallBug_6_116: -4952426656062214569
+      TallBug_6_117: 7354458871514961923
+      TallBug_6_118: -3113721526155140952
+      TallBug_6_119: 9003768925920494852
+      TallBug_6_12: 7202078735688294034
+      TallBug_6_120: -7332886729514076015
+      TallBug_6_121: -5881055568245447771
+      TallBug_6_122: 3283933944630897088
+      TallBug_6_123: 2245706599808560911
+      TallBug_6_124: -4024633631814459465
+      TallBug_6_125: 6110113836004744393
+      TallBug_6_126: 2434948887904348367
+      TallBug_6_127: 6870052529921256674
+      TallBug_6_128: 3530508257691207576
+      TallBug_6_129: 97540929587255600
+      TallBug_6_13: 9042150822489427620
+      TallBug_6_130: 2068286173049249774
+      TallBug_6_131: 1220925971014151466
+      TallBug_6_132: 1656379736324064871
+      TallBug_6_133: -2855160374533239401
+      TallBug_6_134: 3210804728436973857
+      TallBug_6_135: 623681396791842890
+      TallBug_6_136: 1429336962093832832
+      TallBug_6_137: 5583665099506376657
+      TallBug_6_138: -7405557534135320356
+      TallBug_6_139: 1564585220028119041
+      TallBug_6_14: -3841159286297262469
+      TallBug_6_140: -6162536627623794485
+      TallBug_6_141: 2278397079885841322
+      TallBug_6_142: 3413055339450166224
+      TallBug_6_143: -2215222160852579969
+      TallBug_6_144: 6818232249082823668
+      TallBug_6_145: 1027045412011725326
+      TallBug_6_146: -6192172321678562389
+      TallBug_6_147: 9107196516503026254
+      TallBug_6_148: -7175223257260239274
+      TallBug_6_149: -3333641003382149451
+      TallBug_6_15: -3691101654166769437
+      TallBug_6_150: 6322223941569402106
+      TallBug_6_151: 2929646858122104930
+      TallBug_6_152: 7492590374591194684
+      TallBug_6_153: -7771891858840766558
+      TallBug_6_154: 8210354732611637113
+      TallBug_6_155: -4590331795689690718
+      TallBug_6_156: 4118791882825853026
+      TallBug_6_157: -6218394244950715103
+      TallBug_6_158: 7271384530658388423
+      TallBug_6_159: -1914400056524352613
+      TallBug_6_16: 7310184909875909859
+      TallBug_6_160: -1697359371256197619
+      TallBug_6_161: -6383674204606512935
+      TallBug_6_162: -7760281948145290056
+      TallBug_6_163: 1197388547071651863
+      TallBug_6_164: 6427255518103353978
+      TallBug_6_165: -8259732151638691652
+      TallBug_6_166: -7863272825762508549
+      TallBug_6_167: 9169228026788948845
+      TallBug_6_168: 3419639024065429210
+      TallBug_6_169: 2212764456755802511
+      TallBug_6_17: -5494907273454197581
+      TallBug_6_170: -6500237041569710082
+      TallBug_6_171: 6650116951003266438
+      TallBug_6_172: -6660777530593577310
+      TallBug_6_173: -3116604459821738429
+      TallBug_6_174: 3000320327859597242
+      TallBug_6_175: 7181838274965188496
+      TallBug_6_176: -1257988620319794314
+      TallBug_6_177: -8998456254497830701
+      TallBug_6_178: 5792464040613897412
+      TallBug_6_179: -4431011213027468321
+      TallBug_6_18: -2813833623108791728
+      TallBug_6_180: -434530282282183144
+      TallBug_6_181: -8443552866237038099
+      TallBug_6_182: -1816484999778797682
+      TallBug_6_183: -793412468108640086
+      TallBug_6_184: -6965662950999603323
+      TallBug_6_185: -2354658059866239905
+      TallBug_6_186: 5314710067649616420
+      TallBug_6_187: 5986908470801307515
+      TallBug_6_188: -6333633983923715918
+      TallBug_6_189: -2974287210851207579
+      TallBug_6_19: -6332736713725273797
+      TallBug_6_190: 1932019999584464403
+      TallBug_6_191: 6667651554852910458
+      TallBug_6_192: 2437445959699745805
+      TallBug_6_193: 1587864978585002880
+      TallBug_6_194: 1976768074257835692
+      TallBug_6_195: -2590058943566384672
+      TallBug_6_196: -1523208194485514985
+      TallBug_6_197: -2360213246419113635
+      TallBug_6_198: 363858268098468072
+      TallBug_6_199: 4251644976388475536
+      TallBug_6_2: 5645845413265471202
+      TallBug_6_20: -7755720179135842559
+      TallBug_6_200: 2951739391670524104
+      TallBug_6_201: -8018156454205663495
+      TallBug_6_202: 3034116170084001301
+      TallBug_6_203: 8582726579357259555
+      TallBug_6_204: 1177779298710348448
+      TallBug_6_205: 7752875872628784626
+      TallBug_6_206: 1584962663876389543
+      TallBug_6_207: -2241572210012712876
+      TallBug_6_208: 2312547639817880385
+      TallBug_6_209: 5701089376701558137
+      TallBug_6_21: -3530214296168825423
+      TallBug_6_210: -4533404275158660572
+      TallBug_6_211: -4481454891605411176
+      TallBug_6_212: 5463612955189460735
+      TallBug_6_213: 4453940658205559496
+      TallBug_6_214: -3952078397757493416
+      TallBug_6_215: -6720269785265677826
+      TallBug_6_216: -595899474167197042
+      TallBug_6_217: 775311274562355451
+      TallBug_6_218: 1999693202902853808
+      TallBug_6_219: 3568046504502200574
+      TallBug_6_22: 5003425925925694078
+      TallBug_6_220: -6589277683283242423
+      TallBug_6_221: 1112594186896726523
+      TallBug_6_222: 2771785198483731468
+      TallBug_6_223: -1432291156670601306
+      TallBug_6_224: -145344075800036470
+      TallBug_6_225: 9775123037763769
+      TallBug_6_226: 4651509706904273172
+      TallBug_6_227: -5743817391035191284
+      TallBug_6_228: 7422246823257203702
+      TallBug_6_229: -731277933105613085
+      TallBug_6_23: 8134592758101584433
+      TallBug_6_230: 461634492746001179
+      TallBug_6_231: -3414701787040186556
+      TallBug_6_232: 4704291268126103870
+      TallBug_6_233: 1681759881059813430
+      TallBug_6_234: -6968597814334766894
+      TallBug_6_235: 321993179173046377
+      TallBug_6_236: 6766598369543585209
+      TallBug_6_237: 7558354930654857114
+      TallBug_6_238: -572892326756613284
+      TallBug_6_239: 7306561015840959462
+      TallBug_6_24: 2056347145021963283
+      TallBug_6_240: 8897450590062772540
+      TallBug_6_241: -8872445518352941659
+      TallBug_6_242: -601995798640217987
+      TallBug_6_243: -966838919997848798
+      TallBug_6_244: 6833020928852328908
+      TallBug_6_245: 716887147373827240
+      TallBug_6_246: -2064826666524513953
+      TallBug_6_247: -3062176347726530885
+      TallBug_6_248: -6492131026726620050
+      TallBug_6_249: 8521250509878521744
+      TallBug_6_25: 2755042251912918242
+      TallBug_6_250: -1077036004089671567
+      TallBug_6_251: 2045898836516220505
+      TallBug_6_252: 2955918782586803658
+      TallBug_6_253: -4547400718540818240
+      TallBug_6_254: 6987996531967944784
+      TallBug_6_255: -636422686885469625
+      TallBug_6_256: -2232299888486884826
+      TallBug_6_257: 3559287436314504623
+      TallBug_6_258: -615173981621523865
+      TallBug_6_259: 9164998854694076396
+      TallBug_6_26: 525571569602716810
+      TallBug_6_260: 369439138799812151
+      TallBug_6_261: -5560034905096058455
+      TallBug_6_262: -2800274625564773512
+      TallBug_6_263: 5145608695584219820
+      TallBug_6_264: 7647395869263854733
+      TallBug_6_265: -8038004659644539347
+      TallBug_6_266: 515923702673241598
+      TallBug_6_267: -335970674012169120
+      TallBug_6_268: 4430108009591123890
+      TallBug_6_269: -1700642305944459415
+      TallBug_6_27: 1372791797741413602
+      TallBug_6_270: -6544010962867593563
+      TallBug_6_271: -6306164638978242749
+      TallBug_6_272: 3253683014701813579
+      TallBug_6_273: -6475660541605658381
+      TallBug_6_274: 106868940189634867
+      TallBug_6_275: -7250425353641783235
+      TallBug_6_276: 5865379808008597601
+      TallBug_6_277: 2943051979379918460
+      TallBug_6_278: -8581661723020007625
+      TallBug_6_279: -4519521287695348047
+      TallBug_6_28: -4592810178333976027
+      TallBug_6_280: -8850963700216972209
+      TallBug_6_281: -4195064948173990615
+      TallBug_6_282: 7581917464769428358
+      TallBug_6_283: 6905882278808145657
+      TallBug_6_284: -6513100693205706790
+      TallBug_6_285: 6033826993597785983
+      TallBug_6_286: 7863843089350573994
+      TallBug_6_287: 2725294313550953091
+      TallBug_6_288: -2340307945888402377
+      TallBug_6_289: 4938696117252177437
+      TallBug_6_29: -1408949802942808809
+      TallBug_6_290: 459276805265851722
+      TallBug_6_291: -2015968670526116436
+      TallBug_6_3: 8527818554160357053
+      TallBug_6_30: -227165610299814863
+      TallBug_6_31: -8552547851798330834
+      TallBug_6_32: -3463153868039074536
+      TallBug_6_33: -6447007393347779462
+      TallBug_6_34: 5619994164399822240
+      TallBug_6_35: -2777344535534567162
+      TallBug_6_36: 2696531533125988721
+      TallBug_6_37: -3795737629874246579
+      TallBug_6_38: 7888155731553853910
+      TallBug_6_39: -5455005003391051997
+      TallBug_6_4: 3571950590470592580
+      TallBug_6_40: 1510394460237266322
+      TallBug_6_41: 8453717510922450261
+      TallBug_6_42: -6896351442476866497
+      TallBug_6_43: 4702605015488186282
+      TallBug_6_44: -8673263183714541011
+      TallBug_6_45: 5508398834824478251
+      TallBug_6_46: 1255121214339753364
+      TallBug_6_47: -5242599614819164085
+      TallBug_6_48: 8129438661247906633
+      TallBug_6_49: 4453294398122872596
+      TallBug_6_5: 1720650824888780790
+      TallBug_6_50: 7399373095185749948
+      TallBug_6_51: -2636880518223208484
+      TallBug_6_52: 6192073022672260082
+      TallBug_6_53: 136786843614376359
+      TallBug_6_54: 7048155820276816975
+      TallBug_6_55: 4752048832317480180
+      TallBug_6_56: 7850732628440327791
+      TallBug_6_57: 4642053745468595486
+      TallBug_6_58: 2266506584346280355
+      TallBug_6_59: -1052656801102944623
+      TallBug_6_6: 3960640676956325731
+      TallBug_6_60: -3835519046719975864
+      TallBug_6_61: -5234295946520826817
+      TallBug_6_62: 8247744022049059499
+      TallBug_6_63: 1326738863393695456
+      TallBug_6_64: -4019577107620099474
+      TallBug_6_65: -8806271107786378371
+      TallBug_6_66: 3437668187071642632
+      TallBug_6_67: -3430365746032763565
+      TallBug_6_68: 3791231873257940420
+      TallBug_6_69: -508319651640715918
+      TallBug_6_7: 558245785094248108
+      TallBug_6_70: -7270079957940850216
+      TallBug_6_71: -8782094867493845458
+      TallBug_6_72: -2951184175227003102
+      TallBug_6_73: -3930320938234299291
+      TallBug_6_74: -8571410317363219152
+      TallBug_6_75: 3044148290460650328
+      TallBug_6_76: -2588734785715873103
+      TallBug_6_77: -7391410151684160247
+      TallBug_6_78: -7989196604960098135
+      TallBug_6_79: 932036859253551307
+      TallBug_6_8: 8955535531679506719
+      TallBug_6_80: 4004356033064279281
+      TallBug_6_81: 8475812011464741018
+      TallBug_6_82: 4561249726584245455
+      TallBug_6_83: -4987522740987722635
+      TallBug_6_84: 7042943879005813014
+      TallBug_6_85: -16790793230700124
+      TallBug_6_86: -8737273554130260476
+      TallBug_6_87: -2913706057034805012
+      TallBug_6_88: 4617732442550089185
+      TallBug_6_89: -1856076121367975778
+      TallBug_6_9: 8881255312468155367
+      TallBug_6_90: -74103434717805381
+      TallBug_6_91: -6762232197937297299
+      TallBug_6_92: -6139744911313614239
+      TallBug_6_93: -4395321693000986959
+      TallBug_6_94: -3151249953039560692
+      TallBug_6_95: 3480061241801929030
+      TallBug_6_96: -1449170772951572947
+      TallBug_6_97: -7872546040189978203
+      TallBug_6_98: 5858583005846330586
+      TallBug_6_99: 1555798274254278483
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
