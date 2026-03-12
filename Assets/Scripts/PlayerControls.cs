@@ -161,46 +161,55 @@ public class PlayerControls : MonoBehaviour
     private void BottomRight_started(InputAction.CallbackContext obj)
     {
         TakePicture(accuracyManager.BottomRight);
+        ButtonPressCountJSONService.pressCounts.BOTTOM_RIGHT_COUNT++;
     }
 
     private void BottomMiddle_started(InputAction.CallbackContext obj)
     {
         TakePicture(accuracyManager.BottomMiddle);
+        ButtonPressCountJSONService.pressCounts.BOTTOM_MIDDLE_COUNT++;
     }
 
     private void BottomLeft_started(InputAction.CallbackContext obj)
     {
         TakePicture(accuracyManager.BottomLeft);
+        ButtonPressCountJSONService.pressCounts.BOTTOM_LEFT_COUNT++;
     }
 
     private void CenterRight_started(InputAction.CallbackContext obj)
     {
         TakePicture(accuracyManager.MiddleRight);
+        ButtonPressCountJSONService.pressCounts.MIDDLE_RIGHT_COUNT++;
     }
 
     private void CenterMiddle_started(InputAction.CallbackContext obj)
     {
         TakePicture(accuracyManager.MiddleCenter);
+        ButtonPressCountJSONService.pressCounts.CENTER_COUNT++;
     }
 
     private void CenterLeft_started(InputAction.CallbackContext obj)
     {
         TakePicture(accuracyManager.MiddleLeft);
+        ButtonPressCountJSONService.pressCounts.MIDDLE_LEFT_COUNT++;
     }
 
     private void TopRight_started(InputAction.CallbackContext obj)
     {
         TakePicture(accuracyManager.TopRight);
+        ButtonPressCountJSONService.pressCounts.TOP_RIGHT_COUNT++;
     }
 
     private void TopMiddle_started(InputAction.CallbackContext obj)
     {
         TakePicture(accuracyManager.TopMiddle);
+        ButtonPressCountJSONService.pressCounts.TOP_MIDDLE_COUNT++;
     }
 
     private void TopLeft_started(InputAction.CallbackContext obj)
     {
         TakePicture(accuracyManager.TopLeft);
+        ButtonPressCountJSONService.pressCounts.TOP_LEFT_COUNT++;
     }
     #endregion
 }
