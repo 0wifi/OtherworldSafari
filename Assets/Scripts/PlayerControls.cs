@@ -95,21 +95,28 @@ public class PlayerControls : MonoBehaviour
 
             foreach (AnimalController a in animals)
             {
-                //get point percentage value from accuracy box
-                float p = selectedBox.GetValuePercentage(a.targetPoint.position);
-                int points = (int)(p * a.pointValue);
+                bool pointsAlreadyCounted = false; // makes sure it doesnt count for multiple targetpoints
 
-                // if scored
-                if (p > 0)
+                foreach (Transform point in a.targetPoints) // checks for each corner of the animal on the prefab since i couldnt figure out how to do it with rects and this was quick
                 {
-                    hasHitAnimal = true;
-                    //spawn scoretext object
-                    GameObject canvas = GameObject.FindFirstObjectByType<Canvas>().gameObject;
-                    GameObject instance = Instantiate(pointsScoredTextPrefab, Camera.main.WorldToScreenPoint(a.targetPoint.position), Quaternion.identity, canvas.transform);
-                    instance.GetComponent<TMP_Text>().text = points.ToString();
+                    //get point percentage value from accuracy box
+                    float p = selectedBox.GetValuePercentage(point.position);
+                    int points = (int)(p * a.pointValue);
 
-                    Debug.Log("Points: " + points);
-                    scoreManager.AddScore(points);
+                    // if scored
+                    if (p > 0 && !pointsAlreadyCounted)
+                    {
+                        hasHitAnimal = true;
+                        //spawn scoretext object
+                        GameObject canvas = GameObject.FindFirstObjectByType<Canvas>().gameObject;
+                        GameObject instance = Instantiate(pointsScoredTextPrefab, Camera.main.WorldToScreenPoint(point.position), Quaternion.identity, canvas.transform);
+                        instance.GetComponent<TMP_Text>().text = points.ToString();
+
+                        Debug.Log("Points: " + points);
+                        scoreManager.AddScore(points);
+
+                        pointsAlreadyCounted = true;
+                    }
                 }
             }
 

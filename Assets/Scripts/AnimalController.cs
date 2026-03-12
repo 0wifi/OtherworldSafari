@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class AnimalController : MonoBehaviour
 {
-    public Transform targetPoint;
+    public Transform[] targetPoints;
     public int pointValue;
     [SerializeField] private GameObject sfxPrefab;
     private int stupidCount = 0;

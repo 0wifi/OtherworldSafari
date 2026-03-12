@@ -419,7 +419,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c7dc3f263dc81e45b294997d958d546, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AnimalController
-  targetPoint: {fileID: 5685383663479460918}
+  targetPoints:
+  - {fileID: 5685383663479460918}
   pointValue: 100
   sfxPrefab: {fileID: 0}
   facingLeft: 1
