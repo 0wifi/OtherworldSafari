@@ -14,11 +14,11 @@ public class VisualTimer : MonoBehaviour
     IEnumerator TimerProgressBar()
     {
         float currentTime = 0.0f;
-        while(currentTime < 120.0f)
+        while(true)
         {
-            yield return new WaitForSeconds(1);
-            currentTime++;
-            TimerSlider.value = currentTime;
+            currentTime += Time.deltaTime;
+            TimerSlider.value = Mathf.Clamp01(currentTime / 120.0f);
+            yield return null;
         }
     }
 }
