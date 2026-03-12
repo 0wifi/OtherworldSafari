@@ -360,7 +360,7 @@ MonoBehaviour:
   targetPoint: {fileID: 5685383663479460918}
   pointValue: 100
   sfxPrefab: {fileID: 7412490270320244660, guid: b2921ea68056d3d4895b61d98f441011, type: 3}
-  facingLeft: 0
+  facingLeft: 1
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0
@@ -386,7 +386,7 @@ Transform:
   m_GameObject: {fileID: 7095773058980906286}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.2, y: -4.4, z: 0}
+  m_LocalPosition: {x: -4.7, y: -2.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

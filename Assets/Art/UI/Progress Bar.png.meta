@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 12eeea797c203e54cbafd48f9a8a2eb0
+guid: 03c863790c44b144d83a1fb0d3692421
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8208937043870901447
-    second: ArmoredCreature_0
+      213: 2784061795978973545
+    second: Progress Bar_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,40 +96,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ArmoredCreature_0
+      name: Progress Bar_0
       rect:
         serializedVersion: 2
-        x: 336
-        y: 298
-        width: 2688
-        height: 1237
-      alignment: 9
-      pivot: {x: 0.3726536, y: 0.57394236}
+        x: 45
+        y: 45
+        width: 994
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c46873afb00ce170800000000000000
-      internalID: 8208937043870901447
+      spriteID: 961101ee379f2a620800000000000000
+      internalID: 2784061795978973545
       vertices: []
       indices: 
       edges: []
@@ -138,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1f525e60af9eaf3488f62916a56bd4a0
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ArmoredCreature_0: 8208937043870901447
+      Progress Bar_0: 2784061795978973545
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
