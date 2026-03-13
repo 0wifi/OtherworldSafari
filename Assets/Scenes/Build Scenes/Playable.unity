@@ -1639,18 +1639,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Services
       objectReference: {fileID: 0}
-    - target: {fileID: 7365734242588554611, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -6.28
-      objectReference: {fileID: 0}
     - target: {fileID: 7440927006858022041, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: scoreText
       value: 
       objectReference: {fileID: 2046501045}
-    - target: {fileID: 7518866466492604642, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -6.73
-      objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[0].moveSpeed
       value: 5

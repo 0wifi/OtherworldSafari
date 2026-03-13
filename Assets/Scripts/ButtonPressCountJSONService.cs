@@ -2,7 +2,6 @@ using NaughtyAttributes;
 using System;
 using System.IO;
 using UnityEngine;
-using static UnityEditor.Progress;
 
 public class ButtonPressCountJSONService : MonoBehaviour
 {
