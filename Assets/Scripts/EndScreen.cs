@@ -28,6 +28,12 @@ public class EndScreen : MonoBehaviour
 
         returnToStart = playerInput.currentActionMap.FindAction("ReturnToStart");
 
+        StartCoroutine(DelayActivateInput(4f));
+    }
+
+    public IEnumerator DelayActivateInput(float seconds)
+    {
+        yield return new WaitForSeconds(seconds);
         returnToStart.started += ReturnToStart_started;
     }
 

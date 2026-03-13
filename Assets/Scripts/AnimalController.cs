@@ -1,5 +1,4 @@
 using NaughtyAttributes;
-using UnityEditor.Tilemaps;
 using UnityEngine;
 
 public class AnimalController : MonoBehaviour
