@@ -255,7 +255,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 4
+  m_SortingOrder: 27
   m_MaskInteraction: 0
   m_Sprite: {fileID: -3740074923830552483, guid: 483d40a4d61e4934fa50e4ba6a8dea06, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -407,6 +407,7 @@ MonoBehaviour:
   targetPoint: {fileID: 5685383663479460918}
   pointValue: 100
   sfxPrefab: {fileID: 7412490270320244660, guid: ef01f1c52d2c8a44a9cd95dfdd4978b9, type: 3}
+  facingLeft: 0
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0
