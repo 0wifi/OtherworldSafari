@@ -28,7 +28,6 @@ public class PlayerControls : MonoBehaviour
 
     [SerializeField] private AudioManager audioManager;
 
-    //[SerializeField] private List<AnimalController> animals; **** now found automatically in TakePicture()
     [Required]
     [SerializeField] GameObject animalControlObject;
 
@@ -84,20 +83,26 @@ public class PlayerControls : MonoBehaviour
         }
     }
 
+    /// <summary>
+    ///     Checks for collisions of animals in the specified accuracy box and processes the results as either hits or a miss.
+    /// </summary>
+    /// <param name="selectedBox">Selected grid space's accuracy box</param>
     private void TakePictureCollision(AccuracyController selectedBox)
     {
         if (isCameraOnCooldown) return; //ensure camera not on cooldown
 
-        List<Collider2D> collisions = new List<Collider2D>(); //list for contact results
-
+        //contact filter for OverlapBox
         ContactFilter2D contactFilter = ContactFilter2D.noFilter;
         contactFilter.layerMask = cameraCollisionLayerMask;
 
-        Rect gridSpaceRect = selectedBox.GetBoundingRect();
+        Rect gridSpaceRect = selectedBox.GetBoundingRect(); //bounding rect of grid space
+
+        List<Collider2D> collisions = new List<Collider2D>(); //list for contact results
 
         //if output contacts > 0 (hit at least one animal)
         if (Physics2D.OverlapBox(selectedBox.transform.position, gridSpaceRect.size, 0.0f, contactFilter, collisions) > 0) 
         {
+            //score each animal detected
             foreach (Collider2D collider in collisions)
             {
                 AnimalController animal = collider.transform.parent.GetComponent<AnimalController>();
@@ -109,6 +114,10 @@ public class PlayerControls : MonoBehaviour
         else { HasMissedAnimal(selectedBox); }
     }
 
+    /// <summary>
+    ///     Scores an animal based on its' point value, adding to the scoremanager and displaying the point text.
+    /// </summary>
+    /// <param name="animal">Animal to be scored</param>
     private void ScoreAnimal(AnimalController animal)
     {
         //spawn scoretext object
@@ -119,6 +128,11 @@ public class PlayerControls : MonoBehaviour
         //add to score
         scoreManager.AddScore(animal.pointValue);
     }
+
+    /// <summary>
+    ///     Handles the actions to perform when at least one animal is detected in an attempted photo.
+    /// </summary>
+    /// <param name="selectedBox">Selected grid space's accuracy box</param>
     private void HasHitAnimal(AccuracyController selectedBox)
     {
         //play camera hit sound
@@ -140,6 +154,11 @@ public class PlayerControls : MonoBehaviour
 
         StartCoroutine(CameraCooldown(CooldownTime));
     }
+
+    /// <summary>
+    ///     Handles actions to perform when no animals are detected in an attempted photo.
+    /// </summary>
+    /// <param name="selectedBox">Selected grid space's accuracy box</param>
     private void HasMissedAnimal(AccuracyController selectedBox)
     {
         //play camera miss sound
