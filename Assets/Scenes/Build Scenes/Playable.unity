@@ -1635,6 +1635,10 @@ PrefabInstance:
       propertyPath: animalControlObject
       value: 
       objectReference: {fileID: 635399925}
+    - target: {fileID: 5405204543505442141, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: cameraCollisionLayerMask.m_Bits
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5926732859281197128, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: m_Name
       value: Services

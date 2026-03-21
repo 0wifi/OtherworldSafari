@@ -144,6 +144,7 @@ GameObject:
   - component: {fileID: 6233517148166652384}
   - component: {fileID: 4796594675875548893}
   - component: {fileID: 5877829215587902559}
+  - component: {fileID: 5280130867279531885}
   m_Layer: 0
   m_Name: Animal
   m_TagString: Untagged
@@ -271,6 +272,59 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!60 &5280130867279531885
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3609337099809190105}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0.14}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 27.627895, y: 17.77}
+    newSize: {x: 10.34, y: 3.36}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.6326437, y: 3.6705506}
+      - {x: -9.68961, y: 2.5589764}
+      - {x: -13.694713, y: -0.118025914}
+      - {x: -8.9986, y: -7.8947873}
+      - {x: 8.627237, y: -4.762977}
+      - {x: 13.098826, y: 0.9062439}
+  m_UseDelaunayMesh: 1
 --- !u!1 &6378520522166410863
 GameObject:
   m_ObjectHideFlags: 0

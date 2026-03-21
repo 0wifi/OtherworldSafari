@@ -183,8 +183,8 @@ GameObject:
   - component: {fileID: 1238716533607587195}
   - component: {fileID: 6233517148166652384}
   - component: {fileID: 4796594675875548893}
-  - component: {fileID: 6517623673054567435}
   - component: {fileID: 591444864154789168}
+  - component: {fileID: 8915264196627212328}
   m_Layer: 0
   m_Name: Animal
   m_TagString: Untagged
@@ -290,8 +290,30 @@ MonoBehaviour:
   m_ObjectForwardAxis: 2
   m_ObjectUpAxis: 1
   m_StartOffset: 0
---- !u!61 &6517623673054567435
-BoxCollider2D:
+--- !u!95 &591444864154789168
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3609337099809190105}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7d0ef303ea8960b4fbfdbab7f213eeda, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!60 &8915264196627212328
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -324,7 +346,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.14}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -334,30 +356,20 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 6.75, y: 8.53}
-  m_EdgeRadius: 0
---- !u!95 &591444864154789168
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3609337099809190105}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7d0ef303ea8960b4fbfdbab7f213eeda, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
+  m_Points:
+    m_Paths:
+    - - {x: 7.794981, y: 6.590953}
+      - {x: -17.908575, y: 4.7341437}
+      - {x: -13.985359, y: -6.899797}
+      - {x: -10.25807, y: -13.94994}
+      - {x: -0.21086693, y: -11.763391}
+      - {x: 7.7552934, y: -10.721248}
+      - {x: 14.749708, y: -9.761681}
+      - {x: 18.082352, y: -2.1031158}
+      - {x: 10.339041, y: 0.8372208}
+      - {x: 18.307009, y: 11.247212}
+      - {x: 9.870449, y: 14.3788805}
+  m_UseDelaunayMesh: 1
 --- !u!1 &6378520522166410863
 GameObject:
   m_ObjectHideFlags: 0
