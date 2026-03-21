@@ -1645,11 +1645,11 @@ PrefabInstance:
       objectReference: {fileID: 2046501045}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[0].moveSpeed
-      value: 5
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[1].moveSpeed
-      value: 5
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[2].moveSpeed
@@ -1661,11 +1661,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[4].moveSpeed
-      value: 9
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[5].moveSpeed
-      value: 9
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[0].spawnHeightRange.x
