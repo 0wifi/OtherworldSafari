@@ -39,13 +39,16 @@ public class PlayerControls : MonoBehaviour
 
     private bool isCameraOnCooldown = false;
 
-    public float CooldownTime = 0.1f;  
+    public float CooldownTime = 0.1f;
 
     [Tooltip("Cooldown for saving image to display on end screen")]
     public float ImageSaveCooldown = 6f;
     private bool shouldSaveImage = true;
 
     public LayerMask cameraCollisionLayerMask;
+
+    [Tooltip("Percentage of animal's value that is added for each photo taken")]
+    public float comboScoreModifier = 0.1f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -123,10 +126,16 @@ public class PlayerControls : MonoBehaviour
         //spawn scoretext object
         GameObject canvas = GameObject.FindFirstObjectByType<Canvas>().gameObject;
         GameObject instance = Instantiate(pointsScoredTextPrefab, Camera.main.WorldToScreenPoint(animal.targetPoint.position), Quaternion.identity, canvas.transform);
-        instance.GetComponent<TMP_Text>().text = animal.pointValue.ToString();
+
+        int points = (int)(animal.pointValue * (1 + (comboScoreModifier * animal.timesScored)));
+        animal.timesScored++;
+        
+        TMP_Text scoreText = instance.GetComponentInChildren<TMP_Text>();
+        scoreText.text = points.ToString(); //give score text point value
+        scoreText.color = Color.Lerp(Color.white, Color.goldenRod, Mathf.Clamp01((float)animal.timesScored / 20)); //change color based on how many photos taken
 
         //add to score
-        scoreManager.AddScore(animal.pointValue);
+        scoreManager.AddScore(points);
     }
 
     /// <summary>

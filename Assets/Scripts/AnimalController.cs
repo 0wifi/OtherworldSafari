@@ -13,6 +13,8 @@ public class AnimalController : MonoBehaviour
     [SerializeField][InfoBox("Check if the sprite is facing left.")] private
         bool facingLeft;
 
+    public int timesScored = 0;
+
     private void OnEnable()
     {
         stupidCount++;
