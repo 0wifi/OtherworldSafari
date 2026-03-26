@@ -46,8 +46,8 @@ public class EndScreen : MonoBehaviour
 
     void Awake()
     {
-        ButtonPressCountJSONService.SaveLastRunCounts();
-        ButtonPressCountJSONService.pressCounts = new ButtonPressCountData();
+        //ButtonPressCountJSONService.SaveLastRunCounts();
+        //ButtonPressCountJSONService.pressCounts = new ButtonPressCountData();
 
         if (scoreText != null) scoreText.text = "Score: " + ScoreManager.score;
 
