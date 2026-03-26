@@ -9,8 +9,11 @@ public class AnimalController : MonoBehaviour
     private int stupidCount = 0;
     private float lastAnimalXValue;
     private float originalTargetPointX;
+    private Vector2 originalAnimalScale;
     [SerializeField][InfoBox("Check if the sprite is facing left.")] private
         bool facingLeft;
+
+    public int timesScored = 0;
 
     private void OnEnable()
     {
@@ -21,6 +24,7 @@ public class AnimalController : MonoBehaviour
         }
         lastAnimalXValue = gameObject.transform.Find("Animal").position.x;
         originalTargetPointX = targetPoint.localPosition.x;
+        originalAnimalScale = transform.Find("Animal").localScale;
     }
 
     private void Update()
@@ -37,22 +41,20 @@ public class AnimalController : MonoBehaviour
         *
         **/
 
-        SpriteRenderer sr = gameObject.transform.Find("Animal").gameObject.GetComponent<SpriteRenderer>();
+        Transform animalTransform = transform.Find("Animal");
 
+        //flip whole object to respect collider
         if (currentAnimalXValue > lastAnimalXValue && facingLeft)
         {
-            sr.flipX = true;
-            targetPoint.localPosition = new Vector2(-originalTargetPointX, targetPoint.localPosition.y);
+            animalTransform.localScale = new Vector2(-originalAnimalScale.x, originalAnimalScale.y);
         }
         else if (currentAnimalXValue < lastAnimalXValue && !facingLeft)
         {
-            sr.flipX = true;
-            targetPoint.localPosition = new Vector2(-originalTargetPointX, targetPoint.localPosition.y);
+            animalTransform.localScale = new Vector2(-originalAnimalScale.x, originalAnimalScale.y);
         }
         else
         {
-            sr.flipX = false;
-            targetPoint.localPosition = new Vector2(originalTargetPointX, targetPoint.localPosition.y);
+            animalTransform.localScale = new Vector2(originalAnimalScale.x, originalAnimalScale.y);
         }
 
         lastAnimalXValue = currentAnimalXValue;
