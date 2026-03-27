@@ -532,19 +532,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: spawnXValue
-      value: 11
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: spawnDelay.x
-      value: 0.5
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: spawnDelay.y
-      value: 3
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: despawnXValue
-      value: -11
+      value: -15
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliageDensity
@@ -604,19 +604,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliagePieces.Array.data[0].spawnHeightRange.x
-      value: -4
-      objectReference: {fileID: 0}
-    - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
-      propertyPath: foliagePieces.Array.data[0].spawnHeightRange.y
       value: -3
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
+      propertyPath: foliagePieces.Array.data[0].spawnHeightRange.y
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliagePieces.Array.data[1].spawnHeightRange.x
-      value: -2.1
+      value: 0.6
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliagePieces.Array.data[1].spawnHeightRange.y
-      value: -1.8
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliagePieces.Array.data[2].spawnHeightRange.x
@@ -624,23 +624,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliagePieces.Array.data[2].spawnHeightRange.y
-      value: -1
+      value: -0.8
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliagePieces.Array.data[3].spawnHeightRange.x
-      value: -1
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliagePieces.Array.data[3].spawnHeightRange.y
-      value: -0.5
+      value: -0.2
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliagePieces.Array.data[4].spawnHeightRange.x
-      value: -1.5
+      value: -1.1
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliagePieces.Array.data[4].spawnHeightRange.y
-      value: -0.5
+      value: -0.8
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: foliagePieces.Array.data[5].spawnHeightRange.x
@@ -656,7 +656,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4605604299697539280, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.55
       objectReference: {fileID: 0}
     - target: {fileID: 4605604299697539280, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: m_LocalPosition.z
