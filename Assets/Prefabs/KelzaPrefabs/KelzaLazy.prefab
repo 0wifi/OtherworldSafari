@@ -220,7 +220,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 4
+  m_SortingOrder: 27
   m_MaskInteraction: 0
   m_Sprite: {fileID: 8959366166802588098, guid: 1fe6c582ceff3d64ab711a8c59e94b1f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -356,7 +356,7 @@ Transform:
   m_GameObject: {fileID: 6378520522166410863}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.57, y: 3.32, z: 0}
+  m_LocalPosition: {x: -9.57, y: 2.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -380,6 +380,7 @@ MonoBehaviour:
   pointValue: 100
   sfxPrefab: {fileID: 7412490270320244660, guid: 8714632733dc6644da1f40dea99ebf4f, type: 3}
   facingLeft: 1
+  timesScored: 0
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0
