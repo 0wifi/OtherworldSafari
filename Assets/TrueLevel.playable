@@ -73,7 +73,7 @@ MonoBehaviour:
     m_Start: 3.6
     m_ClipIn: 0
     m_Asset: {fileID: 7549826634447925183}
-    m_Duration: 3.0000000000000004
+    m_Duration: 3
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7772267205248848169}
     m_EaseInDuration: 0
@@ -137,12 +137,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Skrunkly
+    m_DisplayName: Skrunlkly
   - m_Version: 1
     m_Start: 17
     m_ClipIn: 0
     m_Asset: {fileID: -3916544680454675469}
-    m_Duration: 5
+    m_Duration: 4.960000038146973
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7772267205248848169}
     m_EaseInDuration: 0
@@ -206,7 +206,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Birdup2
+    m_DisplayName: Birdup_02
   - m_Version: 1
     m_Start: 38
     m_ClipIn: 0
@@ -349,7 +349,7 @@ MonoBehaviour:
     m_Start: 90
     m_ClipIn: 0
     m_Asset: {fileID: -6937597873156672356}
-    m_Duration: 3.0000000000000004
+    m_Duration: 3
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7772267205248848169}
     m_EaseInDuration: 0
@@ -413,7 +413,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: AnimalParentTemplate (2) Variant
+    m_DisplayName: Skrunlkly
   - m_Version: 1
     m_Start: 101.38333333333334
     m_ClipIn: 0
@@ -482,12 +482,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Bug
   - m_Version: 1
     m_Start: 111.33333333333333
     m_ClipIn: 0
     m_Asset: {fileID: -4652450594920352849}
-    m_Duration: 7.250000000000014
+    m_Duration: 10
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7772267205248848169}
     m_EaseInDuration: 0
@@ -551,7 +551,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Aquazella
   m_Markers:
     m_Objects: []
 --- !u!114 &-7587789640512257424
@@ -715,12 +715,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Aquazella
+    m_DisplayName: Aquazella2
   - m_Version: 1
     m_Start: 16.000000000000007
     m_ClipIn: 0
     m_Asset: {fileID: -6041201134921357568}
-    m_Duration: 4.960000000000001
+    m_Duration: 4.960000038146973
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6814046374474293465}
     m_EaseInDuration: 0
@@ -784,7 +784,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Birdup1
+    m_DisplayName: Birdup_01
   - m_Version: 1
     m_Start: 37
     m_ClipIn: 0
@@ -927,7 +927,7 @@ MonoBehaviour:
     m_Start: 88.26666666666667
     m_ClipIn: 0
     m_Asset: {fileID: 5236858832623626246}
-    m_Duration: 3.0000000000000004
+    m_Duration: 3
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6814046374474293465}
     m_EaseInDuration: 0
@@ -991,7 +991,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: AnimalParentTemplate (2) Variant
+    m_DisplayName: Skrunlkly
   - m_Version: 1
     m_Start: 97.95
     m_ClipIn: 0
@@ -1060,12 +1060,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Bug 1
   - m_Version: 1
     m_Start: 112.66666666666667
     m_ClipIn: 4.083333333333329
     m_Asset: {fileID: -8757182864845314015}
-    m_Duration: 5.916666666666671
+    m_Duration: 10
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6814046374474293465}
     m_EaseInDuration: 0
@@ -1129,12 +1129,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Aquazella2
   - m_Version: 1
     m_Start: 1.600000000000001
     m_ClipIn: 0
     m_Asset: {fileID: 2936553835185593932}
-    m_Duration: 3.0000000000000004
+    m_Duration: 3
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6814046374474293465}
     m_EaseInDuration: 0
@@ -1198,7 +1198,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Skrunkly2
   m_Markers:
     m_Objects: []
 --- !u!114 &-6717748921597539750
@@ -1226,7 +1226,7 @@ MonoBehaviour:
     m_Start: 27
     m_ClipIn: 0
     m_Asset: {fileID: -4796873029303372601}
-    m_Duration: 10.2
+    m_Duration: 10.199999809265137
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6717748921597539750}
     m_EaseInDuration: 0
@@ -1359,7 +1359,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Skrunkly
+    m_DisplayName: Skrunlkly
   m_Markers:
     m_Objects: []
 --- !u!114 &-6667886787742891481
@@ -2242,7 +2242,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Skrunkly
+    m_DisplayName: Skrunlkly
   - m_Version: 1
     m_Start: 9
     m_ClipIn: 0
@@ -2449,7 +2449,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Queentonia1
+    m_DisplayName: Queentonia
   - m_Version: 1
     m_Start: 95.15
     m_ClipIn: 0
@@ -2518,7 +2518,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Bug
   - m_Version: 1
     m_Start: 108.58333333333334
     m_ClipIn: 0
@@ -2587,7 +2587,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Aquazella
   - m_Version: 1
     m_Start: 85
     m_ClipIn: 0
@@ -2656,7 +2656,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Skrunkly2
   - m_Version: 1
     m_Start: 118.583333333333
     m_ClipIn: 0
@@ -2725,7 +2725,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: TallBug
   m_Markers:
     m_Objects: []
 --- !u!114 &7549826634447925183
@@ -2801,7 +2801,7 @@ MonoBehaviour:
     m_Start: 22
     m_ClipIn: 0
     m_Asset: {fileID: -3460313905493583355}
-    m_Duration: 10.200000000000003
+    m_Duration: 10.199999809265137
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8502424120638675632}
     m_EaseInDuration: 0
@@ -2939,7 +2939,7 @@ MonoBehaviour:
     m_Start: 63
     m_ClipIn: 0
     m_Asset: {fileID: -1282969777408887187}
-    m_Duration: 10
+    m_Duration: 9.34085464477539
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8502424120638675632}
     m_EaseInDuration: 0
@@ -3003,7 +3003,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Kelza
+    m_DisplayName: Kelza_02
   - m_Version: 1
     m_Start: 79
     m_ClipIn: 0
@@ -3141,7 +3141,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Bug 1
   - m_Version: 1
     m_Start: 6
     m_ClipIn: 0
@@ -3210,7 +3210,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Skrunkly2
   - m_Version: 1
     m_Start: 91.26666666666667
     m_ClipIn: 0
@@ -3279,7 +3279,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Skrunkly2
   - m_Version: 1
     m_Start: 55.85
     m_ClipIn: 0
@@ -3348,7 +3348,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: TallBug
   m_Markers:
     m_Objects: []
 --- !u!114 &8770578958709682484
