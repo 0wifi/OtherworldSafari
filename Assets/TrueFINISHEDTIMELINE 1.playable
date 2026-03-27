@@ -113,12 +113,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Skrunkly
+    m_DisplayName: Skrunlkly
   - m_Version: 1
     m_Start: 16.5
     m_ClipIn: 0
     m_Asset: {fileID: -3916544680454675469}
-    m_Duration: 5
+    m_Duration: 4.960000038146973
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7772267205248848169}
     m_EaseInDuration: 0
@@ -182,7 +182,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Birdup2
+    m_DisplayName: Birdup_02
   - m_Version: 1
     m_Start: 39.5
     m_ClipIn: 0
@@ -320,12 +320,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: AnimalParentTemplate (2) Variant
+    m_DisplayName: Skrunlkly
   - m_Version: 1
     m_Start: 22
     m_ClipIn: 0
     m_Asset: {fileID: -3460313905493583355}
-    m_Duration: 10.200000000000003
+    m_Duration: 10.199999809265137
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7772267205248848169}
     m_EaseInDuration: 0
@@ -460,10 +460,10 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Queentonia3
   - m_Version: 1
-    m_Start: 108.4
+    m_Start: 107.83333333333334
     m_ClipIn: 0
     m_Asset: {fileID: -8479912969384849185}
-    m_Duration: 8.549999999999997
+    m_Duration: 4.960000038146973
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7772267205248848169}
     m_EaseInDuration: 0
@@ -527,7 +527,76 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Birdup_01
+  - m_Version: 1
+    m_Start: 115.83333333333334
+    m_ClipIn: 3
+    m_Asset: {fileID: 2428364814576863807}
+    m_Duration: 3.5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -7772267205248848169}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Skrunkly2
   m_Markers:
     m_Objects: []
 --- !u!114 &-7587789640512257424
@@ -715,12 +784,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Aquazella
+    m_DisplayName: Aquazella2
   - m_Version: 1
     m_Start: 14.5
     m_ClipIn: 0
     m_Asset: {fileID: -6041201134921357568}
-    m_Duration: 4.960000000000001
+    m_Duration: 4.960000038146973
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6814046374474293465}
     m_EaseInDuration: 0
@@ -784,7 +853,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Birdup1
+    m_DisplayName: Birdup_01
   - m_Version: 1
     m_Start: 37.5
     m_ClipIn: 0
@@ -922,7 +991,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: AnimalParentTemplate (2) Variant
+    m_DisplayName: Skrunlkly
   - m_Version: 1
     m_Start: 99
     m_ClipIn: 0
@@ -991,12 +1060,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Bug 1
   - m_Version: 1
     m_Start: 2.316666666666667
     m_ClipIn: 0
     m_Asset: {fileID: 2936553835185593932}
-    m_Duration: 3.4999999999999996
+    m_Duration: 3.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6814046374474293465}
     m_EaseInDuration: 0
@@ -1060,7 +1129,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Skrunkly2
   - m_Version: 1
     m_Start: 73.5
     m_ClipIn: 0
@@ -1131,10 +1200,10 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Queentonia2
   - m_Version: 1
-    m_Start: 108.4
+    m_Start: 107.83333333333334
     m_ClipIn: 0
     m_Asset: {fileID: -247048059093774394}
-    m_Duration: 8.549999999999997
+    m_Duration: 10
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6814046374474293465}
     m_EaseInDuration: 0
@@ -1290,7 +1359,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Skrunkly
+    m_DisplayName: Skrunlkly
   - m_Version: 1
     m_Start: 8
     m_ClipIn: 0
@@ -1359,12 +1428,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Skrunlkly
   - m_Version: 1
     m_Start: 29
     m_ClipIn: 0
     m_Asset: {fileID: -4802733867676528187}
-    m_Duration: 10.200000000000003
+    m_Duration: 10.199999809265137
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6717748921597539750}
     m_EaseInDuration: 0
@@ -1428,12 +1497,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: unnamedPredator1
   - m_Version: 1
     m_Start: 58.5
     m_ClipIn: 0
     m_Asset: {fileID: -1838360006640874552}
-    m_Duration: 8.366665999999995
+    m_Duration: 8
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6717748921597539750}
     m_EaseInDuration: 0
@@ -1497,12 +1566,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: TallBug1
   - m_Version: 1
     m_Start: 77.5
     m_ClipIn: 0
     m_Asset: {fileID: 557786781299247513}
-    m_Duration: 10.5
+    m_Duration: 10.199999809265137
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6717748921597539750}
     m_EaseInDuration: 0
@@ -1566,12 +1635,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Armatrillo2
   - m_Version: 1
-    m_Start: 108.4
+    m_Start: 107.83333333333334
     m_ClipIn: 0
     m_Asset: {fileID: -2351160800826048706}
-    m_Duration: 8.549999999999997
+    m_Duration: 8
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6717748921597539750}
     m_EaseInDuration: 0
@@ -1635,7 +1704,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: TallBug1
   m_Markers:
     m_Objects: []
 --- !u!114 &-6667886787742891481
@@ -2478,10 +2547,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 108.4
+    m_Start: 107.83333333333334
     m_ClipIn: 0
     m_Asset: {fileID: -6055037909665072046}
-    m_Duration: 8.549999999999997
+    m_Duration: 8
     m_TimeScale: 1
     m_ParentTrack: {fileID: 6952850617124179118}
     m_EaseInDuration: 0
@@ -2545,7 +2614,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: TallBug1
   m_Markers:
     m_Objects: []
 --- !u!114 &7325778774276414067
@@ -2642,7 +2711,7 @@ MonoBehaviour:
     m_Start: 0.6
     m_ClipIn: 0
     m_Asset: {fileID: -7587789640512257424}
-    m_Duration: 3.4999999999999996
+    m_Duration: 3.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 7325778774276414067}
     m_EaseInDuration: 0
@@ -2706,7 +2775,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Skrunkly
+    m_DisplayName: Skrunlkly
   - m_Version: 1
     m_Start: 9
     m_ClipIn: 0
@@ -2913,7 +2982,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Queentonia1
+    m_DisplayName: Queentonia
   - m_Version: 1
     m_Start: 93
     m_ClipIn: 0
@@ -2982,7 +3051,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Bug
   - m_Version: 1
     m_Start: 85
     m_ClipIn: 0
@@ -3051,12 +3120,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Skrunkly2
   - m_Version: 1
-    m_Start: 108.4
+    m_Start: 107.83333333333334
     m_ClipIn: 1.4000000000000057
     m_Asset: {fileID: -7339935484910666330}
-    m_Duration: 8.549999999999997
+    m_Duration: 10
     m_TimeScale: 1
     m_ParentTrack: {fileID: 7325778774276414067}
     m_EaseInDuration: 0
@@ -3329,12 +3398,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Kelza
+    m_DisplayName: Kelza_02
   - m_Version: 1
     m_Start: 6.266666666666667
     m_ClipIn: 0
     m_Asset: {fileID: -7001884808319599899}
-    m_Duration: 3.499999999999999
+    m_Duration: 3.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8502424120638675632}
     m_EaseInDuration: 0
@@ -3398,7 +3467,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Skrunkly2
   - m_Version: 1
     m_Start: 91
     m_ClipIn: 0
@@ -3467,7 +3536,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Skrunkly2
   - m_Version: 1
     m_Start: 55.85
     m_ClipIn: 0
@@ -3536,12 +3605,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: TallBug
   - m_Version: 1
     m_Start: 18.5
     m_ClipIn: 0
     m_Asset: {fileID: -5959318382108373814}
-    m_Duration: 4.960000000000001
+    m_Duration: 4.960000038146973
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8502424120638675632}
     m_EaseInDuration: 0
@@ -3605,12 +3674,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Birdup_01
   - m_Version: 1
     m_Start: 26.5
     m_ClipIn: 0
     m_Asset: {fileID: -4796873029303372601}
-    m_Duration: 10.2
+    m_Duration: 10.199999809265137
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8502424120638675632}
     m_EaseInDuration: 0
@@ -3679,7 +3748,7 @@ MonoBehaviour:
     m_Start: 82.16666666666667
     m_ClipIn: 0
     m_Asset: {fileID: -2605451449241789126}
-    m_Duration: 4.960000000000001
+    m_Duration: 4.960000038146973
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8502424120638675632}
     m_EaseInDuration: 0
@@ -3743,12 +3812,12 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Birdup_01
   - m_Version: 1
-    m_Start: 108.4
+    m_Start: 107.83333333333334
     m_ClipIn: 0
     m_Asset: {fileID: -4250130657467395571}
-    m_Duration: 8.549999999999997
+    m_Duration: 10
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8502424120638675632}
     m_EaseInDuration: 0
@@ -3813,75 +3882,6 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: Aquazella2 1
-  - m_Version: 1
-    m_Start: 116.95
-    m_ClipIn: 3.549999999999997
-    m_Asset: {fileID: 2428364814576863807}
-    m_Duration: 4.033333333333331
-    m_TimeScale: 1
-    m_ParentTrack: {fileID: 8502424120638675632}
-    m_EaseInDuration: 0
-    m_EaseOutDuration: 0
-    m_BlendInDuration: 0
-    m_BlendOutDuration: 0
-    m_MixInCurve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    m_MixOutCurve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    m_BlendInCurveMode: 0
-    m_BlendOutCurveMode: 0
-    m_ExposedParameterNames: []
-    m_AnimationCurves: {fileID: 0}
-    m_Recordable: 0
-    m_PostExtrapolationMode: 0
-    m_PreExtrapolationMode: 0
-    m_PostExtrapolationTime: 0
-    m_PreExtrapolationTime: 0
-    m_DisplayName: Skrunkly2
   m_Markers:
     m_Objects: []
 --- !u!114 &8770578958709682484
