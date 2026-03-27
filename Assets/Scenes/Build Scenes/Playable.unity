@@ -1647,10 +1647,30 @@ PrefabInstance:
       propertyPath: m_Name
       value: Services
       objectReference: {fileID: 0}
+    - target: {fileID: 6746608148193943989, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.55
+      objectReference: {fileID: 0}
     - target: {fileID: 7440927006858022041, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: scoreText
       value: 
       objectReference: {fileID: 2046501045}
+    - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: spawnXValue
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: spawnDelay.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: spawnDelay.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: despawnXValue
+      value: -15
+      objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[0].moveSpeed
       value: 9
@@ -1677,19 +1697,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[0].spawnHeightRange.x
-      value: -4
-      objectReference: {fileID: 0}
-    - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
-      propertyPath: foliagePieces.Array.data[0].spawnHeightRange.y
       value: -3
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: foliagePieces.Array.data[0].spawnHeightRange.y
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[1].spawnHeightRange.x
-      value: -2.1
+      value: 0.6
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[1].spawnHeightRange.y
-      value: -1.8
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[2].spawnHeightRange.x
@@ -1697,19 +1717,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[2].spawnHeightRange.y
-      value: -1
+      value: -0.8
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[3].spawnHeightRange.x
-      value: -1
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[3].spawnHeightRange.y
-      value: -0.5
+      value: -0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: foliagePieces.Array.data[4].spawnHeightRange.x
+      value: -1.1
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[4].spawnHeightRange.y
-      value: -0.5
+      value: -0.8
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[5].spawnHeightRange.x
