@@ -1513,7 +1513,7 @@ PrefabInstance:
     - target: {fileID: 6988377301804395557, guid: fc021da8489a9ae4a9d5f8eca5725832, type: 3}
       propertyPath: m_PlayableAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 8075298f9e620814793e1f7463c14d60, type: 2}
+      objectReference: {fileID: 11400000, guid: 7ecdd230b1d4d414da9c32d14d393db2, type: 2}
     - target: {fileID: 6988377301804395557, guid: fc021da8489a9ae4a9d5f8eca5725832, type: 3}
       propertyPath: m_ExposedReferences.m_References.Array.size
       value: 17

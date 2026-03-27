@@ -19,7 +19,7 @@ public class StartScreen : MonoBehaviour
 
         Cursor.visible = false;
 
-        scoreManager.ResetScore();
+        //scoreManager.ResetScore();
     }
 
     private void StartGame_started(InputAction.CallbackContext obj)

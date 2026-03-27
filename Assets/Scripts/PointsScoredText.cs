@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class PointsScoredText : MonoBehaviour
 {
-    public int time = 1;
+    public float time = 1;
     void Start()
     {
         StartCoroutine(WaitThenDelete(time));

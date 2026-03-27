@@ -28,7 +28,6 @@ public class PlayerControls : MonoBehaviour
 
     [SerializeField] private AudioManager audioManager;
 
-    //[SerializeField] private List<AnimalController> animals; **** now found automatically in TakePicture()
     [Required]
     [SerializeField] GameObject animalControlObject;
 
@@ -40,11 +39,16 @@ public class PlayerControls : MonoBehaviour
 
     private bool isCameraOnCooldown = false;
 
-    public float CooldownTime = 0.1f;  
+    public float CooldownTime = 0.1f;
 
     [Tooltip("Cooldown for saving image to display on end screen")]
     public float ImageSaveCooldown = 6f;
     private bool shouldSaveImage = true;
+
+    public LayerMask cameraCollisionLayerMask;
+
+    [Tooltip("Percentage of animal's value that is added for each photo taken")]
+    public float comboScoreModifier = 0.1f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -82,64 +86,92 @@ public class PlayerControls : MonoBehaviour
         }
     }
 
-    private void TakePicture(AccuracyController selectedBox)
+    /// <summary>
+    ///     Checks for collisions of animals in the specified accuracy box and processes the results as either hits or a miss.
+    /// </summary>
+    /// <param name="selectedBox">Selected grid space's accuracy box</param>
+    private void TakePictureCollision(AccuracyController selectedBox)
     {
-        if (!isCameraOnCooldown)
+        if (isCameraOnCooldown) return; //ensure camera not on cooldown
+
+        //contact filter for OverlapBox
+        ContactFilter2D contactFilter = ContactFilter2D.noFilter;
+        contactFilter.layerMask = cameraCollisionLayerMask;
+
+        Rect gridSpaceRect = selectedBox.GetBoundingRect(); //bounding rect of grid space
+
+        List<Collider2D> collisions = new List<Collider2D>(); //list for contact results
+
+        //if output contacts > 0 (hit at least one animal)
+        if (Physics2D.OverlapBox(selectedBox.transform.position, gridSpaceRect.size, 0.0f, contactFilter, collisions) > 0) 
         {
-            bool hasHitAnimal = false;
-
-            //find all active animals in animal control object
-            List<AnimalController> animals = animalControlObject.GetComponentsInChildren<AnimalController>().ToList<AnimalController>();
-
-            //print(animals.Count + " animals found.");
-
-            foreach (AnimalController a in animals)
+            //score each animal detected
+            foreach (Collider2D collider in collisions)
             {
-                //get point percentage value from accuracy box
-                float p = selectedBox.GetValuePercentage(a.targetPoint.position);
-                int points = (int)(p * a.pointValue);
-
-                // if scored
-                if (p > 0)
-                {
-                    hasHitAnimal = true;
-                    //spawn scoretext object
-                    GameObject canvas = GameObject.FindFirstObjectByType<Canvas>().gameObject;
-                    GameObject instance = Instantiate(pointsScoredTextPrefab, Camera.main.WorldToScreenPoint(a.targetPoint.position), Quaternion.identity, canvas.transform);
-                    instance.GetComponent<TMP_Text>().text = points.ToString();
-
-                    Debug.Log("Points: " + points);
-                    scoreManager.AddScore(points);
-                }
+                AnimalController animal = collider.transform.parent.GetComponent<AnimalController>();
+                ScoreAnimal(animal);
             }
 
-            if (hasHitAnimal) //HAS HIT AN ANIMAL
-            {
-                //play camera hit sound
-                audioManager.InstantiateRandomOfList(audioManager.CameraHit, selectedBox.transform, true);
-
-                //get image capture from image capture system, saving if should save image
-                if (shouldSaveImage)
-                {
-                    imageCapture.StartCoroutine(imageCapture.CaptureImageAndSaveSprite(selectedBox.GetCamera()));
-                    StartCoroutine(SaveSpriteCooldown(ImageSaveCooldown));
-                }
-                else
-                {
-                    imageCapture.StartCoroutine(imageCapture.CaptureImage(selectedBox.GetCamera()));
-                }
-
-                //show camera visual effect
-                cameraFlash.doFlash(selectedBox);
-            }
-            else //HAS MISSED
-            {
-                //play camera miss sound
-                audioManager.InstantiateSound(audioManager.CameraMiss, selectedBox.transform, true);
-            }
-
-            StartCoroutine(CameraCooldown(CooldownTime));
+            HasHitAnimal(selectedBox);
         }
+        else { HasMissedAnimal(selectedBox); }
+    }
+
+    /// <summary>
+    ///     Scores an animal based on its' point value, adding to the scoremanager and displaying the point text.
+    /// </summary>
+    /// <param name="animal">Animal to be scored</param>
+    private void ScoreAnimal(AnimalController animal)
+    {
+        //spawn scoretext object
+        GameObject canvas = GameObject.FindFirstObjectByType<Canvas>().gameObject;
+        GameObject instance = Instantiate(pointsScoredTextPrefab, Camera.main.WorldToScreenPoint(animal.targetPoint.position), Quaternion.identity, canvas.transform);
+
+        int points = (int)(animal.pointValue * (1 + (comboScoreModifier * animal.timesScored)));
+        animal.timesScored++;
+        
+        TMP_Text scoreText = instance.GetComponentInChildren<TMP_Text>();
+        scoreText.text = points.ToString(); //give score text point value
+        scoreText.color = Color.Lerp(Color.white, Color.goldenRod, Mathf.Clamp01((float)animal.timesScored / 20)); //change color based on how many photos taken
+
+        //add to score
+        scoreManager.AddScore(points);
+    }
+
+    /// <summary>
+    ///     Handles the actions to perform when at least one animal is detected in an attempted photo.
+    /// </summary>
+    /// <param name="selectedBox">Selected grid space's accuracy box</param>
+    private void HasHitAnimal(AccuracyController selectedBox)
+    {
+        //play camera hit sound
+        audioManager.InstantiateRandomOfList(audioManager.CameraHit, selectedBox.transform, true);
+
+        //get image capture from image capture system, saving if should save image
+        if (shouldSaveImage)
+        {
+            imageCapture.StartCoroutine(imageCapture.CaptureImageAndSaveSprite(selectedBox.GetCamera()));
+            StartCoroutine(SaveSpriteCooldown(ImageSaveCooldown));
+        }
+        else
+        {
+            imageCapture.StartCoroutine(imageCapture.CaptureImage(selectedBox.GetCamera()));
+        }
+
+        //show camera visual effect
+        cameraFlash.doFlash(selectedBox);
+
+        StartCoroutine(CameraCooldown(CooldownTime));
+    }
+
+    /// <summary>
+    ///     Handles actions to perform when no animals are detected in an attempted photo.
+    /// </summary>
+    /// <param name="selectedBox">Selected grid space's accuracy box</param>
+    private void HasMissedAnimal(AccuracyController selectedBox)
+    {
+        //play camera miss sound
+        audioManager.InstantiateSound(audioManager.CameraMiss, selectedBox.transform, true);
     }
 
     public IEnumerator CameraCooldown(float seconds)
@@ -159,47 +191,56 @@ public class PlayerControls : MonoBehaviour
     #region Inputs
     private void BottomRight_started(InputAction.CallbackContext obj)
     {
-        TakePicture(accuracyManager.BottomRight);
+        TakePictureCollision(accuracyManager.BottomRight);
+        ButtonPressCountJSONService.pressCounts.BOTTOM_RIGHT_COUNT++;
     }
 
     private void BottomMiddle_started(InputAction.CallbackContext obj)
     {
-        TakePicture(accuracyManager.BottomMiddle);
+        TakePictureCollision(accuracyManager.BottomMiddle);
+        ButtonPressCountJSONService.pressCounts.BOTTOM_MIDDLE_COUNT++;
     }
 
     private void BottomLeft_started(InputAction.CallbackContext obj)
     {
-        TakePicture(accuracyManager.BottomLeft);
+        TakePictureCollision(accuracyManager.BottomLeft);
+        ButtonPressCountJSONService.pressCounts.BOTTOM_LEFT_COUNT++;
     }
 
     private void CenterRight_started(InputAction.CallbackContext obj)
     {
-        TakePicture(accuracyManager.MiddleRight);
+        TakePictureCollision(accuracyManager.MiddleRight);
+        ButtonPressCountJSONService.pressCounts.MIDDLE_RIGHT_COUNT++;
     }
 
     private void CenterMiddle_started(InputAction.CallbackContext obj)
     {
-        TakePicture(accuracyManager.MiddleCenter);
+        TakePictureCollision(accuracyManager.MiddleCenter);
+        ButtonPressCountJSONService.pressCounts.CENTER_COUNT++;
     }
 
     private void CenterLeft_started(InputAction.CallbackContext obj)
     {
-        TakePicture(accuracyManager.MiddleLeft);
+        TakePictureCollision(accuracyManager.MiddleLeft);
+        ButtonPressCountJSONService.pressCounts.MIDDLE_LEFT_COUNT++;
     }
 
     private void TopRight_started(InputAction.CallbackContext obj)
     {
-        TakePicture(accuracyManager.TopRight);
+        TakePictureCollision(accuracyManager.TopRight);
+        ButtonPressCountJSONService.pressCounts.TOP_RIGHT_COUNT++;
     }
 
     private void TopMiddle_started(InputAction.CallbackContext obj)
     {
-        TakePicture(accuracyManager.TopMiddle);
+        TakePictureCollision(accuracyManager.TopMiddle);
+        ButtonPressCountJSONService.pressCounts.TOP_MIDDLE_COUNT++;
     }
 
     private void TopLeft_started(InputAction.CallbackContext obj)
     {
-        TakePicture(accuracyManager.TopLeft);
+        TakePictureCollision(accuracyManager.TopLeft);
+        ButtonPressCountJSONService.pressCounts.TOP_LEFT_COUNT++;
     }
     #endregion
 }

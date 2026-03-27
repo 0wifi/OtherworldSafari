@@ -144,6 +144,7 @@ GameObject:
   - component: {fileID: 6233517148166652384}
   - component: {fileID: 4796594675875548893}
   - component: {fileID: 5877829215587902559}
+  - component: {fileID: 5280130867279531885}
   m_Layer: 0
   m_Name: Animal
   m_TagString: Untagged
@@ -160,7 +161,7 @@ Transform:
   m_GameObject: {fileID: 3609337099809190105}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.47695, y: -7.6804147, z: -0.000000022415819}
+  m_LocalPosition: {x: 21.23, y: -8.66, z: 0}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -214,7 +215,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 33
+  m_SortingOrder: 25
   m_MaskInteraction: 0
   m_Sprite: {fileID: -702560005100649048, guid: 4ba2e0c03fb8d1c41b3ff66745552394, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -271,6 +272,59 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!60 &5280130867279531885
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3609337099809190105}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0.14}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 27.627895, y: 17.77}
+    newSize: {x: 10.34, y: 3.36}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.6326437, y: 3.6705506}
+      - {x: -9.68961, y: 2.5589764}
+      - {x: -13.694713, y: -0.118025914}
+      - {x: -8.9986, y: -7.8947873}
+      - {x: 8.627237, y: -4.762977}
+      - {x: 13.098826, y: 0.9062439}
+  m_UseDelaunayMesh: 1
 --- !u!1 &6378520522166410863
 GameObject:
   m_ObjectHideFlags: 0
@@ -320,6 +374,7 @@ MonoBehaviour:
   targetPoint: {fileID: 5685383663479460918}
   pointValue: 100
   sfxPrefab: {fileID: 7412490270320244660, guid: 6d0f6bde25087f543a9990e40c5fc1f1, type: 3}
+  facingLeft: 1
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0
@@ -345,7 +400,7 @@ Transform:
   m_GameObject: {fileID: 7095773058980906286}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.29, y: 0.44, z: 0}
+  m_LocalPosition: {x: -3.6, y: -0.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

@@ -54,7 +54,7 @@ public class ImageCapture : MonoBehaviour
     private void OutputTextureFromCamera(Camera cam)
     {
         RenderTexture rt = new RenderTexture((int)(cam.pixelWidth * 0.8), cam.pixelHeight, 24);
-        print($"{cam.pixelWidth}, {cam.pixelHeight}");
+        //print($"{cam.pixelWidth}, {cam.pixelHeight}");
         cam.targetTexture = rt;
 
         // render the camera into the RenderTexture
