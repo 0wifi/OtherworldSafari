@@ -61,80 +61,80 @@ MonoBehaviour:
   - m_EditModeType: 1
     m_Knots:
     - Position:
-        x: 0.07999992
-        y: 2.92
+        x: 2.6800003
+        y: 3.5300002
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -1.0600212
+        z: -1.3110383
       TangentOut:
         x: 0
         y: 0
-        z: 1.0600212
+        z: 1.3110383
       Rotation:
         value:
-          x: -0.5315511
-          y: -0.4663191
-          z: 0.4663191
-          w: 0.53155106
+          x: 0.50190324
+          y: 0.4980895
+          z: -0.4980895
+          w: -0.50190324
     - Position:
         x: -10.43
-        y: 4.3
+        y: 3.63
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -1.4901003
+        z: -0.9426483
       TangentOut:
         x: 0
         y: 0
-        z: 0.5468991
+        z: 0.12809029
       Rotation:
         value:
-          x: 0.6549808
-          y: 0.26645848
-          z: -0.26645857
-          w: -0.6549808
+          x: -0.5999007
+          y: -0.3743249
+          z: 0.37432486
+          w: 0.5999007
     - Position:
         x: -10.58
-        y: 5.7200003
+        y: 3.8200002
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.4334365
+        z: -0.05914975
       TangentOut:
         x: 0
         y: 0
-        z: 0.81633395
+        z: 0.2702002
       Rotation:
         value:
-          x: -0.6649325
-          y: 0.24055105
-          z: -0.240551
-          w: 0.6649325
+          x: 0.69011176
+          y: -0.15409645
+          z: 0.15409645
+          w: -0.69011176
     - Position:
         x: -5.5299997
-        y: 6.11
+        y: 3.94
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -1.8866365
+        z: -1.8841503
       TangentOut:
         x: 0
         y: 0
-        z: 2.39319
+        z: 2.3932686
       Rotation:
         value:
-          x: 0.5090897
-          y: -0.490742
-          z: 0.49074233
-          w: -0.5090894
+          x: 0.5037228
+          y: -0.49624935
+          z: 0.49624965
+          w: -0.5037225
     - Position:
         x: 2.62
-        y: 6.08
+        y: 3.9900002
         z: 0
       TangentIn:
         x: 0
@@ -152,7 +152,7 @@ MonoBehaviour:
           w: -0.49947998
     - Position:
         x: 2.62
-        y: 6.08
+        y: 3.9900002
         z: 0
       TangentIn:
         x: 0
@@ -225,7 +225,7 @@ Transform:
   m_GameObject: {fileID: 3609337099809190105}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.309999, y: -4.67, z: 0}
+  m_LocalPosition: {x: 8.309999, y: -3.86, z: 0}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -279,7 +279,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 4
+  m_SortingOrder: 34
   m_MaskInteraction: 0
   m_Sprite: {fileID: 8959366166802588098, guid: 1fe6c582ceff3d64ab711a8c59e94b1f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -308,7 +308,7 @@ MonoBehaviour:
   m_LoopMode: 1
   m_Method: 0
   m_Duration: 10
-  m_MaxSpeed: 2.5498044
+  m_MaxSpeed: 2.661031
   m_EasingMode: 0
   m_AlignmentMode: 2
   m_ObjectForwardAxis: 2
@@ -416,6 +416,7 @@ MonoBehaviour:
   pointValue: 100
   sfxPrefab: {fileID: 7412490270320244660, guid: 8714632733dc6644da1f40dea99ebf4f, type: 3}
   facingLeft: 1
+  timesScored: 0
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0

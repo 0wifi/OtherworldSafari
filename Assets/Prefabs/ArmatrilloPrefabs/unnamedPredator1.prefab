@@ -67,71 +67,71 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
-        z: -1.0609454
+        z: -1.0598152
       TangentOut:
         x: 0
         y: 0
-        z: 1.0609454
+        z: 1.0598152
       Rotation:
         value:
-          x: -0.5182812
-          y: 0.4810245
-          z: -0.48102435
-          w: 0.51828134
+          x: -0.51441723
+          y: 0.4851545
+          z: -0.4851543
+          w: 0.51441747
     - Position:
         x: 7.580001
-        y: 0.05000007
+        y: -0.120000005
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -3.1862602
+        z: -3.1824968
       TangentOut:
         x: 0
         y: 0
-        z: 2.6129057
+        z: 2.6103446
       Rotation:
         value:
-          x: 0.5136784
-          y: -0.4859368
-          z: 0.48593685
-          w: -0.5136783
+          x: 0.50743574
+          y: -0.492452
+          z: 0.4924521
+          w: -0.5074356
     - Position:
         x: 14.710001
-        y: 0.31000006
+        y: -0.109999895
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -2.5497642
+        z: -2.5481324
       TangentOut:
         x: 0
         y: 0
-        z: 2.9461305
+        z: 2.9443915
       Rotation:
         value:
-          x: 0.50867933
-          y: -0.49116722
-          z: 0.4911677
-          w: -0.5086789
+          x: 0.50004405
+          y: -0.49995595
+          z: 0.499956
+          w: -0.500044
     - Position:
         x: 24.23
-        y: 0.63000005
+        y: -0.120000005
         z: 0
       TangentIn:
         x: -0
         y: -0
-        z: -0.95253754
+        z: -0.9520004
       TangentOut:
         x: 0
         y: 0
-        z: 0.95253754
+        z: 0.9520004
       Rotation:
         value:
-          x: 0.5083294
-          y: -0.49152946
-          z: 0.49152982
-          w: -0.5083291
+          x: 0.49973738
+          y: -0.5002625
+          z: 0.5002626
+          w: -0.49973726
     m_MetaData:
     - Mode: 0
       Tension: 0.5
@@ -263,7 +263,7 @@ MonoBehaviour:
   m_LoopMode: 1
   m_Method: 0
   m_Duration: 10.2
-  m_MaxSpeed: 2.6735284
+  m_MaxSpeed: 2.67148
   m_EasingMode: 0
   m_AlignmentMode: 2
   m_ObjectForwardAxis: 2
@@ -372,6 +372,7 @@ MonoBehaviour:
   pointValue: 100
   sfxPrefab: {fileID: 7412490270320244660, guid: 53693c357e128564babbcd7c6dc7078b, type: 3}
   facingLeft: 1
+  timesScored: 0
 --- !u!1 &7095773058980906286
 GameObject:
   m_ObjectHideFlags: 0
