@@ -696,7 +696,7 @@ MonoBehaviour:
     m_Start: 107.83333333333334
     m_ClipIn: 0
     m_Asset: {fileID: 3089531421180920664}
-    m_Duration: 5
+    m_Duration: 8
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7064919821649043156}
     m_EaseInDuration: 0
@@ -760,7 +760,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Bug
   m_Markers:
     m_Objects: []
 --- !u!114 &-7001884808319599899
@@ -2454,7 +2454,7 @@ MonoBehaviour:
     m_Start: 107.83333333333334
     m_ClipIn: 0
     m_Asset: {fileID: -8448369848948911565}
-    m_Duration: 5
+    m_Duration: 4
     m_TimeScale: 1
     m_ParentTrack: {fileID: 2717635652107323999}
     m_EaseInDuration: 0
@@ -2518,7 +2518,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: Queentonia3
   m_Markers:
     m_Objects: []
 --- !u!114 &2936553835185593932
@@ -2785,7 +2785,7 @@ MonoBehaviour:
     m_Start: 107.83333333333334
     m_ClipIn: 0
     m_Asset: {fileID: 6683236548971313602}
-    m_Duration: 5
+    m_Duration: 12
     m_TimeScale: 1
     m_ParentTrack: {fileID: 6786490994597240624}
     m_EaseInDuration: 0
@@ -2849,7 +2849,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Animals
+    m_DisplayName: KelzaLazy
   m_Markers:
     m_Objects: []
 --- !u!114 &6952850617124179118
