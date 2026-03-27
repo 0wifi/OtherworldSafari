@@ -25,8 +25,9 @@ public class ImageCapture : MonoBehaviour
 
         //create new image instance
         GameObject imageInstance = Instantiate(captureImagePrefab, FindFirstObjectByType<Canvas>().transform);
-        imageInstance.GetComponent<Image>().sprite = s;
+        imageInstance.transform.GetChild(0).GetComponent<Image>().sprite = s;
         imageInstance.GetComponent<RectTransform>().sizeDelta = new Vector2((s.rect.width / s.rect.height) * imageInstance.GetComponent<RectTransform>().rect.height, imageInstance.GetComponent<RectTransform>().rect.height);
+        imageInstance.GetComponent<RectTransform>().rotation = Quaternion.Euler(0, 0, UnityEngine.Random.Range(-10.0f, 10.0f));
     }
     public IEnumerator CaptureImageAndSaveSprite(Camera camera)
     {
@@ -37,7 +38,7 @@ public class ImageCapture : MonoBehaviour
 
         //create new image instance
         GameObject imageInstance = Instantiate(captureImagePrefab, FindFirstObjectByType<Canvas>().transform);
-        imageInstance.GetComponent<Image>().sprite = s;
+        imageInstance.transform.GetChild(0).GetComponent<Image>().sprite = s;
         imageInstance.GetComponent<RectTransform>().sizeDelta = new Vector2((s.rect.width / s.rect.height) * imageInstance.GetComponent<RectTransform>().rect.height, imageInstance.GetComponent<RectTransform>().rect.height);
 
         //Maintain sprite for use in end screen

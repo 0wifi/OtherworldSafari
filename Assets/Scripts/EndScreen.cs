@@ -54,7 +54,7 @@ public class EndScreen : MonoBehaviour
         foreach (var s in ImageCapture.SavedSprites)
         {
             GameObject instance = Instantiate(ImagePrefab, galleryContainer.transform);
-            instance.GetComponent<Image>().sprite = s;
+            instance.transform.GetChild(0).GetComponent<Image>().sprite = s;
             instance.GetComponent<RectTransform>().sizeDelta = new Vector2((s.rect.width / s.rect.height) * instance.GetComponent<RectTransform>().rect.height, instance.GetComponent<RectTransform>().rect.height);
         }
         StartCoroutine(UpdateHLG());
