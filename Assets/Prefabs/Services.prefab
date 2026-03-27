@@ -540,7 +540,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: spawnDelay.y
-      value: 1.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 637246034391345552, guid: 1a52296ec94029d4c888e0e716dad076, type: 3}
       propertyPath: despawnXValue

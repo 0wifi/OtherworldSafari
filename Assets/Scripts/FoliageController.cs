@@ -22,6 +22,8 @@ public class FoliageController : MonoBehaviour
     [SerializeField] private float spawnXValue;
     [SerializeField] private float despawnXValue;
 
+    private FoliagePiece lastSpawnedFoliagePiece;
+
     /// <summary>
     /// starts the foliage coroutines
     /// </summary>
@@ -45,11 +47,19 @@ public class FoliageController : MonoBehaviour
 
         //Debug.Log("Foliage spawned");
 
-        // instantiate random prefab
-        FoliagePiece selectedFoliagePiece = foliagePieces[(int)Random.Range(0,
-            foliagePieces.Count)];
+        FoliagePiece selectedFoliagePiece;
+
+        if (lastSpawnedFoliagePiece != null)
+        {
+            // get random prefab that isn't the most recently spawned one
+            do selectedFoliagePiece = foliagePieces[(int)Random.Range(0, foliagePieces.Count)];
+            while (selectedFoliagePiece == lastSpawnedFoliagePiece); //(try again until != lastspawned)
+        }
+        else selectedFoliagePiece = foliagePieces[(int)Random.Range(0, foliagePieces.Count)];
+        
 
         GameObject currentFoliage = Instantiate(selectedFoliagePiece.prefab);
+        lastSpawnedFoliagePiece = selectedFoliagePiece;
 
 
         // set foliage spawn position
