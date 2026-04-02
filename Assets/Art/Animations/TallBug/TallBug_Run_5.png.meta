@@ -1,0 +1,7514 @@
+fileFormatVersion: 2
+guid: 87363cb3ecc1da942b049654464f97f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4506460793951601689
+    second: TallBug_Run_5_0
+  - first:
+      213: 1769639554440215563
+    second: TallBug_Run_5_1
+  - first:
+      213: 3271640352100762872
+    second: TallBug_Run_5_2
+  - first:
+      213: -2343644179490985318
+    second: TallBug_Run_5_3
+  - first:
+      213: -6173281464501165933
+    second: TallBug_Run_5_4
+  - first:
+      213: 3089013898259577878
+    second: TallBug_Run_5_5
+  - first:
+      213: 7415167117139904743
+    second: TallBug_Run_5_6
+  - first:
+      213: 7996496019903370124
+    second: TallBug_Run_5_7
+  - first:
+      213: 3450913967728401293
+    second: TallBug_Run_5_8
+  - first:
+      213: 5950138660265432576
+    second: TallBug_Run_5_9
+  - first:
+      213: -5328515884903542614
+    second: TallBug_Run_5_10
+  - first:
+      213: -6132861622682283261
+    second: TallBug_Run_5_11
+  - first:
+      213: 63609314838621545
+    second: TallBug_Run_5_12
+  - first:
+      213: -4711460264502058470
+    second: TallBug_Run_5_13
+  - first:
+      213: 614698903102050738
+    second: TallBug_Run_5_14
+  - first:
+      213: 6684570448287122338
+    second: TallBug_Run_5_15
+  - first:
+      213: 639950098511679350
+    second: TallBug_Run_5_16
+  - first:
+      213: 2909863642993981290
+    second: TallBug_Run_5_17
+  - first:
+      213: -3553729057119272428
+    second: TallBug_Run_5_18
+  - first:
+      213: 5162854940436132140
+    second: TallBug_Run_5_19
+  - first:
+      213: 5501446394461968379
+    second: TallBug_Run_5_20
+  - first:
+      213: 520248185254343054
+    second: TallBug_Run_5_21
+  - first:
+      213: 5279562586910233298
+    second: TallBug_Run_5_22
+  - first:
+      213: 4688608226789042087
+    second: TallBug_Run_5_23
+  - first:
+      213: -2301997425379390882
+    second: TallBug_Run_5_24
+  - first:
+      213: -7244428894884396174
+    second: TallBug_Run_5_25
+  - first:
+      213: -8360505343371849839
+    second: TallBug_Run_5_26
+  - first:
+      213: 8019499555587633422
+    second: TallBug_Run_5_27
+  - first:
+      213: -3618731629858828332
+    second: TallBug_Run_5_28
+  - first:
+      213: 5402629422985350967
+    second: TallBug_Run_5_29
+  - first:
+      213: 3508851118494574686
+    second: TallBug_Run_5_30
+  - first:
+      213: -4928807848875000029
+    second: TallBug_Run_5_31
+  - first:
+      213: -3613775550312149317
+    second: TallBug_Run_5_32
+  - first:
+      213: 515536320385556307
+    second: TallBug_Run_5_33
+  - first:
+      213: -1266941237031967964
+    second: TallBug_Run_5_34
+  - first:
+      213: 3816818269601736749
+    second: TallBug_Run_5_35
+  - first:
+      213: 8698302292873287733
+    second: TallBug_Run_5_36
+  - first:
+      213: -1528029848644982235
+    second: TallBug_Run_5_37
+  - first:
+      213: -8581574101939120681
+    second: TallBug_Run_5_38
+  - first:
+      213: -4661776920553658132
+    second: TallBug_Run_5_39
+  - first:
+      213: -6702460704906307704
+    second: TallBug_Run_5_40
+  - first:
+      213: 8953679262854723055
+    second: TallBug_Run_5_41
+  - first:
+      213: 4329205446005526438
+    second: TallBug_Run_5_42
+  - first:
+      213: -5594086976632518213
+    second: TallBug_Run_5_43
+  - first:
+      213: 1561698571056921958
+    second: TallBug_Run_5_44
+  - first:
+      213: -9157334573716351060
+    second: TallBug_Run_5_45
+  - first:
+      213: -3871030691926339396
+    second: TallBug_Run_5_46
+  - first:
+      213: 831990217182801421
+    second: TallBug_Run_5_47
+  - first:
+      213: -131462190332182835
+    second: TallBug_Run_5_48
+  - first:
+      213: -680436368003388037
+    second: TallBug_Run_5_49
+  - first:
+      213: -2072470210796761448
+    second: TallBug_Run_5_50
+  - first:
+      213: -5042958105811676929
+    second: TallBug_Run_5_51
+  - first:
+      213: -7825872185776694775
+    second: TallBug_Run_5_52
+  - first:
+      213: 6689231941142192478
+    second: TallBug_Run_5_53
+  - first:
+      213: -1478970442402995856
+    second: TallBug_Run_5_54
+  - first:
+      213: 6896654691258994088
+    second: TallBug_Run_5_55
+  - first:
+      213: 3415923737699541287
+    second: TallBug_Run_5_56
+  - first:
+      213: 3052013566602726409
+    second: TallBug_Run_5_57
+  - first:
+      213: -6824921668822884448
+    second: TallBug_Run_5_58
+  - first:
+      213: 8700717023771153214
+    second: TallBug_Run_5_59
+  - first:
+      213: 444969123546947646
+    second: TallBug_Run_5_60
+  - first:
+      213: 1327661158120762486
+    second: TallBug_Run_5_61
+  - first:
+      213: 2944508033039647988
+    second: TallBug_Run_5_62
+  - first:
+      213: -518126638544734284
+    second: TallBug_Run_5_63
+  - first:
+      213: 4277219113003795679
+    second: TallBug_Run_5_64
+  - first:
+      213: -3458351957580556780
+    second: TallBug_Run_5_65
+  - first:
+      213: 3779370831700697776
+    second: TallBug_Run_5_66
+  - first:
+      213: -1597529054589322429
+    second: TallBug_Run_5_67
+  - first:
+      213: 7755219728098479893
+    second: TallBug_Run_5_68
+  - first:
+      213: 1277781762650585609
+    second: TallBug_Run_5_69
+  - first:
+      213: 7329163523544338470
+    second: TallBug_Run_5_70
+  - first:
+      213: 7162885996568113736
+    second: TallBug_Run_5_71
+  - first:
+      213: -13636408531040066
+    second: TallBug_Run_5_72
+  - first:
+      213: -4739963499547042714
+    second: TallBug_Run_5_73
+  - first:
+      213: 6349162315032569073
+    second: TallBug_Run_5_74
+  - first:
+      213: 7244454661010579223
+    second: TallBug_Run_5_75
+  - first:
+      213: -4721957105407226983
+    second: TallBug_Run_5_76
+  - first:
+      213: 3770070694068283700
+    second: TallBug_Run_5_77
+  - first:
+      213: 2277202449283550762
+    second: TallBug_Run_5_78
+  - first:
+      213: -1583969543693211348
+    second: TallBug_Run_5_79
+  - first:
+      213: 2550699575919345803
+    second: TallBug_Run_5_80
+  - first:
+      213: 7617464933977563875
+    second: TallBug_Run_5_81
+  - first:
+      213: -6244453646512259070
+    second: TallBug_Run_5_82
+  - first:
+      213: -7818609533824115641
+    second: TallBug_Run_5_83
+  - first:
+      213: -566485638276296355
+    second: TallBug_Run_5_84
+  - first:
+      213: -6679690465348456940
+    second: TallBug_Run_5_85
+  - first:
+      213: -4913864751255999510
+    second: TallBug_Run_5_86
+  - first:
+      213: 8493963371957414192
+    second: TallBug_Run_5_87
+  - first:
+      213: 2393510291267201290
+    second: TallBug_Run_5_88
+  - first:
+      213: 4890222167161308200
+    second: TallBug_Run_5_89
+  - first:
+      213: 3219309566238815078
+    second: TallBug_Run_5_90
+  - first:
+      213: -4421438057350793495
+    second: TallBug_Run_5_91
+  - first:
+      213: -4030297314707151121
+    second: TallBug_Run_5_92
+  - first:
+      213: -4964152346395373309
+    second: TallBug_Run_5_93
+  - first:
+      213: 5777781337532604319
+    second: TallBug_Run_5_94
+  - first:
+      213: -5142257765879282751
+    second: TallBug_Run_5_95
+  - first:
+      213: 4290394812492881727
+    second: TallBug_Run_5_96
+  - first:
+      213: 174333856641314043
+    second: TallBug_Run_5_97
+  - first:
+      213: -3605091070441443057
+    second: TallBug_Run_5_98
+  - first:
+      213: -8259547526735074353
+    second: TallBug_Run_5_99
+  - first:
+      213: 1511666533439543556
+    second: TallBug_Run_5_100
+  - first:
+      213: 2417048546293041243
+    second: TallBug_Run_5_101
+  - first:
+      213: 8505023942491955497
+    second: TallBug_Run_5_102
+  - first:
+      213: 7680830026601370788
+    second: TallBug_Run_5_103
+  - first:
+      213: 1096631494591097655
+    second: TallBug_Run_5_104
+  - first:
+      213: 4550741155300749120
+    second: TallBug_Run_5_105
+  - first:
+      213: -8009110772290985477
+    second: TallBug_Run_5_106
+  - first:
+      213: 5672502863962276546
+    second: TallBug_Run_5_107
+  - first:
+      213: -3198973431821875707
+    second: TallBug_Run_5_108
+  - first:
+      213: -931001217747054528
+    second: TallBug_Run_5_109
+  - first:
+      213: 7850438516173560591
+    second: TallBug_Run_5_110
+  - first:
+      213: -202913561113876028
+    second: TallBug_Run_5_111
+  - first:
+      213: 3723738164359626284
+    second: TallBug_Run_5_112
+  - first:
+      213: 407043978846042400
+    second: TallBug_Run_5_113
+  - first:
+      213: 6414524574564361467
+    second: TallBug_Run_5_114
+  - first:
+      213: -7874532274889107830
+    second: TallBug_Run_5_115
+  - first:
+      213: 2170853602715600173
+    second: TallBug_Run_5_116
+  - first:
+      213: -4484265604619428142
+    second: TallBug_Run_5_117
+  - first:
+      213: -5822947738937478054
+    second: TallBug_Run_5_118
+  - first:
+      213: 6105842452618015707
+    second: TallBug_Run_5_119
+  - first:
+      213: -3275863474447210213
+    second: TallBug_Run_5_120
+  - first:
+      213: -623495753375199972
+    second: TallBug_Run_5_121
+  - first:
+      213: 3488438060222422677
+    second: TallBug_Run_5_122
+  - first:
+      213: 7599011677055294526
+    second: TallBug_Run_5_123
+  - first:
+      213: -3096160367618069154
+    second: TallBug_Run_5_124
+  - first:
+      213: 980294083668749842
+    second: TallBug_Run_5_125
+  - first:
+      213: -6477893343363924373
+    second: TallBug_Run_5_126
+  - first:
+      213: -6759078351836283569
+    second: TallBug_Run_5_127
+  - first:
+      213: -8540497120896684474
+    second: TallBug_Run_5_128
+  - first:
+      213: 6670549353066612052
+    second: TallBug_Run_5_129
+  - first:
+      213: -7051749415980148396
+    second: TallBug_Run_5_130
+  - first:
+      213: -7744930281391895717
+    second: TallBug_Run_5_131
+  - first:
+      213: -686366069257438919
+    second: TallBug_Run_5_132
+  - first:
+      213: 1349317505167803667
+    second: TallBug_Run_5_133
+  - first:
+      213: 6878215573655977475
+    second: TallBug_Run_5_134
+  - first:
+      213: -3499695023112372350
+    second: TallBug_Run_5_135
+  - first:
+      213: -5711442244840796281
+    second: TallBug_Run_5_136
+  - first:
+      213: 40450873103294022
+    second: TallBug_Run_5_137
+  - first:
+      213: 3947523224433928145
+    second: TallBug_Run_5_138
+  - first:
+      213: -2107159000628638568
+    second: TallBug_Run_5_139
+  - first:
+      213: 4914569022611571905
+    second: TallBug_Run_5_140
+  - first:
+      213: -7585794945935461328
+    second: TallBug_Run_5_141
+  - first:
+      213: 3491663987120640869
+    second: TallBug_Run_5_142
+  - first:
+      213: 2195348445064560134
+    second: TallBug_Run_5_143
+  - first:
+      213: 7083688586797553159
+    second: TallBug_Run_5_144
+  - first:
+      213: -8302942752412042593
+    second: TallBug_Run_5_145
+  - first:
+      213: -9081396610883125893
+    second: TallBug_Run_5_146
+  - first:
+      213: 2563601149956647167
+    second: TallBug_Run_5_147
+  - first:
+      213: -8844136704807990111
+    second: TallBug_Run_5_148
+  - first:
+      213: -5635009630446894664
+    second: TallBug_Run_5_149
+  - first:
+      213: -6501988118690175823
+    second: TallBug_Run_5_150
+  - first:
+      213: -34306169531280065
+    second: TallBug_Run_5_151
+  - first:
+      213: -578022108787607550
+    second: TallBug_Run_5_152
+  - first:
+      213: -9050237763217607951
+    second: TallBug_Run_5_153
+  - first:
+      213: -8729367790418353010
+    second: TallBug_Run_5_154
+  - first:
+      213: -7111118279958648645
+    second: TallBug_Run_5_155
+  - first:
+      213: -5241681350457718583
+    second: TallBug_Run_5_156
+  - first:
+      213: -7460931291911378447
+    second: TallBug_Run_5_157
+  - first:
+      213: 1111909665810717318
+    second: TallBug_Run_5_158
+  - first:
+      213: 5861979037782465077
+    second: TallBug_Run_5_159
+  - first:
+      213: -7010047559826512945
+    second: TallBug_Run_5_160
+  - first:
+      213: -3862802994672800348
+    second: TallBug_Run_5_161
+  - first:
+      213: -6732977503069279374
+    second: TallBug_Run_5_162
+  - first:
+      213: -5015044983519780428
+    second: TallBug_Run_5_163
+  - first:
+      213: -1941444885379306940
+    second: TallBug_Run_5_164
+  - first:
+      213: -7721195490899031773
+    second: TallBug_Run_5_165
+  - first:
+      213: -7057833988325630407
+    second: TallBug_Run_5_166
+  - first:
+      213: -8813535514400244044
+    second: TallBug_Run_5_167
+  - first:
+      213: -5329510183834383422
+    second: TallBug_Run_5_168
+  - first:
+      213: 1380195723399963775
+    second: TallBug_Run_5_169
+  - first:
+      213: -7721126323520716210
+    second: TallBug_Run_5_170
+  - first:
+      213: -8256185357709391816
+    second: TallBug_Run_5_171
+  - first:
+      213: -2647801525810101522
+    second: TallBug_Run_5_172
+  - first:
+      213: 9196650825018323011
+    second: TallBug_Run_5_173
+  - first:
+      213: -4861865651227186578
+    second: TallBug_Run_5_174
+  - first:
+      213: -6359755551222515095
+    second: TallBug_Run_5_175
+  - first:
+      213: 2870175024067293255
+    second: TallBug_Run_5_176
+  - first:
+      213: -2819778974799725915
+    second: TallBug_Run_5_177
+  - first:
+      213: -4444165440581516197
+    second: TallBug_Run_5_178
+  - first:
+      213: 4453978883664705005
+    second: TallBug_Run_5_179
+  - first:
+      213: 5152892621325101957
+    second: TallBug_Run_5_180
+  - first:
+      213: 1267332846163550773
+    second: TallBug_Run_5_181
+  - first:
+      213: 7320556027738785567
+    second: TallBug_Run_5_182
+  - first:
+      213: 1064512445546616650
+    second: TallBug_Run_5_183
+  - first:
+      213: 1912866020515860174
+    second: TallBug_Run_5_184
+  - first:
+      213: -1964790317100013472
+    second: TallBug_Run_5_185
+  - first:
+      213: 3722435160803604077
+    second: TallBug_Run_5_186
+  - first:
+      213: -1225873836046575634
+    second: TallBug_Run_5_187
+  - first:
+      213: -974840157658064461
+    second: TallBug_Run_5_188
+  - first:
+      213: -8654950554953108404
+    second: TallBug_Run_5_189
+  - first:
+      213: 2208650441299840594
+    second: TallBug_Run_5_190
+  - first:
+      213: -7483792096444331918
+    second: TallBug_Run_5_191
+  - first:
+      213: 8925573861382263132
+    second: TallBug_Run_5_192
+  - first:
+      213: -8906124134674602226
+    second: TallBug_Run_5_193
+  - first:
+      213: 861869039882060920
+    second: TallBug_Run_5_194
+  - first:
+      213: -2099158872135892229
+    second: TallBug_Run_5_195
+  - first:
+      213: -6980919541498130187
+    second: TallBug_Run_5_196
+  - first:
+      213: 3678271133941112991
+    second: TallBug_Run_5_197
+  - first:
+      213: -9069991332350162045
+    second: TallBug_Run_5_198
+  - first:
+      213: 7262310777585505227
+    second: TallBug_Run_5_199
+  - first:
+      213: -7355646169576623870
+    second: TallBug_Run_5_200
+  - first:
+      213: -549910544391869409
+    second: TallBug_Run_5_201
+  - first:
+      213: 987089491635490486
+    second: TallBug_Run_5_202
+  - first:
+      213: 1313230265450627486
+    second: TallBug_Run_5_203
+  - first:
+      213: -7782838949722620610
+    second: TallBug_Run_5_204
+  - first:
+      213: -8085375795142233159
+    second: TallBug_Run_5_205
+  - first:
+      213: 2477411452434617211
+    second: TallBug_Run_5_206
+  - first:
+      213: 4675221134200117582
+    second: TallBug_Run_5_207
+  - first:
+      213: 185406363793629238
+    second: TallBug_Run_5_208
+  - first:
+      213: 110491708101787530
+    second: TallBug_Run_5_209
+  - first:
+      213: 6571584383711813123
+    second: TallBug_Run_5_210
+  - first:
+      213: -7208651010694592072
+    second: TallBug_Run_5_211
+  - first:
+      213: -200011343248378125
+    second: TallBug_Run_5_212
+  - first:
+      213: -2161051940718140744
+    second: TallBug_Run_5_213
+  - first:
+      213: -1472725653670085496
+    second: TallBug_Run_5_214
+  - first:
+      213: -3222496583189848570
+    second: TallBug_Run_5_215
+  - first:
+      213: -68787345472132681
+    second: TallBug_Run_5_216
+  - first:
+      213: -3904332974810948684
+    second: TallBug_Run_5_217
+  - first:
+      213: 1106361658185860319
+    second: TallBug_Run_5_218
+  - first:
+      213: 5272184437246682502
+    second: TallBug_Run_5_219
+  - first:
+      213: -4245922061127145725
+    second: TallBug_Run_5_220
+  - first:
+      213: 1054931867405672246
+    second: TallBug_Run_5_221
+  - first:
+      213: 3926336931193734521
+    second: TallBug_Run_5_222
+  - first:
+      213: -4296187107440280926
+    second: TallBug_Run_5_223
+  - first:
+      213: 4465971993390851268
+    second: TallBug_Run_5_224
+  - first:
+      213: 903579176093247985
+    second: TallBug_Run_5_225
+  - first:
+      213: -222025669875949843
+    second: TallBug_Run_5_226
+  - first:
+      213: 9210662581781468037
+    second: TallBug_Run_5_227
+  - first:
+      213: -4280321400967375321
+    second: TallBug_Run_5_228
+  - first:
+      213: 2316518501839859071
+    second: TallBug_Run_5_229
+  - first:
+      213: 1487962037659204399
+    second: TallBug_Run_5_230
+  - first:
+      213: -6360706146411530627
+    second: TallBug_Run_5_231
+  - first:
+      213: -7264666033031567802
+    second: TallBug_Run_5_232
+  - first:
+      213: 385855479282804805
+    second: TallBug_Run_5_233
+  - first:
+      213: 5618760442049943588
+    second: TallBug_Run_5_234
+  - first:
+      213: 6298016489874167543
+    second: TallBug_Run_5_235
+  - first:
+      213: -555545833335661169
+    second: TallBug_Run_5_236
+  - first:
+      213: 2277005994080883205
+    second: TallBug_Run_5_237
+  - first:
+      213: -6167779786333076770
+    second: TallBug_Run_5_238
+  - first:
+      213: 8388199712343873173
+    second: TallBug_Run_5_239
+  - first:
+      213: 5904215232625566476
+    second: TallBug_Run_5_240
+  - first:
+      213: -2668141144077321178
+    second: TallBug_Run_5_241
+  - first:
+      213: 6241529211669341488
+    second: TallBug_Run_5_242
+  - first:
+      213: -746087081067905950
+    second: TallBug_Run_5_243
+  - first:
+      213: 9142603401461138468
+    second: TallBug_Run_5_244
+  - first:
+      213: 3093409488667257782
+    second: TallBug_Run_5_245
+  - first:
+      213: 965063271798381698
+    second: TallBug_Run_5_246
+  - first:
+      213: 5302664796587281335
+    second: TallBug_Run_5_247
+  - first:
+      213: 1511405398366026394
+    second: TallBug_Run_5_248
+  - first:
+      213: 2374631171108729085
+    second: TallBug_Run_5_249
+  - first:
+      213: 8094022316982872680
+    second: TallBug_Run_5_250
+  - first:
+      213: -7030710883001950661
+    second: TallBug_Run_5_251
+  - first:
+      213: 8119614529784489817
+    second: TallBug_Run_5_252
+  - first:
+      213: -1540070355536812098
+    second: TallBug_Run_5_253
+  - first:
+      213: -434481990326264120
+    second: TallBug_Run_5_254
+  - first:
+      213: 4949717453557276693
+    second: TallBug_Run_5_255
+  - first:
+      213: -5837850139701823397
+    second: TallBug_Run_5_256
+  - first:
+      213: 824138198475478972
+    second: TallBug_Run_5_257
+  - first:
+      213: -5805659541068681059
+    second: TallBug_Run_5_258
+  - first:
+      213: 6500507882049052886
+    second: TallBug_Run_5_259
+  - first:
+      213: -4119229473034351908
+    second: TallBug_Run_5_260
+  - first:
+      213: -4738910984630152707
+    second: TallBug_Run_5_261
+  - first:
+      213: -6255878008978438232
+    second: TallBug_Run_5_262
+  - first:
+      213: -2327942140845285022
+    second: TallBug_Run_5_263
+  - first:
+      213: 8499628721181423958
+    second: TallBug_Run_5_264
+  - first:
+      213: -7675461368371977776
+    second: TallBug_Run_5_265
+  - first:
+      213: -5415206582294550459
+    second: TallBug_Run_5_266
+  - first:
+      213: 7549511018242018891
+    second: TallBug_Run_5_267
+  - first:
+      213: -2878947030922004592
+    second: TallBug_Run_5_268
+  - first:
+      213: 4976405484627764674
+    second: TallBug_Run_5_269
+  - first:
+      213: 2167858170624095285
+    second: TallBug_Run_5_270
+  - first:
+      213: 3546401577775579395
+    second: TallBug_Run_5_271
+  - first:
+      213: 737448590578272866
+    second: TallBug_Run_5_272
+  - first:
+      213: -4603585102074254820
+    second: TallBug_Run_5_273
+  - first:
+      213: -8642304183817307384
+    second: TallBug_Run_5_274
+  - first:
+      213: -4999774513138495830
+    second: TallBug_Run_5_275
+  - first:
+      213: 7153914054211033758
+    second: TallBug_Run_5_276
+  - first:
+      213: -8635150939045806438
+    second: TallBug_Run_5_277
+  - first:
+      213: -8897110074876848135
+    second: TallBug_Run_5_278
+  - first:
+      213: 7603569993821055151
+    second: TallBug_Run_5_279
+  - first:
+      213: -5551203930257960515
+    second: TallBug_Run_5_280
+  - first:
+      213: -3884383930485685011
+    second: TallBug_Run_5_281
+  - first:
+      213: -289959234843218402
+    second: TallBug_Run_5_282
+  - first:
+      213: 1952253003066270822
+    second: TallBug_Run_5_283
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TallBug_Run_5_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2981
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb3a4eb8c5d571c0800000000000000
+      internalID: -4506460793951601689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 112
+        width: 3839
+        height: 4356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cb3ee7cc50f8810800000000000000
+      internalID: 1769639554440215563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4cccbf093376d20800000000000000
+      internalID: 3271640352100762872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1537
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a27813904b97fd0800000000000000
+      internalID: -2343644179490985318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1529
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a7e92739145aa0800000000000000
+      internalID: -6173281464501165933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1518
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb10036c16eda20800000000000000
+      internalID: 3089013898259577878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1517
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8084fa437f7e660800000000000000
+      internalID: 7415167117139904743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1526
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c835a2a43c249fe60800000000000000
+      internalID: 7996496019903370124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1519
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b92ec48fb14ef20800000000000000
+      internalID: 3450913967728401293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1517
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00690791693239250800000000000000
+      internalID: 5950138660265432576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1508
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa05c4cc80f4d06b0800000000000000
+      internalID: -5328515884903542614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1512
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3039563f8d2b3eaa0800000000000000
+      internalID: -6132861622682283261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1504
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dac57b55cf1e000800000000000000
+      internalID: 63609314838621545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1512
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12acf01ad78d9eb0800000000000000
+      internalID: -4711460264502058470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1505
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b158334569d78800800000000000000
+      internalID: 614698903102050738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a34a36086d54cc50800000000000000
+      internalID: 6684570448287122338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1508
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fc3c7593f81e800800000000000000
+      internalID: 639950098511679350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1489
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67fa71f099e16820800000000000000
+      internalID: 2909863642993981290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1468
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4120c62404e9eaec0800000000000000
+      internalID: -3553729057119272428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1498
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21f09fd63526a740800000000000000
+      internalID: 5162854940436132140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1494
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf752cc0950195c40800000000000000
+      internalID: 5501446394461968379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1500
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e817025d7fa483700800000000000000
+      internalID: 520248185254343054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1494
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d21a325336c44940800000000000000
+      internalID: 5279562586910233298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1499
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a72cb84758411140800000000000000
+      internalID: 4688608226789042087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ac562c989ad00e0800000000000000
+      internalID: -2301997425379390882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1485
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27307df7d4e967b90800000000000000
+      internalID: -7244428894884396174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1502
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc091afa489fb80800000000000000
+      internalID: -8360505343371849839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1482
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01343f4b5cfa4f60800000000000000
+      internalID: 8019499555587633422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1494
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df4bc861cea7cdc0800000000000000
+      internalID: -3618731629858828332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1482
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f8d1af5def9fa40800000000000000
+      internalID: 5402629422985350967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1481
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e9976081f1b030800000000000000
+      internalID: 3508851118494574686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1485
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ff5a9106b599bb0800000000000000
+      internalID: -4928807848875000029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1494
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe07a9984a49ddc0800000000000000
+      internalID: -3613775550312149317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1472
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f946d4d8d872700800000000000000
+      internalID: 515536320385556307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1463
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4236a6f48abea6ee0800000000000000
+      internalID: -1266941237031967964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2825db6eff08f430800000000000000
+      internalID: 3816818269601736749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1461
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5389dab89d396b870800000000000000
+      internalID: 8698302292873287733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1479
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a6251d2f85bcae0800000000000000
+      internalID: -1528029848644982235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1476
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d51a3842df18e880800000000000000
+      internalID: -8581574101939120681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1483
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8e844079a0e4fb0800000000000000
+      internalID: -4661776920553658132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1468
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8879b0300831cf2a0800000000000000
+      internalID: -6702460704906307704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1475
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5bc37d9dbd14c70800000000000000
+      internalID: 8953679262854723055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1479
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af88d08a6d641c30800000000000000
+      internalID: 4329205446005526438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1480
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb90e23988fcd52b0800000000000000
+      internalID: -5594086976632518213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1471
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d351e73944ca510800000000000000
+      internalID: 1561698571056921958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1473
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7db3c09bc9ae080800000000000000
+      internalID: -9157334573716351060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1459
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb098156816574ac0800000000000000
+      internalID: -3871030691926339396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_47
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1481
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ee7c7c1b2db8b00800000000000000
+      internalID: 831990217182801421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_48
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1474
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcefadb95d3fc2ef0800000000000000
+      internalID: -131462190332182835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_49
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1466
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7da6e87aba9e86f0800000000000000
+      internalID: -680436368003388037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1460
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e41edd25b1d33e0800000000000000
+      internalID: -2072470210796761448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1467
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff01bed4250d30ab0800000000000000
+      internalID: -5042958105811676929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1458
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a9b25d5bae46390800000000000000
+      internalID: -7825872185776694775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1465
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e512af7620de4dc50800000000000000
+      internalID: 6689231941142192478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1471
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0716443f734a97be0800000000000000
+      internalID: -1478970442402995856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1457
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad0603d6e6d5bf50800000000000000
+      internalID: 6896654691258994088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1452
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721e7658a8cc76f20800000000000000
+      internalID: 3415923737699541287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1460
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c47072b2eea5a20800000000000000
+      internalID: 3052013566602726409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1450
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af12f5f6e10941a0800000000000000
+      internalID: -6824921668822884448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_59
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1462
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33d215e8082fb870800000000000000
+      internalID: 8700717023771153214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1455
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3068017f09dc2600800000000000000
+      internalID: 444969123546947646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1446
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c2fdff9cccc6210800000000000000
+      internalID: 1327661158120762486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1460
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4cc93947efcd820800000000000000
+      internalID: 2944508033039647988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1453
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7bfd0419e3fc8f0800000000000000
+      internalID: -518126638544734284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1445
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd44a112f1cbb5b30800000000000000
+      internalID: 4277219113003795679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416522cb7377100d0800000000000000
+      internalID: -3458351957580556780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1441
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b22ef95fb5037430800000000000000
+      internalID: 3779370831700697776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1447
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b76d6f9cf64d9e0800000000000000
+      internalID: -1597529054589322429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_68
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1452
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4968f04310ab60800000000000000
+      internalID: 7755219728098479893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_69
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1452
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ab24f3eb79bb110800000000000000
+      internalID: 1277781762650585609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_70
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1440
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6205c91a46b66b560800000000000000
+      internalID: 7329163523544338470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_71
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1204
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842ff000ddea76360800000000000000
+      internalID: 7162885996568113736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_72
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1208
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ce7932cd8fcff0800000000000000
+      internalID: -13636408531040066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1203
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c5e218f44483eb0800000000000000
+      internalID: -4739963499547042714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1183
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f420d87c71cc1850800000000000000
+      internalID: 6349162315032569073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_75
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1189
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f55f4a129798460800000000000000
+      internalID: 7244454661010579223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_76
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b0297d70d387eb0800000000000000
+      internalID: -4721957105407226983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1190
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439ec02525bf15430800000000000000
+      internalID: 3770070694068283700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_78
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1188
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e023fff8f3a9f10800000000000000
+      internalID: 2277202449283550762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1179
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e02d971c940ae0800000000000000
+      internalID: -1583969543693211348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_80
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1193
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80896700c7e56320800000000000000
+      internalID: 2550699575919345803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_81
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1193
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e22ab69ffba6b960800000000000000
+      internalID: 7617464933977563875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_82
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1166
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2008e373e7e3759a0800000000000000
+      internalID: -6244453646512259070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_83
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1167
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c5ee2cd08be7390800000000000000
+      internalID: -7818609533824115641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_84
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1187
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d515e2830507328f0800000000000000
+      internalID: -566485638276296355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_85
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1176
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e675b89e8fc43a0800000000000000
+      internalID: -6679690465348456940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1173
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeba2132b027ecbb0800000000000000
+      internalID: -4913864751255999510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1176
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03963b01fae90e570800000000000000
+      internalID: 8493963371957414192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1180
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a092935bde4773120800000000000000
+      internalID: 2393510291267201290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1178
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824046ac62f8dd340800000000000000
+      internalID: 4890222167161308200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_90
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1183
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6637ead6ef84dac20800000000000000
+      internalID: 3219309566238815078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_91
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1177
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6763b3385e3a2c0800000000000000
+      internalID: -4421438057350793495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_92
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe66ba912f18118c0800000000000000
+      internalID: -4030297314707151121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_93
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1162
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3019e2efdb9cb1bb0800000000000000
+      internalID: -4964152346395373309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_94
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1157
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f1385b38dce2050800000000000000
+      internalID: 5777781337532604319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1162
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c385498ec703a8b0800000000000000
+      internalID: -5142257765879282751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_96
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1149
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f11d8b95b8a8b30800000000000000
+      internalID: 4290394812492881727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_97
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1168
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfced6d08bb5b6200800000000000000
+      internalID: 174333856641314043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1154
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01b763a5c428fdc0800000000000000
+      internalID: -3605091070441443057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_99
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1149
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbef7f0941306d80800000000000000
+      internalID: -8259547526735074353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_100
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1162
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099288f3b48af410800000000000000
+      internalID: 1511666533439543556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_101
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58cba6c8d41b8120800000000000000
+      internalID: 2417048546293041243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_102
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1142
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ec62d63ae70670800000000000000
+      internalID: 8505023942491955497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_103
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1141
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a49ab3e63ac79a60800000000000000
+      internalID: 7680830026601370788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_104
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bab9cb884083f00800000000000000
+      internalID: 1096631494591097655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_105
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 976
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fa37a48fa772f30800000000000000
+      internalID: 4550741155300749120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_106
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 991
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf167dacf2ce9d090800000000000000
+      internalID: -8009110772290985477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_107
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 975
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c28bd1fc47c8be40800000000000000
+      internalID: 5672502863962276546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_108
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 991
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5064856dc96fa93d0800000000000000
+      internalID: -3198973431821875707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_109
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 978
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0401bba335b6413f0800000000000000
+      internalID: -931001217747054528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 969
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd19fac3c52fc60800000000000000
+      internalID: 7850438516173560591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_111
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 962
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9a2b5f03b1f2df0800000000000000
+      internalID: -202913561113876028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_112
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 961
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e783b91206da330800000000000000
+      internalID: 3723738164359626284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_113
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 973
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0297417975c16a500800000000000000
+      internalID: 407043978846042400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_114
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 964
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf42ced6d18f40950800000000000000
+      internalID: 6414524574564361467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_115
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 973
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86d2e6fd9a08b290800000000000000
+      internalID: -7874532274889107830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_116
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 960
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d258d3999db602e10800000000000000
+      internalID: 2170853602715600173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_117
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 963
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de1826f030b4c1c0800000000000000
+      internalID: -4484265604619428142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_118
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 973
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54b7faf1ebb03fa0800000000000000
+      internalID: -5822947738937478054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_119
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 955
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3fbca4c5f4cb450800000000000000
+      internalID: 6105842452618015707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_120
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 948
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19a5e8b68bc982d0800000000000000
+      internalID: -3275863474447210213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_121
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 953
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d4b1d6ae5e857f0800000000000000
+      internalID: -623495753375199972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_122
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 936
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e9288eeeb696030800000000000000
+      internalID: 3488438060222422677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_123
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 958
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c1de6ebdc157960800000000000000
+      internalID: 7599011677055294526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_124
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 954
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d6b70cc8a3805d0800000000000000
+      internalID: -3096160367618069154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_125
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 940
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e2e787644ba9d00800000000000000
+      internalID: 980294083668749842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_126
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 944
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6efce75356e916a0800000000000000
+      internalID: -6477893343363924373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_127
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 949
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4df3c5dc0ee232a0800000000000000
+      internalID: -6759078351836283569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_128
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 944
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ee4b73e1f0a7980800000000000000
+      internalID: -8540497120896684474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_129
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 939
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4554f366b4d829c50800000000000000
+      internalID: 6670549353066612052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_130
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 945
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4595f679447232e90800000000000000
+      internalID: -7051749415980148396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_131
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 942
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b487781fa748490800000000000000
+      internalID: -7744930281391895717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_132
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 748
+        width: 172
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939770052b98976f0800000000000000
+      internalID: -686366069257438919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_133
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 936
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3154eb83f1db9b210800000000000000
+      internalID: 1349317505167803667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_134
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 476
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef2543f94547f50800000000000000
+      internalID: 6878215573655977475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_135
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 487
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f3f2d2be59e6fc0800000000000000
+      internalID: -3499695023112372350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_136
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 401
+        width: 204
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fca11f981ecb0b0800000000000000
+      internalID: -5711442244840796281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_137
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 467
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e1d22dad5bf8000800000000000000
+      internalID: 40450873103294022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_138
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 489
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d72dfe257b68c630800000000000000
+      internalID: 3947523224433928145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_139
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 462
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c434a9d0ed1c2e0800000000000000
+      internalID: -2107159000628638568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_140
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 475
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4c6e0dc7e043440800000000000000
+      internalID: 4914569022611571905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_141
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034309c10b7d9b690800000000000000
+      internalID: -7585794945935461328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_142
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 450
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563995b85e1e47030800000000000000
+      internalID: 3491663987120640869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_143
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 463
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e774287c1777e10800000000000000
+      internalID: 2195348445064560134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_144
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 448
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7069e8b1d315e4260800000000000000
+      internalID: 7083688586797553159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_145
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 467
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a731cbe8506cc80800000000000000
+      internalID: -8302942752412042593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_146
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 455
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dffdfc5e568f180800000000000000
+      internalID: -9081396610883125893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_147
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 465
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e2f0d9adb39320800000000000000
+      internalID: 2563601149956647167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_148
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 462
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac0de47680534580800000000000000
+      internalID: -8844136704807990111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_149
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 450
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1ce4fb89c6cc1b0800000000000000
+      internalID: -5635009630446894664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_150
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b469ab414c44c5a0800000000000000
+      internalID: -6501988118690175823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_151
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 452
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35db7778be168ff0800000000000000
+      internalID: -34306169531280065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_152
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 455
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208746d54f37af7f0800000000000000
+      internalID: -578022108787607550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_153
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 456
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2b69e54b8176280800000000000000
+      internalID: -9050237763217607951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_154
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 451
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84a06aae3e0bd680800000000000000
+      internalID: -8729367790418353010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_155
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 455
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb82747c99b305d90800000000000000
+      internalID: -7111118279958648645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_156
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 435
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88d28559ec147b0800000000000000
+      internalID: -5241681350457718583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_157
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 446
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9a60c0582757890800000000000000
+      internalID: -7460931291911378447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_158
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 418
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a98fc23fb4e6f00800000000000000
+      internalID: 1111909665810717318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_159
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 439
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a5fc370eee95150800000000000000
+      internalID: 5861979037782465077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_160
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 444
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc362f992ee47be90800000000000000
+      internalID: -7010047559826512945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_161
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 452
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad66317421946ac0800000000000000
+      internalID: -3862802994672800348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_162
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 444
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bebd042a8af82a0800000000000000
+      internalID: -6732977503069279374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_163
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 440
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1e2b8882bf66ab0800000000000000
+      internalID: -5015044983519780428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_164
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 451
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aa7f7b92a9e05e0800000000000000
+      internalID: -1941444885379306940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_165
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 447
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3298d931c9dc8d490800000000000000
+      internalID: -7721195490899031773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_166
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 439
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e1c22b1698d0e90800000000000000
+      internalID: -7057833988325630407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_167
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 441
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be32e0552800b580800000000000000
+      internalID: -8813535514400244044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_168
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 441
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb89b989b6c906b0800000000000000
+      internalID: -5329510183834383422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_169
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 444
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a4c5a2b0772310800000000000000
+      internalID: 1380195723399963775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_170
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 424
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4241ac548c09d490800000000000000
+      internalID: -7721126323520716210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_171
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 438
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83843f909232c6d80800000000000000
+      internalID: -8256185357709391816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_172
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 435
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee20a5a7a8e114bd0800000000000000
+      internalID: -2647801525810101522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_173
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 439
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340358c033111af70800000000000000
+      internalID: 9196650825018323011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_174
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 435
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a2ee013fe278cb0800000000000000
+      internalID: -4861865651227186578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_175
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 421
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a3017850c9db7a0800000000000000
+      internalID: -6359755551222515095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_176
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 437
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740bab04af8e4d720800000000000000
+      internalID: 2870175024067293255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_177
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 434
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa72f556f12ed8d0800000000000000
+      internalID: -2819778974799725915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_178
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 438
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b544217f3172352c0800000000000000
+      internalID: -4444165440581516197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_179
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 423
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5fced4236bfcd30800000000000000
+      internalID: 4453978883664705005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_180
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 419
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b60d3b980c28740800000000000000
+      internalID: 5152892621325101957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_181
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 417
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53263cb4288769110800000000000000
+      internalID: 1267332846163550773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_182
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 422
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1707b7dbe6d79560800000000000000
+      internalID: 7320556027738785567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_183
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 427
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47d9cfdd68e5ce00800000000000000
+      internalID: 1064512445546616650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_184
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 421
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece43c7c28ddb8a10800000000000000
+      internalID: 1912866020515860174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_185
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 419
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0686023dd99abb4e0800000000000000
+      internalID: -1964790317100013472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_186
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 425
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d667f137e0fb8a330800000000000000
+      internalID: 3722435160803604077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_187
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 428
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee79ff6bd32dcfee0800000000000000
+      internalID: -1225873836046575634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_188
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 420
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b95102aa0ca872f0800000000000000
+      internalID: -974840157658064461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_189
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 421
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44337f735073e780800000000000000
+      internalID: -8654950554953108404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_190
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ecfaadfd3b6ae10800000000000000
+      internalID: 2208650441299840594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_191
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 404
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2784f863dba342890800000000000000
+      internalID: -7483792096444331918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_192
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51933023220edb70800000000000000
+      internalID: 8925573861382263132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_193
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 408
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07ef234947176480800000000000000
+      internalID: -8906124134674602226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_194
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 414
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c31d4359f5fb00800000000000000
+      internalID: 861869039882060920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_195
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 402
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf20b3ba02a4ed2e0800000000000000
+      internalID: -2099158872135892229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_196
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 418
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0db6bd9aace1f90800000000000000
+      internalID: -6980919541498130187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_197
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 416
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f902226ab18db0330800000000000000
+      internalID: 3678271133941112991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_198
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 419
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b856720fae02280800000000000000
+      internalID: -9069991332350162045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_199
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc39972cc29e8c460800000000000000
+      internalID: 7262310777585505227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_200
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 404
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2013ce8d7ce7be990800000000000000
+      internalID: -7355646169576623870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_201
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 412
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ce74ff5435e58f0800000000000000
+      internalID: -549910544391869409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_202
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 415
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be447ea9a8d2bd00800000000000000
+      internalID: 987089491635490486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_203
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 396
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e910a78f7f7893210800000000000000
+      internalID: 1313230265450627486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_204
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 412
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d75b1e53dcdf390800000000000000
+      internalID: -7782838949722620610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_205
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 412
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3710f6d89facf80800000000000000
+      internalID: -8085375795142233159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_206
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 411
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7399d01798816220800000000000000
+      internalID: 2477411452434617211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_207
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 408
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e499566e9d8b1e040800000000000000
+      internalID: 4675221134200117582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_208
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 398
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63024050b12b29200800000000000000
+      internalID: 185406363793629238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_209
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 409
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f78048f9b888100800000000000000
+      internalID: 110491708101787530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_210
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 397
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e95a2ed25f23b50800000000000000
+      internalID: 6571584383711813123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_211
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 406
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9c9cd491ab5fb90800000000000000
+      internalID: -7208651010694592072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_212
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 400
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6b1a63eba693df0800000000000000
+      internalID: -200011343248378125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_213
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 405
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a35ca5b66202e0800000000000000
+      internalID: -2161051940718140744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_214
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cb36122d3df8be0800000000000000
+      internalID: -1472725653670085496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_215
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 400
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e1f0d5e646743d0800000000000000
+      internalID: -3222496583189848570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_216
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 401
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b96714164e9b0ff0800000000000000
+      internalID: -68787345472132681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_217
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 395
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb9c8f68d501d9c0800000000000000
+      internalID: -3904332974810948684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_218
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 401
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4c74df0169a5f00800000000000000
+      internalID: 1106361658185860319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_219
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 389
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6856e6cffcf8a2940800000000000000
+      internalID: 5272184437246682502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_220
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 393
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307a58a91647315c0800000000000000
+      internalID: -4245922061127145725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_221
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 391
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f54f2b1fed3ae00800000000000000
+      internalID: 1054931867405672246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_222
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 389
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975cc44e2a62d7630800000000000000
+      internalID: 3926336931193734521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_223
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 328
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aab8648690e064c0800000000000000
+      internalID: -4296187107440280926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_224
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 399
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a7e2cdd15afd30800000000000000
+      internalID: 4465971993390851268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_225
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 387
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f96a7929782a8c00800000000000000
+      internalID: 903579176093247985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_226
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 398
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee960064d43becf0800000000000000
+      internalID: -222025669875949843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_227
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 378
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583111561d8d2df70800000000000000
+      internalID: 9210662581781468037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_228
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 380
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72656da2d5e3994c0800000000000000
+      internalID: -4280321400967375321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_229
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 384
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7de8c1dd4de52020800000000000000
+      internalID: 2316518501839859071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_230
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 386
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b71f5f69d46a410800000000000000
+      internalID: 1487962037659204399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_231
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 383
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d763f76d57b3ab7a0800000000000000
+      internalID: -6360706146411530627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_232
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 380
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ae499bb8be2b90800000000000000
+      internalID: -7264666033031567802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_233
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 386
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5482a499385da5500800000000000000
+      internalID: 385855479282804805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_234
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 381
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42857624ad8d9fd40800000000000000
+      internalID: 5618760442049943588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_235
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 361
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6908411ac076750800000000000000
+      internalID: 6298016489874167543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_236
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 365
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d549b020e4a48f0800000000000000
+      internalID: -555545833335661169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_237
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 369
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50250a433ec899f10800000000000000
+      internalID: 2277005994080883205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_238
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 374
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed248ce66f4a76aa0800000000000000
+      internalID: -6167779786333076770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_239
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 371
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5965a4f123fd86470800000000000000
+      internalID: 8388199712343873173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_240
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 357
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03e812e87cffe150800000000000000
+      internalID: 5904215232625566476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_241
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cbaa014cbd8fad0800000000000000
+      internalID: -2668141144077321178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_242
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 346
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03566ccbfbd5e9650800000000000000
+      internalID: 6241529211669341488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_243
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 360
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7071b0cd55a5f0800000000000000
+      internalID: -746087081067905950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_244
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 301
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4248e52aa5d01ee70800000000000000
+      internalID: 9142603401461138468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_245
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 203
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bba5d45a8ffdea20800000000000000
+      internalID: 3093409488667257782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_246
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 180
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c915dbee7946d00800000000000000
+      internalID: 965063271798381698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_247
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbcd8ba989d69940800000000000000
+      internalID: 5302664796587281335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_248
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9af639b33799f410800000000000000
+      internalID: 1511405398366026394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_249
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 166
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df07182087264f020800000000000000
+      internalID: 2374631171108729085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_250
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 163
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a29dfc96eb35070800000000000000
+      internalID: 8094022316982872680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_251
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 167
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e1234c3b5ed6e90800000000000000
+      internalID: -7030710883001950661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_252
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 173
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957a7e0356aaea070800000000000000
+      internalID: 8119614529784489817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_253
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 165
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb76e19db2290aae0800000000000000
+      internalID: -1540070355536812098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_254
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 136
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce5c498ee868f9f0800000000000000
+      internalID: -434481990326264120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_255
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 155
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51025dd9ccde0b440800000000000000
+      internalID: 4949717453557276693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_256
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 146
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58bb1b6a3acbfea0800000000000000
+      internalID: -5837850139701823397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_257
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 89
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb716f5335def6b00800000000000000
+      internalID: 824138198475478972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_258
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 147
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d907eb738672e6fa0800000000000000
+      internalID: -5805659541068681059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_259
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 151
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d029214a71763a50800000000000000
+      internalID: 6500507882049052886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_260
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 156
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdac77f6e9e85d6c0800000000000000
+      internalID: -4119229473034351908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_261
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 136
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df15cea31910c3eb0800000000000000
+      internalID: -4738910984630152707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_262
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 137
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a789ac8818ae29a0800000000000000
+      internalID: -6255878008978438232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_263
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 139
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2612145f4fc71bfd0800000000000000
+      internalID: -2327942140845285022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_264
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 142
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659f9b8f94fb4f570800000000000000
+      internalID: 8499628721181423958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_265
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d164f24d884b7590800000000000000
+      internalID: -7675461368371977776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_266
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 142
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548e9fced4259d4b0800000000000000
+      internalID: -5415206582294550459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_267
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 73
+        width: 120
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e8636a54045c860800000000000000
+      internalID: 7549511018242018891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_268
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0977abebdeceb08d0800000000000000
+      internalID: -2878947030922004592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_269
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c52b811c6ebf0540800000000000000
+      internalID: 4976405484627764674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_270
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 129
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5343a773587c51e10800000000000000
+      internalID: 2167858170624095285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_271
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 132
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301c2320279573130800000000000000
+      internalID: 3546401577775579395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_272
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 124
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac7810691fb3a00800000000000000
+      internalID: 737448590578272866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_273
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a65919db7cc10c0800000000000000
+      internalID: -4603585102074254820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_274
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 103
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b72ba322e501880800000000000000
+      internalID: -8642304183817307384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_275
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 109
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae045bf19b3d9ab0800000000000000
+      internalID: -4999774513138495830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_276
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 82
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a5ce2edeec74360800000000000000
+      internalID: 7153914054211033758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_277
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e3b40d8f7c92880800000000000000
+      internalID: -8635150939045806438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_278
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 45
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f79a6b968d178480800000000000000
+      internalID: -8897110074876848135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_279
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 64
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8e58abf9e458960800000000000000
+      internalID: 7603569993821055151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_280
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 16
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1d83ddf6926f2b0800000000000000
+      internalID: -5551203930257960515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_281
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 35
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de44a244565e71ac0800000000000000
+      internalID: -3884383930485685011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_282
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 6
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e63d7bc9bd9fbf0800000000000000
+      internalID: -289959234843218402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallBug_Run_5_283
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 16
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664647743cbc71b10800000000000000
+      internalID: 1952253003066270822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TallBug_Run_5_0: -4506460793951601689
+      TallBug_Run_5_1: 1769639554440215563
+      TallBug_Run_5_10: -5328515884903542614
+      TallBug_Run_5_100: 1511666533439543556
+      TallBug_Run_5_101: 2417048546293041243
+      TallBug_Run_5_102: 8505023942491955497
+      TallBug_Run_5_103: 7680830026601370788
+      TallBug_Run_5_104: 1096631494591097655
+      TallBug_Run_5_105: 4550741155300749120
+      TallBug_Run_5_106: -8009110772290985477
+      TallBug_Run_5_107: 5672502863962276546
+      TallBug_Run_5_108: -3198973431821875707
+      TallBug_Run_5_109: -931001217747054528
+      TallBug_Run_5_11: -6132861622682283261
+      TallBug_Run_5_110: 7850438516173560591
+      TallBug_Run_5_111: -202913561113876028
+      TallBug_Run_5_112: 3723738164359626284
+      TallBug_Run_5_113: 407043978846042400
+      TallBug_Run_5_114: 6414524574564361467
+      TallBug_Run_5_115: -7874532274889107830
+      TallBug_Run_5_116: 2170853602715600173
+      TallBug_Run_5_117: -4484265604619428142
+      TallBug_Run_5_118: -5822947738937478054
+      TallBug_Run_5_119: 6105842452618015707
+      TallBug_Run_5_12: 63609314838621545
+      TallBug_Run_5_120: -3275863474447210213
+      TallBug_Run_5_121: -623495753375199972
+      TallBug_Run_5_122: 3488438060222422677
+      TallBug_Run_5_123: 7599011677055294526
+      TallBug_Run_5_124: -3096160367618069154
+      TallBug_Run_5_125: 980294083668749842
+      TallBug_Run_5_126: -6477893343363924373
+      TallBug_Run_5_127: -6759078351836283569
+      TallBug_Run_5_128: -8540497120896684474
+      TallBug_Run_5_129: 6670549353066612052
+      TallBug_Run_5_13: -4711460264502058470
+      TallBug_Run_5_130: -7051749415980148396
+      TallBug_Run_5_131: -7744930281391895717
+      TallBug_Run_5_132: -686366069257438919
+      TallBug_Run_5_133: 1349317505167803667
+      TallBug_Run_5_134: 6878215573655977475
+      TallBug_Run_5_135: -3499695023112372350
+      TallBug_Run_5_136: -5711442244840796281
+      TallBug_Run_5_137: 40450873103294022
+      TallBug_Run_5_138: 3947523224433928145
+      TallBug_Run_5_139: -2107159000628638568
+      TallBug_Run_5_14: 614698903102050738
+      TallBug_Run_5_140: 4914569022611571905
+      TallBug_Run_5_141: -7585794945935461328
+      TallBug_Run_5_142: 3491663987120640869
+      TallBug_Run_5_143: 2195348445064560134
+      TallBug_Run_5_144: 7083688586797553159
+      TallBug_Run_5_145: -8302942752412042593
+      TallBug_Run_5_146: -9081396610883125893
+      TallBug_Run_5_147: 2563601149956647167
+      TallBug_Run_5_148: -8844136704807990111
+      TallBug_Run_5_149: -5635009630446894664
+      TallBug_Run_5_15: 6684570448287122338
+      TallBug_Run_5_150: -6501988118690175823
+      TallBug_Run_5_151: -34306169531280065
+      TallBug_Run_5_152: -578022108787607550
+      TallBug_Run_5_153: -9050237763217607951
+      TallBug_Run_5_154: -8729367790418353010
+      TallBug_Run_5_155: -7111118279958648645
+      TallBug_Run_5_156: -5241681350457718583
+      TallBug_Run_5_157: -7460931291911378447
+      TallBug_Run_5_158: 1111909665810717318
+      TallBug_Run_5_159: 5861979037782465077
+      TallBug_Run_5_16: 639950098511679350
+      TallBug_Run_5_160: -7010047559826512945
+      TallBug_Run_5_161: -3862802994672800348
+      TallBug_Run_5_162: -6732977503069279374
+      TallBug_Run_5_163: -5015044983519780428
+      TallBug_Run_5_164: -1941444885379306940
+      TallBug_Run_5_165: -7721195490899031773
+      TallBug_Run_5_166: -7057833988325630407
+      TallBug_Run_5_167: -8813535514400244044
+      TallBug_Run_5_168: -5329510183834383422
+      TallBug_Run_5_169: 1380195723399963775
+      TallBug_Run_5_17: 2909863642993981290
+      TallBug_Run_5_170: -7721126323520716210
+      TallBug_Run_5_171: -8256185357709391816
+      TallBug_Run_5_172: -2647801525810101522
+      TallBug_Run_5_173: 9196650825018323011
+      TallBug_Run_5_174: -4861865651227186578
+      TallBug_Run_5_175: -6359755551222515095
+      TallBug_Run_5_176: 2870175024067293255
+      TallBug_Run_5_177: -2819778974799725915
+      TallBug_Run_5_178: -4444165440581516197
+      TallBug_Run_5_179: 4453978883664705005
+      TallBug_Run_5_18: -3553729057119272428
+      TallBug_Run_5_180: 5152892621325101957
+      TallBug_Run_5_181: 1267332846163550773
+      TallBug_Run_5_182: 7320556027738785567
+      TallBug_Run_5_183: 1064512445546616650
+      TallBug_Run_5_184: 1912866020515860174
+      TallBug_Run_5_185: -1964790317100013472
+      TallBug_Run_5_186: 3722435160803604077
+      TallBug_Run_5_187: -1225873836046575634
+      TallBug_Run_5_188: -974840157658064461
+      TallBug_Run_5_189: -8654950554953108404
+      TallBug_Run_5_19: 5162854940436132140
+      TallBug_Run_5_190: 2208650441299840594
+      TallBug_Run_5_191: -7483792096444331918
+      TallBug_Run_5_192: 8925573861382263132
+      TallBug_Run_5_193: -8906124134674602226
+      TallBug_Run_5_194: 861869039882060920
+      TallBug_Run_5_195: -2099158872135892229
+      TallBug_Run_5_196: -6980919541498130187
+      TallBug_Run_5_197: 3678271133941112991
+      TallBug_Run_5_198: -9069991332350162045
+      TallBug_Run_5_199: 7262310777585505227
+      TallBug_Run_5_2: 3271640352100762872
+      TallBug_Run_5_20: 5501446394461968379
+      TallBug_Run_5_200: -7355646169576623870
+      TallBug_Run_5_201: -549910544391869409
+      TallBug_Run_5_202: 987089491635490486
+      TallBug_Run_5_203: 1313230265450627486
+      TallBug_Run_5_204: -7782838949722620610
+      TallBug_Run_5_205: -8085375795142233159
+      TallBug_Run_5_206: 2477411452434617211
+      TallBug_Run_5_207: 4675221134200117582
+      TallBug_Run_5_208: 185406363793629238
+      TallBug_Run_5_209: 110491708101787530
+      TallBug_Run_5_21: 520248185254343054
+      TallBug_Run_5_210: 6571584383711813123
+      TallBug_Run_5_211: -7208651010694592072
+      TallBug_Run_5_212: -200011343248378125
+      TallBug_Run_5_213: -2161051940718140744
+      TallBug_Run_5_214: -1472725653670085496
+      TallBug_Run_5_215: -3222496583189848570
+      TallBug_Run_5_216: -68787345472132681
+      TallBug_Run_5_217: -3904332974810948684
+      TallBug_Run_5_218: 1106361658185860319
+      TallBug_Run_5_219: 5272184437246682502
+      TallBug_Run_5_22: 5279562586910233298
+      TallBug_Run_5_220: -4245922061127145725
+      TallBug_Run_5_221: 1054931867405672246
+      TallBug_Run_5_222: 3926336931193734521
+      TallBug_Run_5_223: -4296187107440280926
+      TallBug_Run_5_224: 4465971993390851268
+      TallBug_Run_5_225: 903579176093247985
+      TallBug_Run_5_226: -222025669875949843
+      TallBug_Run_5_227: 9210662581781468037
+      TallBug_Run_5_228: -4280321400967375321
+      TallBug_Run_5_229: 2316518501839859071
+      TallBug_Run_5_23: 4688608226789042087
+      TallBug_Run_5_230: 1487962037659204399
+      TallBug_Run_5_231: -6360706146411530627
+      TallBug_Run_5_232: -7264666033031567802
+      TallBug_Run_5_233: 385855479282804805
+      TallBug_Run_5_234: 5618760442049943588
+      TallBug_Run_5_235: 6298016489874167543
+      TallBug_Run_5_236: -555545833335661169
+      TallBug_Run_5_237: 2277005994080883205
+      TallBug_Run_5_238: -6167779786333076770
+      TallBug_Run_5_239: 8388199712343873173
+      TallBug_Run_5_24: -2301997425379390882
+      TallBug_Run_5_240: 5904215232625566476
+      TallBug_Run_5_241: -2668141144077321178
+      TallBug_Run_5_242: 6241529211669341488
+      TallBug_Run_5_243: -746087081067905950
+      TallBug_Run_5_244: 9142603401461138468
+      TallBug_Run_5_245: 3093409488667257782
+      TallBug_Run_5_246: 965063271798381698
+      TallBug_Run_5_247: 5302664796587281335
+      TallBug_Run_5_248: 1511405398366026394
+      TallBug_Run_5_249: 2374631171108729085
+      TallBug_Run_5_25: -7244428894884396174
+      TallBug_Run_5_250: 8094022316982872680
+      TallBug_Run_5_251: -7030710883001950661
+      TallBug_Run_5_252: 8119614529784489817
+      TallBug_Run_5_253: -1540070355536812098
+      TallBug_Run_5_254: -434481990326264120
+      TallBug_Run_5_255: 4949717453557276693
+      TallBug_Run_5_256: -5837850139701823397
+      TallBug_Run_5_257: 824138198475478972
+      TallBug_Run_5_258: -5805659541068681059
+      TallBug_Run_5_259: 6500507882049052886
+      TallBug_Run_5_26: -8360505343371849839
+      TallBug_Run_5_260: -4119229473034351908
+      TallBug_Run_5_261: -4738910984630152707
+      TallBug_Run_5_262: -6255878008978438232
+      TallBug_Run_5_263: -2327942140845285022
+      TallBug_Run_5_264: 8499628721181423958
+      TallBug_Run_5_265: -7675461368371977776
+      TallBug_Run_5_266: -5415206582294550459
+      TallBug_Run_5_267: 7549511018242018891
+      TallBug_Run_5_268: -2878947030922004592
+      TallBug_Run_5_269: 4976405484627764674
+      TallBug_Run_5_27: 8019499555587633422
+      TallBug_Run_5_270: 2167858170624095285
+      TallBug_Run_5_271: 3546401577775579395
+      TallBug_Run_5_272: 737448590578272866
+      TallBug_Run_5_273: -4603585102074254820
+      TallBug_Run_5_274: -8642304183817307384
+      TallBug_Run_5_275: -4999774513138495830
+      TallBug_Run_5_276: 7153914054211033758
+      TallBug_Run_5_277: -8635150939045806438
+      TallBug_Run_5_278: -8897110074876848135
+      TallBug_Run_5_279: 7603569993821055151
+      TallBug_Run_5_28: -3618731629858828332
+      TallBug_Run_5_280: -5551203930257960515
+      TallBug_Run_5_281: -3884383930485685011
+      TallBug_Run_5_282: -289959234843218402
+      TallBug_Run_5_283: 1952253003066270822
+      TallBug_Run_5_29: 5402629422985350967
+      TallBug_Run_5_3: -2343644179490985318
+      TallBug_Run_5_30: 3508851118494574686
+      TallBug_Run_5_31: -4928807848875000029
+      TallBug_Run_5_32: -3613775550312149317
+      TallBug_Run_5_33: 515536320385556307
+      TallBug_Run_5_34: -1266941237031967964
+      TallBug_Run_5_35: 3816818269601736749
+      TallBug_Run_5_36: 8698302292873287733
+      TallBug_Run_5_37: -1528029848644982235
+      TallBug_Run_5_38: -8581574101939120681
+      TallBug_Run_5_39: -4661776920553658132
+      TallBug_Run_5_4: -6173281464501165933
+      TallBug_Run_5_40: -6702460704906307704
+      TallBug_Run_5_41: 8953679262854723055
+      TallBug_Run_5_42: 4329205446005526438
+      TallBug_Run_5_43: -5594086976632518213
+      TallBug_Run_5_44: 1561698571056921958
+      TallBug_Run_5_45: -9157334573716351060
+      TallBug_Run_5_46: -3871030691926339396
+      TallBug_Run_5_47: 831990217182801421
+      TallBug_Run_5_48: -131462190332182835
+      TallBug_Run_5_49: -680436368003388037
+      TallBug_Run_5_5: 3089013898259577878
+      TallBug_Run_5_50: -2072470210796761448
+      TallBug_Run_5_51: -5042958105811676929
+      TallBug_Run_5_52: -7825872185776694775
+      TallBug_Run_5_53: 6689231941142192478
+      TallBug_Run_5_54: -1478970442402995856
+      TallBug_Run_5_55: 6896654691258994088
+      TallBug_Run_5_56: 3415923737699541287
+      TallBug_Run_5_57: 3052013566602726409
+      TallBug_Run_5_58: -6824921668822884448
+      TallBug_Run_5_59: 8700717023771153214
+      TallBug_Run_5_6: 7415167117139904743
+      TallBug_Run_5_60: 444969123546947646
+      TallBug_Run_5_61: 1327661158120762486
+      TallBug_Run_5_62: 2944508033039647988
+      TallBug_Run_5_63: -518126638544734284
+      TallBug_Run_5_64: 4277219113003795679
+      TallBug_Run_5_65: -3458351957580556780
+      TallBug_Run_5_66: 3779370831700697776
+      TallBug_Run_5_67: -1597529054589322429
+      TallBug_Run_5_68: 7755219728098479893
+      TallBug_Run_5_69: 1277781762650585609
+      TallBug_Run_5_7: 7996496019903370124
+      TallBug_Run_5_70: 7329163523544338470
+      TallBug_Run_5_71: 7162885996568113736
+      TallBug_Run_5_72: -13636408531040066
+      TallBug_Run_5_73: -4739963499547042714
+      TallBug_Run_5_74: 6349162315032569073
+      TallBug_Run_5_75: 7244454661010579223
+      TallBug_Run_5_76: -4721957105407226983
+      TallBug_Run_5_77: 3770070694068283700
+      TallBug_Run_5_78: 2277202449283550762
+      TallBug_Run_5_79: -1583969543693211348
+      TallBug_Run_5_8: 3450913967728401293
+      TallBug_Run_5_80: 2550699575919345803
+      TallBug_Run_5_81: 7617464933977563875
+      TallBug_Run_5_82: -6244453646512259070
+      TallBug_Run_5_83: -7818609533824115641
+      TallBug_Run_5_84: -566485638276296355
+      TallBug_Run_5_85: -6679690465348456940
+      TallBug_Run_5_86: -4913864751255999510
+      TallBug_Run_5_87: 8493963371957414192
+      TallBug_Run_5_88: 2393510291267201290
+      TallBug_Run_5_89: 4890222167161308200
+      TallBug_Run_5_9: 5950138660265432576
+      TallBug_Run_5_90: 3219309566238815078
+      TallBug_Run_5_91: -4421438057350793495
+      TallBug_Run_5_92: -4030297314707151121
+      TallBug_Run_5_93: -4964152346395373309
+      TallBug_Run_5_94: 5777781337532604319
+      TallBug_Run_5_95: -5142257765879282751
+      TallBug_Run_5_96: 4290394812492881727
+      TallBug_Run_5_97: 174333856641314043
+      TallBug_Run_5_98: -3605091070441443057
+      TallBug_Run_5_99: -8259547526735074353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
