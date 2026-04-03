@@ -541,7 +541,7 @@ MonoBehaviour:
   playerInput: {fileID: 444368546}
   ImagePrefab: {fileID: 2741493211955160789, guid: 24da102b6a1e69945a6211f955cc87d7, type: 3}
   galleryContainer: {fileID: 1470868709}
-  galleryScrollSpeed: 100
+  galleryScrollSpeed: 150
 --- !u!114 &444368546
 MonoBehaviour:
   m_ObjectHideFlags: 0
