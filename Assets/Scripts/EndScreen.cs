@@ -49,7 +49,7 @@ public class EndScreen : MonoBehaviour
         //ButtonPressCountJSONService.SaveLastRunCounts();
         //ButtonPressCountJSONService.pressCounts = new ButtonPressCountData();
 
-        if (scoreText != null) scoreText.text = "Score: " + ScoreManager.score;
+        if (scoreText != null) scoreText.text = "Score: " + ScoreManager.score.ToString("N0");
 
         foreach (var s in ImageCapture.SavedSprites)
         {

@@ -13,12 +13,19 @@ public class ScoreManager : MonoBehaviour
         if (scoreText != null) scoreText.text = "Score: " + score;
     }
 
+    /// <summary>
+    ///  Adds score to the score text.
+    /// </summary>
+    /// <param name="points"> number of points to add. </param>
     public void AddScore(int points)
     {
         score += points;
-        if (scoreText != null) scoreText.text = "Score: " + score;
+        if (scoreText != null) scoreText.text = "Score: " + score.ToString("N0");
     }
 
+    /// <summary>
+    /// Resets the current score to zero.
+    /// </summary>
     public void ResetScore()
     {
         score = 0;
