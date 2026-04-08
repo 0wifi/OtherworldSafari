@@ -1,3 +1,5 @@
+using NUnit.Framework.Constraints;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
@@ -8,6 +10,8 @@ public class StartScreen : MonoBehaviour
     [SerializeField] private ScoreManager scoreManager;
     [SerializeField] private MotorManager motorManager;
     private InputAction startGame;
+
+    public FadeToBlack fadeToBlack;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -25,7 +29,14 @@ public class StartScreen : MonoBehaviour
 
     private void StartGame_started(InputAction.CallbackContext obj)
     {
-        SceneManager.LoadScene("Playable");
         motorManager.MotorSound();
+        StartCoroutine(FadeThenLoad());
+    }
+    
+    public IEnumerator FadeThenLoad()
+    {
+        fadeToBlack.StartFade();
+        yield return new WaitForSeconds(1.2f);
+        SceneManager.LoadScene("Playable");
     }
 }

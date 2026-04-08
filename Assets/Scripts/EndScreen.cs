@@ -20,10 +20,14 @@ public class EndScreen : MonoBehaviour
 
     public float galleryScrollSpeed = 1.0f;
 
+    public FadeToBlack fadeToBlack;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
     void Start()
     {
+        fadeToBlack.StartFade();
+
         playerInput.currentActionMap.Enable();
 
         returnToStart = playerInput.currentActionMap.FindAction("ReturnToStart");
@@ -76,7 +80,7 @@ public class EndScreen : MonoBehaviour
         galleryDuplicate.GetComponent<HorizontalLayoutGroup>().enabled = true;
         yield return null;
         RectTransform rectTransform = galleryContainer.GetComponent<RectTransform>();
-        print(rectTransform.rect.width);
+        //print(rectTransform.rect.width);
         galleryDuplicate.GetComponent<RectTransform>().anchoredPosition = new Vector2(rectTransform.rect.x + rectTransform.rect.width, rectTransform.position.y);
         yield return null;
 

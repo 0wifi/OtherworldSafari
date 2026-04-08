@@ -8,10 +8,24 @@ using UnityEngine.SceneManagement;
 
 public class GameEnding : MonoBehaviour
 {
+    public FadeToBlack startFade;
+    public FadeToBlack endFade;
+
+    private void Start()
+    {
+        startFade.StartFade();
+    }
 
     public IEnumerator GameTimer()
     {
         yield return new WaitForSeconds(120);
+        StartCoroutine(FadeThenLoad());
+    }
+
+    public IEnumerator FadeThenLoad()
+    {
+        endFade.StartFade();
+        yield return new WaitForSeconds(1.2f);
         SceneManager.LoadScene("EndScene");
     }
 
@@ -27,6 +41,6 @@ public class GameEnding : MonoBehaviour
     [Button]
     private void SkipToEnd()
     {
-        SceneManager.LoadScene("EndScene");
+        StartCoroutine(FadeThenLoad());
     }
 }
