@@ -322,7 +322,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.4
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -680,7 +680,7 @@ MonoBehaviour:
   playerInput: {fileID: 444368546}
   ImagePrefab: {fileID: 2741493211955160789, guid: 24da102b6a1e69945a6211f955cc87d7, type: 3}
   galleryContainer: {fileID: 1470868709}
-  galleryScrollSpeed: 150
+  galleryScrollSpeed: 200
   fadeToBlack: {fileID: 669259212}
 --- !u!114 &444368546
 MonoBehaviour:

@@ -1862,6 +1862,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5405204543505442141, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: ImageSaveCooldown
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5405204543505442141, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: animalControlObject
       value: 
       objectReference: {fileID: 635399925}
@@ -1927,7 +1931,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[0].spawnHeightRange.y
-      value: -1.5
+      value: -1.75
       objectReference: {fileID: 0}
     - target: {fileID: 7682387851556471029, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: foliagePieces.Array.data[1].spawnHeightRange.x
