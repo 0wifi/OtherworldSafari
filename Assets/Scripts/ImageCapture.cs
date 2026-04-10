@@ -61,7 +61,7 @@ public class ImageCapture : MonoBehaviour
         // render the camera into the RenderTexture
         cam.Render();
 
-        RenderTexture lowResTexture = RenderTexture.GetTemporary(rt.width / 4, rt.height / 4, 0);
+        RenderTexture lowResTexture = RenderTexture.GetTemporary(rt.width / 6, rt.height / 6, 0);
 
         // downsample
         Graphics.Blit(rt, lowResTexture);
