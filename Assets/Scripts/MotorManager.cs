@@ -22,6 +22,7 @@ public class MotorManager : MonoBehaviour
     }
     public void MotorSound()
     {
+        motorSource = GetComponent<AudioSource>();
         motorSource.PlayOneShot(motorSFX); 
     }
 }
