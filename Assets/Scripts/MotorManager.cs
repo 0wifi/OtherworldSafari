@@ -17,9 +17,11 @@ public class MotorManager : MonoBehaviour
             instance = this;
         else
             Destroy(gameObject);
+
+        motorSource = GetComponent<AudioSource>();
     }
     public void MotorSound()
     {
-        motorSource.PlayOneShot(motorSFX);
+        motorSource.PlayOneShot(motorSFX); 
     }
 }
