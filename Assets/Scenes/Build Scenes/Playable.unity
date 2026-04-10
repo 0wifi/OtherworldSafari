@@ -1809,6 +1809,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1402594623603246818, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: -7129315869133983305, guid: 735a99e490cc99b4fbb87b05fedc0168, type: 2}
     - target: {fileID: 3012044465076265160, guid: e34985535d15f6f4fa6a080cb32a4d38, type: 3}
       propertyPath: endFade
       value: 
