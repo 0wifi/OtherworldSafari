@@ -51,7 +51,7 @@ public class PlayerControls : MonoBehaviour
     public float comboScoreModifier = 0.1f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    void Awake()
     {
         scoreManager = GameObject.FindFirstObjectByType<ScoreManager>();
 

@@ -9,10 +9,9 @@ public class MotorManager : MonoBehaviour
 
     private void Awake()
     {
-        motorSource.Stop();
+        DontDestroyOnLoad(gameObject);
 
         //prevent duplicated audio source
-        DontDestroyOnLoad(gameObject);
         if (instance == null)
             instance = this;
         else
@@ -22,7 +21,7 @@ public class MotorManager : MonoBehaviour
     }
     public void MotorSound()
     {
-        motorSource = GetComponent<AudioSource>();
+        motorSource = instance?.GetComponent<AudioSource>();
         motorSource.PlayOneShot(motorSFX); 
     }
 }

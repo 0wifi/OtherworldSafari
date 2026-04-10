@@ -1,5 +1,6 @@
 using NUnit.Framework.Constraints;
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
@@ -14,7 +15,7 @@ public class StartScreen : MonoBehaviour
     public FadeToBlack fadeToBlack;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private void Awake()
     {
         playerInput = FindAnyObjectByType<PlayerInput>();
         motorManager = FindAnyObjectByType<MotorManager>();
@@ -26,14 +27,11 @@ public class StartScreen : MonoBehaviour
         startGame.started += StartGame_started;
 
         Cursor.visible = false;
-
-        //scoreManager.ResetScore();
     }
-
     private void StartGame_started(InputAction.CallbackContext obj)
     {
         motorManager.MotorSound();
-        this?.StartCoroutine(FadeThenLoad());
+        StartCoroutine(FadeThenLoad());
     }
     
     public IEnumerator FadeThenLoad()
