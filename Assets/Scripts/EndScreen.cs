@@ -110,4 +110,9 @@ public class EndScreen : MonoBehaviour
             yield return null;
         }
     }
+
+    private void OnDestroy()
+    {
+        returnToStart.started -= ReturnToStart_started;
+    }
 }

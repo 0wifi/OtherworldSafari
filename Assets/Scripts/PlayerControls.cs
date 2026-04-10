@@ -243,4 +243,17 @@ public class PlayerControls : MonoBehaviour
         ButtonPressCountJSONService.pressCounts.TOP_LEFT_COUNT++;
     }
     #endregion
+
+    private void OnDestroy()
+    {
+        topLeft.started -= TopLeft_started;
+        topMiddle.started -= TopMiddle_started;
+        topRight.started -= TopRight_started;
+        centerLeft.started -= CenterLeft_started;
+        centerMiddle.started -= CenterMiddle_started;
+        centerRight.started -= CenterRight_started;
+        bottomLeft.started -= BottomLeft_started;
+        bottomMiddle.started -= BottomMiddle_started;
+        bottomRight.started -= BottomRight_started;
+    }
 }

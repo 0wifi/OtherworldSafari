@@ -8,7 +8,7 @@ public class StartScreen : MonoBehaviour
 {
     [SerializeField] private PlayerInput playerInput;
     [SerializeField] private ScoreManager scoreManager;
-    [SerializeField] private MotorManager motorManager;
+    private MotorManager motorManager;
     private InputAction startGame;
 
     public FadeToBlack fadeToBlack;
@@ -16,6 +16,8 @@ public class StartScreen : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        motorManager = FindAnyObjectByType<MotorManager>();
+
         playerInput.currentActionMap.Enable();
 
         startGame = playerInput.currentActionMap.FindAction("StartGame");
@@ -30,7 +32,7 @@ public class StartScreen : MonoBehaviour
     private void StartGame_started(InputAction.CallbackContext obj)
     {
         motorManager.MotorSound();
-        StartCoroutine(FadeThenLoad());
+        this?.StartCoroutine(FadeThenLoad());
     }
     
     public IEnumerator FadeThenLoad()
@@ -38,5 +40,10 @@ public class StartScreen : MonoBehaviour
         fadeToBlack.StartFade();
         yield return new WaitForSeconds(1.2f);
         SceneManager.LoadScene("Playable");
+    }
+
+    private void OnDestroy()
+    {
+        startGame.started -= StartGame_started;
     }
 }
